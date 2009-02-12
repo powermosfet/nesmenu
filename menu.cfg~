@@ -1,8 +1,0 @@
-menu: NESmenu
-<db>
-menu: Setup
-func: Rescan collection: db.rescan()
-func: Setup gamepad: init.joysetup()
-.menu
-func: Exit: init.exit()
-.menu
