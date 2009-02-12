@@ -1,0 +1,6 @@
+itemsPerPage: 10
+font: "SVBasicManual.ttf"
+textSize: 40
+bgColor: (0, 0, 0)
+textColor: (0, 255, 0)
+linespace: 1

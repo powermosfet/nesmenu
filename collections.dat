@@ -1,0 +1,13441 @@
+(lp0
+ccopy_reg
+_reconstructor
+p1
+(cmenu
+Menu
+p2
+c__builtin__
+dict
+p3
+(dp4
+I0
+g1
+(g2
+g3
+(dp5
+tp6
+Rp7
+(dp8
+S'start'
+p9
+I0
+sS'starred'
+p10
+I00
+sS'selected'
+p11
+I0
+sS'fontHeight'
+p12
+I43
+sS'name'
+p13
+S'Favourites'
+p14
+sbsI1
+g1
+(cmenu
+ColMenu
+p15
+g3
+(dp16
+S'Renegade (U)'
+p17
+g1
+(cmenu
+Exe
+p18
+c__builtin__
+object
+p19
+Ntp20
+Rp21
+(dp22
+g10
+I00
+sS'command'
+p23
+S'mednafen "/home/asmund/Dokumenter/NES/Renegade (U).zip"'
+p24
+sg13
+g17
+sbsS'Die Hard (U)'
+p25
+g1
+(g18
+g19
+Ntp26
+Rp27
+(dp28
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Die Hard (U).zip"'
+p29
+sg13
+g25
+sbsS'Luigi Bros V0.4 (SMB1 Hack)'
+p30
+g1
+(g18
+g19
+Ntp31
+Rp32
+(dp33
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Luigi Bros V0.4 (SMB1 Hack).zip"'
+p34
+sg13
+g30
+sbsS'Gryzor (J) [h1][T+Eng1.0_MadHacker]'
+p35
+g1
+(g18
+g19
+Ntp36
+Rp37
+(dp38
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Gryzor (J) [h1][T+Eng1.0_MadHacker].zip"'
+p39
+sg13
+g35
+sbsS'Rocketeer, The (U)'
+p40
+g1
+(g18
+g19
+Ntp41
+Rp42
+(dp43
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rocketeer, The (U).zip"'
+p44
+sg13
+g40
+sbsS'Palamedes (U)'
+p45
+g1
+(g18
+g19
+Ntp46
+Rp47
+(dp48
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Palamedes (U).zip"'
+p49
+sg13
+g45
+sbsS'Dragon Power (U)'
+p50
+g1
+(g18
+g19
+Ntp51
+Rp52
+(dp53
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dragon Power (U).zip"'
+p54
+sg13
+g50
+sbsS'Rad Racer 2 (U) [!]'
+p55
+g1
+(g18
+g19
+Ntp56
+Rp57
+(dp58
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rad Racer 2 (U) [!].zip"'
+p59
+sg13
+g55
+sbsS'Final Fantasy Another Story (Hack)'
+p60
+g1
+(g18
+g19
+Ntp61
+Rp62
+(dp63
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Final Fantasy Another Story (Hack).zip"'
+p64
+sg13
+g60
+sbsS'Last Starfighter, The (U)'
+p65
+g1
+(g18
+g19
+Ntp66
+Rp67
+(dp68
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Last Starfighter, The (U).zip"'
+p69
+sg13
+g65
+sbsS'Super Ninja Bros (SMB1 Hack)'
+p70
+g1
+(g18
+g19
+Ntp71
+Rp72
+(dp73
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Super Ninja Bros (SMB1 Hack).zip"'
+p74
+sg13
+g70
+sbsS'Mega Man 7 [p1]'
+p75
+g1
+(g18
+g19
+Ntp76
+Rp77
+(dp78
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mega Man 7 [p1].zip"'
+p79
+sg13
+g75
+sbsS'Adventures of Dino Riki, The (U)'
+p80
+g1
+(g18
+g19
+Ntp81
+Rp82
+(dp83
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Adventures of Dino Riki, The (U).zip"'
+p84
+sg13
+g80
+sbsS'Glass Bros (SMB1 Hack)'
+p85
+g1
+(g18
+g19
+Ntp86
+Rp87
+(dp88
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Glass Bros (SMB1 Hack).zip"'
+p89
+sg13
+g85
+sbsS'Metal Fighter (U)'
+p90
+g1
+(g18
+g19
+Ntp91
+Rp92
+(dp93
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Metal Fighter (U).zip"'
+p94
+sg13
+g90
+sbsS'Millipede (U)'
+p95
+g1
+(g18
+g19
+Ntp96
+Rp97
+(dp98
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Millipede (U).zip"'
+p99
+sg13
+g95
+sbsS'Spider-Man - Return of the Sinister Six (U) [!]'
+p100
+g1
+(g18
+g19
+Ntp101
+Rp102
+(dp103
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Spider-Man - Return of the Sinister Six (U) [!].zip"'
+p104
+sg13
+g100
+sbsS'Wolverine (U)'
+p105
+g1
+(g18
+g19
+Ntp106
+Rp107
+(dp108
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wolverine (U).zip"'
+p109
+sg13
+g105
+sbsS'Chicken Bros (SMB1 Hack)'
+p110
+g1
+(g18
+g19
+Ntp111
+Rp112
+(dp113
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Chicken Bros (SMB1 Hack).zip"'
+p114
+sg13
+g110
+sbsS'Evil Super Mario Bros 3 (SMB3 Hack)'
+p115
+g1
+(g18
+g19
+Ntp116
+Rp117
+(dp118
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 3/Evil Super Mario Bros 3 (SMB3 Hack).zip"'
+p119
+sg13
+g115
+sbsS"Castlevania II - Simon's Quest (U)"
+p120
+g1
+(g18
+g19
+Ntp121
+Rp122
+(dp123
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Castlevania II - Simon\'s Quest (U).zip"'
+p124
+sg13
+g120
+sbsS'Game Genie (Unl) [o1]'
+p125
+g1
+(g18
+g19
+Ntp126
+Rp127
+(dp128
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Game Genie/Game Genie (Unl) [o1].zip"'
+p129
+sg13
+g125
+sbsS'Mickey Mousecapade (U)'
+p130
+g1
+(g18
+g19
+Ntp131
+Rp132
+(dp133
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mickey Mousecapade (U).zip"'
+p134
+sg13
+g130
+sbsS"Mike Tyson's Punch-Out!! (U) (PRG1)"
+p135
+g1
+(g18
+g19
+Ntp136
+Rp137
+(dp138
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Mike Tyson\'s Punch-Out!! (U) (PRG1).zip"'
+p139
+sg13
+g135
+sbsS'M.C. Kids (U)'
+p140
+g1
+(g18
+g19
+Ntp141
+Rp142
+(dp143
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/M.C. Kids (U).zip"'
+p144
+sg13
+g140
+sbsS'Low G Man (U) [!]'
+p145
+g1
+(g18
+g19
+Ntp146
+Rp147
+(dp148
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Low G Man (U) [!].zip"'
+p149
+sg13
+g145
+sbsS'Duck Tales (U)'
+p150
+g1
+(g18
+g19
+Ntp151
+Rp152
+(dp153
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Duck Tales (U).zip"'
+p154
+sg13
+g150
+sbsS'Barbie (U) (Rev X)'
+p155
+g1
+(g18
+g19
+Ntp156
+Rp157
+(dp158
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Barbie (U) (Rev X).zip"'
+p159
+sg13
+g155
+sbsS'Gotcha! - The Sport! (U)'
+p160
+g1
+(g18
+g19
+Ntp161
+Rp162
+(dp163
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Gotcha! - The Sport! (U).zip"'
+p164
+sg13
+g160
+sbsS'Legend of Zelda, The (GC)'
+p165
+g1
+(g18
+g19
+Ntp166
+Rp167
+(dp168
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Legend of Zelda, The (GC).zip"'
+p169
+sg13
+g165
+sbsS'Secret Scout (Unl)'
+p170
+g1
+(g18
+g19
+Ntp171
+Rp172
+(dp173
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Secret Scout (Unl).zip"'
+p174
+sg13
+g170
+sbsS'Trojan (U)'
+p175
+g1
+(g18
+g19
+Ntp176
+Rp177
+(dp178
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Trojan (U).zip"'
+p179
+sg13
+g175
+sbsS'POW - Prisoners of War (U)'
+p180
+g1
+(g18
+g19
+Ntp181
+Rp182
+(dp183
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/POW - Prisoners of War (U).zip"'
+p184
+sg13
+g180
+sbsS'Great Waldo Search, The (U)'
+p185
+g1
+(g18
+g19
+Ntp186
+Rp187
+(dp188
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Great Waldo Search, The (U).zip"'
+p189
+sg13
+g185
+sbsS'T&C Surf Design (U)'
+p190
+g1
+(g18
+g19
+Ntp191
+Rp192
+(dp193
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/T&C Surf Design (U).zip"'
+p194
+sg13
+g190
+sbsS"John Elway's Quarterback (U)"
+p195
+g1
+(g18
+g19
+Ntp196
+Rp197
+(dp198
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/John Elway\'s Quarterback (U).zip"'
+p199
+sg13
+g195
+sbsS'Hollywood Squares (U)'
+p200
+g1
+(g18
+g19
+Ntp201
+Rp202
+(dp203
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Hollywood Squares (U).zip"'
+p204
+sg13
+g200
+sbsS'Gauntlet (U) [!]'
+p205
+g1
+(g18
+g19
+Ntp206
+Rp207
+(dp208
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Gauntlet (U) [!].zip"'
+p209
+sg13
+g205
+sbsS'Rollerblade Racer (U)'
+p210
+g1
+(g18
+g19
+Ntp211
+Rp212
+(dp213
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rollerblade Racer (U).zip"'
+p214
+sg13
+g210
+sbsS'Donkey Kong Country 4 (Unl) [!]'
+p215
+g1
+(g18
+g19
+Ntp216
+Rp217
+(dp218
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Donkey Kong Country 4 (Unl) [!].zip"'
+p219
+sg13
+g215
+sbsS'Sirius Mario Bros 3 (SMB1 Hack)'
+p220
+g1
+(g18
+g19
+Ntp221
+Rp222
+(dp223
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Sirius Mario Bros 3 (SMB1 Hack).zip"'
+p224
+sg13
+g220
+sbsS'Clash at Demonhead (U)'
+p225
+g1
+(g18
+g19
+Ntp226
+Rp227
+(dp228
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Clash at Demonhead (U).zip"'
+p229
+sg13
+g225
+sbsS'Batman (U)'
+p230
+g1
+(g18
+g19
+Ntp231
+Rp232
+(dp233
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Batman (U).zip"'
+p234
+sg13
+g230
+sbsS'Blue Marlin, The (U)'
+p235
+g1
+(g18
+g19
+Ntp236
+Rp237
+(dp238
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Blue Marlin, The (U).zip"'
+p239
+sg13
+g235
+sbsS"King's Quest V (U)"
+p240
+g1
+(g18
+g19
+Ntp241
+Rp242
+(dp243
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/King\'s Quest V (U).zip"'
+p244
+sg13
+g240
+sbsS'Robodemons (U)'
+p245
+g1
+(g18
+g19
+Ntp246
+Rp247
+(dp248
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Robodemons (U).zip"'
+p249
+sg13
+g245
+sbsS'Vindicators (U)'
+p250
+g1
+(g18
+g19
+Ntp251
+Rp252
+(dp253
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Vindicators (U).zip"'
+p254
+sg13
+g250
+sbsS'Dr. Chaos (U)'
+p255
+g1
+(g18
+g19
+Ntp256
+Rp257
+(dp258
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dr. Chaos (U).zip"'
+p259
+sg13
+g255
+sbsS'Duck Tales 2 (U)'
+p260
+g1
+(g18
+g19
+Ntp261
+Rp262
+(dp263
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Duck Tales 2 (U).zip"'
+p264
+sg13
+g260
+sbsS'Sword Master (U)'
+p265
+g1
+(g18
+g19
+Ntp266
+Rp267
+(dp268
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sword Master (U).zip"'
+p269
+sg13
+g265
+sbsS'Bomberman II (U)'
+p270
+g1
+(g18
+g19
+Ntp271
+Rp272
+(dp273
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bomberman II (U).zip"'
+p274
+sg13
+g270
+sbsS'Strider (U)'
+p275
+g1
+(g18
+g19
+Ntp276
+Rp277
+(dp278
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Strider (U).zip"'
+p279
+sg13
+g275
+sbsS'Flying Dragon - The Secret Scroll (U)'
+p280
+g1
+(g18
+g19
+Ntp281
+Rp282
+(dp283
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Flying Dragon - The Secret Scroll (U).zip"'
+p284
+sg13
+g280
+sbsS'Perfect Fit (U)'
+p285
+g1
+(g18
+g19
+Ntp286
+Rp287
+(dp288
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Perfect Fit (U).zip"'
+p289
+sg13
+g285
+sbsS'Adventures of Tom Sawyer (U)'
+p290
+g1
+(g18
+g19
+Ntp291
+Rp292
+(dp293
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Adventures of Tom Sawyer (U).zip"'
+p294
+sg13
+g290
+sbsS'Xevious (U)'
+p295
+g1
+(g18
+g19
+Ntp296
+Rp297
+(dp298
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Xevious (U).zip"'
+p299
+sg13
+g295
+sbsS'Hottaaman no Chitei Tanken (J) [T+Eng1.0_SixFeetUnder]'
+p300
+g1
+(g18
+g19
+Ntp301
+Rp302
+(dp303
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Hottaaman no Chitei Tanken (J) [T+Eng1.0_SixFeetUnder].zip"'
+p304
+sg13
+g300
+sbsS'Ultimate Air Combat (U)'
+p305
+g1
+(g18
+g19
+Ntp306
+Rp307
+(dp308
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ultimate Air Combat (U).zip"'
+p309
+sg13
+g305
+sbsS'Cyberball (U)'
+p310
+g1
+(g18
+g19
+Ntp311
+Rp312
+(dp313
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Cyberball (U).zip"'
+p314
+sg13
+g310
+sbsS'Bad News Baseball (U)'
+p315
+g1
+(g18
+g19
+Ntp316
+Rp317
+(dp318
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Bad News Baseball (U).zip"'
+p319
+sg13
+g315
+sbsS'Sirius Mario Bros 1 (SMB1 Hack)'
+p320
+g1
+(g18
+g19
+Ntp321
+Rp322
+(dp323
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Sirius Mario Bros 1 (SMB1 Hack).zip"'
+p324
+sg13
+g320
+sbsS'Castlequest (U)'
+p325
+g1
+(g18
+g19
+Ntp326
+Rp327
+(dp328
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Castlequest (U).zip"'
+p329
+sg13
+g325
+sbsS"Barker Bill's Trick Shooting (U)"
+p330
+g1
+(g18
+g19
+Ntp331
+Rp332
+(dp333
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Barker Bill\'s Trick Shooting (U).zip"'
+p334
+sg13
+g330
+sbsS'Final Fantasy Mario (Mario Bros Hack)'
+p335
+g1
+(g18
+g19
+Ntp336
+Rp337
+(dp338
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Final Fantasy Mario (Mario Bros Hack).zip"'
+p339
+sg13
+g335
+sbsS'Censored Mario (Mario Bros Hack)'
+p340
+g1
+(g18
+g19
+Ntp341
+Rp342
+(dp343
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Censored Mario (Mario Bros Hack).zip"'
+p344
+sg13
+g340
+sbsS"Linus Spacehead's Cosmic Crusade (Aladdin) (U)"
+p345
+g1
+(g18
+g19
+Ntp346
+Rp347
+(dp348
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Linus Spacehead\'s Cosmic Crusade (Aladdin) (U).zip"'
+p349
+sg13
+g345
+sbsS'M.U.L.E. (U)'
+p350
+g1
+(g18
+g19
+Ntp351
+Rp352
+(dp353
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/M.U.L.E. (U).zip"'
+p354
+sg13
+g350
+sbsS'Championship Pool (U)'
+p355
+g1
+(g18
+g19
+Ntp356
+Rp357
+(dp358
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Championship Pool (U).zip"'
+p359
+sg13
+g355
+sbsS'Afro Mario Bros (Mario Bros Hack)'
+p360
+g1
+(g18
+g19
+Ntp361
+Rp362
+(dp363
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Afro Mario Bros (Mario Bros Hack).zip"'
+p364
+sg13
+g360
+sbsS'Thundercade (U)'
+p365
+g1
+(g18
+g19
+Ntp366
+Rp367
+(dp368
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Thundercade (U).zip"'
+p369
+sg13
+g365
+sbsS'Metal Storm (U)'
+p370
+g1
+(g18
+g19
+Ntp371
+Rp372
+(dp373
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Metal Storm (U).zip"'
+p374
+sg13
+g370
+sbsS'Side Pocket (U)'
+p375
+g1
+(g18
+g19
+Ntp376
+Rp377
+(dp378
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Side Pocket (U).zip"'
+p379
+sg13
+g375
+sbsS'Lunar Pool (U)'
+p380
+g1
+(g18
+g19
+Ntp381
+Rp382
+(dp383
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Lunar Pool (U).zip"'
+p384
+sg13
+g380
+sbsS'Legacy of the Wizard (U)'
+p385
+g1
+(g18
+g19
+Ntp386
+Rp387
+(dp388
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Legacy of the Wizard (U).zip"'
+p389
+sg13
+g385
+sbsS'Mega Man 4 (U)'
+p390
+g1
+(g18
+g19
+Ntp391
+Rp392
+(dp393
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mega Man 4 (U).zip"'
+p394
+sg13
+g390
+sbsS'Game Genie Decoder by Chris Covell (PD)'
+p395
+g1
+(g18
+g19
+Ntp396
+Rp397
+(dp398
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Game Genie/Game Genie Decoder by Chris Covell (PD).zip"'
+p399
+sg13
+g395
+sbsS'Knight Rider (U)'
+p400
+g1
+(g18
+g19
+Ntp401
+Rp402
+(dp403
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Knight Rider (U).zip"'
+p404
+sg13
+g400
+sbsS'Lemmings (U)'
+p405
+g1
+(g18
+g19
+Ntp406
+Rp407
+(dp408
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Lemmings (U).zip"'
+p409
+sg13
+g405
+sbsS'Hook (U)'
+p410
+g1
+(g18
+g19
+Ntp411
+Rp412
+(dp413
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Hook (U).zip"'
+p414
+sg13
+g410
+sbsS'Venus Senki (J) [T+Eng2.0_J2e]'
+p415
+g1
+(g18
+g19
+Ntp416
+Rp417
+(dp418
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Venus Senki (J) [T+Eng2.0_J2e].zip"'
+p419
+sg13
+g415
+sbsS'Trog (U)'
+p420
+g1
+(g18
+g19
+Ntp421
+Rp422
+(dp423
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Trog (U).zip"'
+p424
+sg13
+g420
+sbsS'Castlevania (U) (PRG1)'
+p425
+g1
+(g18
+g19
+Ntp426
+Rp427
+(dp428
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Castlevania (U) (PRG1).zip"'
+p429
+sg13
+g425
+sbsS"Rockin' Kats (U) [!]"
+p430
+g1
+(g18
+g19
+Ntp431
+Rp432
+(dp433
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rockin\' Kats (U) [!].zip"'
+p434
+sg13
+g430
+sbsS'Bases Loaded 4 (U)'
+p435
+g1
+(g18
+g19
+Ntp436
+Rp437
+(dp438
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Bases Loaded 4 (U).zip"'
+p439
+sg13
+g435
+sbsS'Seicross (U)'
+p440
+g1
+(g18
+g19
+Ntp441
+Rp442
+(dp443
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Seicross (U).zip"'
+p444
+sg13
+g440
+sbsS'TwinBee 3 - Poko Poko Dai Maou (J) [T+Eng1.02_Demiforce]'
+p445
+g1
+(g18
+g19
+Ntp446
+Rp447
+(dp448
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/TwinBee 3 - Poko Poko Dai Maou (J) [T+Eng1.02_Demiforce].zip"'
+p449
+sg13
+g445
+sbsS'Platoon (U) (PRG0)'
+p450
+g1
+(g18
+g19
+Ntp451
+Rp452
+(dp453
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Platoon (U) (PRG0).zip"'
+p454
+sg13
+g450
+sbsS'Super Spy Hunter (U)'
+p455
+g1
+(g18
+g19
+Ntp456
+Rp457
+(dp458
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super Spy Hunter (U).zip"'
+p459
+sg13
+g455
+sbsS'Loopz (U)'
+p460
+g1
+(g18
+g19
+Ntp461
+Rp462
+(dp463
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Loopz (U).zip"'
+p464
+sg13
+g460
+sbsS'SMB2 Fun (Thru 3-1) (SMB2 Hack)'
+p465
+g1
+(g18
+g19
+Ntp466
+Rp467
+(dp468
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/SMB2 Fun (Thru 3-1) (SMB2 Hack).zip"'
+p469
+sg13
+g465
+sbsS"Tagin' Dragon (U)"
+p470
+g1
+(g18
+g19
+Ntp471
+Rp472
+(dp473
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Tagin\' Dragon (U).zip"'
+p474
+sg13
+g470
+sbsS'Ice Climber (U) [!]'
+p475
+g1
+(g18
+g19
+Ntp476
+Rp477
+(dp478
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ice Climber (U) [!].zip"'
+p479
+sg13
+g475
+sbsS'Star Wars (U)'
+p480
+g1
+(g18
+g19
+Ntp481
+Rp482
+(dp483
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Star Wars (U).zip"'
+p484
+sg13
+g480
+sbsS'WWF Steel Cage Challenge (U)'
+p485
+g1
+(g18
+g19
+Ntp486
+Rp487
+(dp488
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/WWF Steel Cage Challenge (U).zip"'
+p489
+sg13
+g485
+sbsS'Dragon Quest VI (Unl) [p1]'
+p490
+g1
+(g18
+g19
+Ntp491
+Rp492
+(dp493
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dragon Quest VI (Unl) [p1].zip"'
+p494
+sg13
+g490
+sbsS'Sqoon (U)'
+p495
+g1
+(g18
+g19
+Ntp496
+Rp497
+(dp498
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sqoon (U).zip"'
+p499
+sg13
+g495
+sbsS'Final Fantasy Plus (FF1 Hack)'
+p500
+g1
+(g18
+g19
+Ntp501
+Rp502
+(dp503
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Final Fantasy Plus (FF1 Hack).zip"'
+p504
+sg13
+g500
+sbsS'Mario Zelda (Mario Bros Hack)'
+p505
+g1
+(g18
+g19
+Ntp506
+Rp507
+(dp508
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Mario Zelda (Mario Bros Hack).zip"'
+p509
+sg13
+g505
+sbsS'Mario Bros. Classic (E) [!]'
+p510
+g1
+(g18
+g19
+Ntp511
+Rp512
+(dp513
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Mario Bros. Classic (E) [!].zip"'
+p514
+sg13
+g510
+sbsS"Zelda's Embrace - A New Legend (Zelda Hack)"
+p515
+g1
+(g18
+g19
+Ntp516
+Rp517
+(dp518
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Zelda\'s Embrace - A New Legend (Zelda Hack).zip"'
+p519
+sg13
+g515
+sbsS'Dr. Mario Crystal Clear (Dr. Mario Hack)'
+p520
+g1
+(g18
+g19
+Ntp521
+Rp522
+(dp523
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/Dr. Mario/Dr. Mario Crystal Clear (Dr. Mario Hack).zip"'
+p524
+sg13
+g520
+sbsS'Captain America and The Avengers (U)'
+p525
+g1
+(g18
+g19
+Ntp526
+Rp527
+(dp528
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Captain America and The Avengers (U).zip"'
+p529
+sg13
+g525
+sbsS'Pinbot (U) [!]'
+p530
+g1
+(g18
+g19
+Ntp531
+Rp532
+(dp533
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pinbot (U) [!].zip"'
+p534
+sg13
+g530
+sbsS'SouthPark Zelda (Zelda Hack)'
+p535
+g1
+(g18
+g19
+Ntp536
+Rp537
+(dp538
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/SouthPark Zelda (Zelda Hack).zip"'
+p539
+sg13
+g535
+sbsS"Fire 'n Ice (U)"
+p540
+g1
+(g18
+g19
+Ntp541
+Rp542
+(dp543
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Fire \'n Ice (U).zip"'
+p544
+sg13
+g540
+sbsS'Metroid Mario (Hack)'
+p545
+g1
+(g18
+g19
+Ntp546
+Rp547
+(dp548
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Metroid Mario (Hack).zip"'
+p549
+sg13
+g545
+sbsS'Crystal Mines (U)'
+p550
+g1
+(g18
+g19
+Ntp551
+Rp552
+(dp553
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Crystal Mines (U).zip"'
+p554
+sg13
+g550
+sbsS'WWF King of the Ring (U)'
+p555
+g1
+(g18
+g19
+Ntp556
+Rp557
+(dp558
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/WWF King of the Ring (U).zip"'
+p559
+sg13
+g555
+sbsS'Dragon Warrior III (U)'
+p560
+g1
+(g18
+g19
+Ntp561
+Rp562
+(dp563
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dragon Warrior III (U).zip"'
+p564
+sg13
+g560
+sbsS'Dragon Fighter (U)'
+p565
+g1
+(g18
+g19
+Ntp566
+Rp567
+(dp568
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dragon Fighter (U).zip"'
+p569
+sg13
+g565
+sbsS'Cybernoid - The Fighting Machine (U)'
+p570
+g1
+(g18
+g19
+Ntp571
+Rp572
+(dp573
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Cybernoid - The Fighting Machine (U).zip"'
+p574
+sg13
+g570
+sbsS'Teenage Mutant Ninja Turtles II - The Arcade Game (U) [!]'
+p575
+g1
+(g18
+g19
+Ntp576
+Rp577
+(dp578
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Teenage Mutant Ninja Turtles II - The Arcade Game (U) [!].zip"'
+p579
+sg13
+g575
+sbsS'Millenium Mario v1.0 FINAL (SMB1 Hack)'
+p580
+g1
+(g18
+g19
+Ntp581
+Rp582
+(dp583
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Millenium Mario v1.0 FINAL (SMB1 Hack).zip"'
+p584
+sg13
+g580
+sbsS'Fushigi no Umi no Nadia (J) [T+Eng1.3_J2e]'
+p585
+g1
+(g18
+g19
+Ntp586
+Rp587
+(dp588
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Fushigi no Umi no Nadia (J) [T+Eng1.3_J2e].zip"'
+p589
+sg13
+g585
+sbsS'Ultima - Exodus (U)'
+p590
+g1
+(g18
+g19
+Ntp591
+Rp592
+(dp593
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ultima - Exodus (U).zip"'
+p594
+sg13
+g590
+sbsS'Super Sprint (U)'
+p595
+g1
+(g18
+g19
+Ntp596
+Rp597
+(dp598
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super Sprint (U).zip"'
+p599
+sg13
+g595
+sbsS'Journey to Silius (U)'
+p600
+g1
+(g18
+g19
+Ntp601
+Rp602
+(dp603
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Journey to Silius (U).zip"'
+p604
+sg13
+g600
+sbsS'Fatal Fury 2 (As)'
+p605
+g1
+(g18
+g19
+Ntp606
+Rp607
+(dp608
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Fatal Fury 2 (As).zip"'
+p609
+sg13
+g605
+sbsS'Project Super Mario Bros (SMB1 Hack)'
+p610
+g1
+(g18
+g19
+Ntp611
+Rp612
+(dp613
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Project Super Mario Bros (SMB1 Hack).zip"'
+p614
+sg13
+g610
+sbsS'Pac-Man (U) (Tengen) [!]'
+p615
+g1
+(g18
+g19
+Ntp616
+Rp617
+(dp618
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pac Man Roms/Pac-Man (U) (Tengen) [!].zip"'
+p619
+sg13
+g615
+sbsS'Spelunker (U) [!]'
+p620
+g1
+(g18
+g19
+Ntp621
+Rp622
+(dp623
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Spelunker (U) [!].zip"'
+p624
+sg13
+g620
+sbsS'Stadium Events (U) [!]'
+p625
+g1
+(g18
+g19
+Ntp626
+Rp627
+(dp628
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Stadium Events (U) [!].zip"'
+p629
+sg13
+g625
+sbsS'Ghostbusters (U)'
+p630
+g1
+(g18
+g19
+Ntp631
+Rp632
+(dp633
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ghostbusters (U).zip"'
+p634
+sg13
+g630
+sbsS'Totally Rad (U)'
+p635
+g1
+(g18
+g19
+Ntp636
+Rp637
+(dp638
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Totally Rad (U).zip"'
+p639
+sg13
+g635
+sbsS'Battle Chess (U)'
+p640
+g1
+(g18
+g19
+Ntp641
+Rp642
+(dp643
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Battle Chess (U).zip"'
+p644
+sg13
+g640
+sbsS'Wizardry - Proving Grounds of the Mad Overlord (U)'
+p645
+g1
+(g18
+g19
+Ntp646
+Rp647
+(dp648
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wizardry - Proving Grounds of the Mad Overlord (U).zip"'
+p649
+sg13
+g645
+sbsS'Digger - The Legend of the Lost City (U)'
+p650
+g1
+(g18
+g19
+Ntp651
+Rp652
+(dp653
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Digger - The Legend of the Lost City (U).zip"'
+p654
+sg13
+g650
+sbsS'G.I. Joe - The Atlantis Factor (U)'
+p655
+g1
+(g18
+g19
+Ntp656
+Rp657
+(dp658
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/G.I. Joe - The Atlantis Factor (U).zip"'
+p659
+sg13
+g655
+sbsS'Hyper Mario (SMB1 Hack)'
+p660
+g1
+(g18
+g19
+Ntp661
+Rp662
+(dp663
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Hyper Mario (SMB1 Hack).zip"'
+p664
+sg13
+g660
+sbsS'Zombie Hunter (J) [T+Eng1.01_KingMike]'
+p665
+g1
+(g18
+g19
+Ntp666
+Rp667
+(dp668
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zombie Hunter (J) [T+Eng1.01_KingMike].zip"'
+p669
+sg13
+g665
+sbsS'Lethal Weapon (U)'
+p670
+g1
+(g18
+g19
+Ntp671
+Rp672
+(dp673
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Lethal Weapon (U).zip"'
+p674
+sg13
+g670
+sbsS'Dragon Quest III (J) [T+Eng0.0111_Spinner_8]'
+p675
+g1
+(g18
+g19
+Ntp676
+Rp677
+(dp678
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dragon Quest III (J) [T+Eng0.0111_Spinner_8].zip"'
+p679
+sg13
+g675
+sbsS'M.U.S.C.L.E. (U)'
+p680
+g1
+(g18
+g19
+Ntp681
+Rp682
+(dp683
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/M.U.S.C.L.E. (U).zip"'
+p684
+sg13
+g680
+sbsS'BMF Vs Happy Pee Pee Head (SMB1 PRG0 Hack)'
+p685
+g1
+(g18
+g19
+Ntp686
+Rp687
+(dp688
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/BMF Vs Happy Pee Pee Head (SMB1 PRG0 Hack).zip"'
+p689
+sg13
+g685
+sbsS'Carnage (SMB1 Hack)'
+p690
+g1
+(g18
+g19
+Ntp691
+Rp692
+(dp693
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Carnage (SMB1 Hack).zip"'
+p694
+sg13
+g690
+sbsS'Tag Team Wrestling (U)'
+p695
+g1
+(g18
+g19
+Ntp696
+Rp697
+(dp698
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Tag Team Wrestling (U).zip"'
+p699
+sg13
+g695
+sbsS'Excitebike (JU) [!]'
+p700
+g1
+(g18
+g19
+Ntp701
+Rp702
+(dp703
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Excitebike (JU) [!].zip"'
+p704
+sg13
+g700
+sbsS"Bucky O'Hare (U) [!]"
+p705
+g1
+(g18
+g19
+Ntp706
+Rp707
+(dp708
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bucky O\'Hare (U) [!].zip"'
+p709
+sg13
+g705
+sbsS'Dinobot Bros (SMB2 Hack)'
+p710
+g1
+(g18
+g19
+Ntp711
+Rp712
+(dp713
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 2/Dinobot Bros (SMB2 Hack).zip"'
+p714
+sg13
+g710
+sbsS'Magmax (U)'
+p715
+g1
+(g18
+g19
+Ntp716
+Rp717
+(dp718
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Magmax (U).zip"'
+p719
+sg13
+g715
+sbsS'Chubby Cherub (U)'
+p720
+g1
+(g18
+g19
+Ntp721
+Rp722
+(dp723
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Chubby Cherub (U).zip"'
+p724
+sg13
+g720
+sbsS'Pinball (JU)'
+p725
+g1
+(g18
+g19
+Ntp726
+Rp727
+(dp728
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pinball (JU).zip"'
+p729
+sg13
+g725
+sbsS'Solitaire (U)'
+p730
+g1
+(g18
+g19
+Ntp731
+Rp732
+(dp733
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Solitaire (U).zip"'
+p734
+sg13
+g730
+sbsS"Wario's Woods (U) [!]"
+p735
+g1
+(g18
+g19
+Ntp736
+Rp737
+(dp738
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wario\'s Woods (U) [!].zip"'
+p739
+sg13
+g735
+sbsS'BreakThru (U)'
+p740
+g1
+(g18
+g19
+Ntp741
+Rp742
+(dp743
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/BreakThru (U).zip"'
+p744
+sg13
+g740
+sbsS'Maniac Mansion (U)'
+p745
+g1
+(g18
+g19
+Ntp746
+Rp747
+(dp748
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Maniac Mansion (U).zip"'
+p749
+sg13
+g745
+sbsS'SMB1 Hard Type (SMB1 Hack) [a2]'
+p750
+g1
+(g18
+g19
+Ntp751
+Rp752
+(dp753
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/SMB1 Hard Type (SMB1 Hack) [a2].zip"'
+p754
+sg13
+g750
+sbsS'Kamikaze Mario DX Regular Edition (SMB1 Hack)'
+p755
+g1
+(g18
+g19
+Ntp756
+Rp757
+(dp758
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Kamikaze Mario DX Regular Edition (SMB1 Hack).zip"'
+p759
+sg13
+g755
+sbsS'Mr. Happyface (Ms Pac-Man Hack)'
+p760
+g1
+(g18
+g19
+Ntp761
+Rp762
+(dp763
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pac Man Roms/Mr. Happyface (Ms Pac-Man Hack).zip"'
+p764
+sg13
+g760
+sbsS'Little Samson (U)'
+p765
+g1
+(g18
+g19
+Ntp766
+Rp767
+(dp768
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Little Samson (U).zip"'
+p769
+sg13
+g765
+sbsS'Uninvited (U)'
+p770
+g1
+(g18
+g19
+Ntp771
+Rp772
+(dp773
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Uninvited (U).zip"'
+p774
+sg13
+g770
+sbsS'Thunderbirds (U)'
+p775
+g1
+(g18
+g19
+Ntp776
+Rp777
+(dp778
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Thunderbirds (U).zip"'
+p779
+sg13
+g775
+sbsS"T&C 2 - Thrilla's Surfari (U)"
+p780
+g1
+(g18
+g19
+Ntp781
+Rp782
+(dp783
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/T&C 2 - Thrilla\'s Surfari (U).zip"'
+p784
+sg13
+g780
+sbsS'Menace Beach (U)'
+p785
+g1
+(g18
+g19
+Ntp786
+Rp787
+(dp788
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Menace Beach (U).zip"'
+p789
+sg13
+g785
+sbsS'Monster Bros (SMB1 Hack)'
+p790
+g1
+(g18
+g19
+Ntp791
+Rp792
+(dp793
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Monster Bros (SMB1 Hack).zip"'
+p794
+sg13
+g790
+sbsS'Commando (U)'
+p795
+g1
+(g18
+g19
+Ntp796
+Rp797
+(dp798
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Commando (U).zip"'
+p799
+sg13
+g795
+sbsS'Boulder Dash (U)'
+p800
+g1
+(g18
+g19
+Ntp801
+Rp802
+(dp803
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Boulder Dash (U).zip"'
+p804
+sg13
+g800
+sbsS'Super Luigi Bros (SMB1 Hack)'
+p805
+g1
+(g18
+g19
+Ntp806
+Rp807
+(dp808
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Super Luigi Bros (SMB1 Hack).zip"'
+p809
+sg13
+g805
+sbsS'Ultimate Stuntman (U)'
+p810
+g1
+(g18
+g19
+Ntp811
+Rp812
+(dp813
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ultimate Stuntman (U).zip"'
+p814
+sg13
+g810
+sbsS"Jimmy Connor's Tennis (U)"
+p815
+g1
+(g18
+g19
+Ntp816
+Rp817
+(dp818
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Jimmy Connor\'s Tennis (U).zip"'
+p819
+sg13
+g815
+sbsS'Freedom Force (U) [!]'
+p820
+g1
+(g18
+g19
+Ntp821
+Rp822
+(dp823
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Freedom Force (U) [!].zip"'
+p824
+sg13
+g820
+sbsS'Tekken 2 [p1]'
+p825
+g1
+(g18
+g19
+Ntp826
+Rp827
+(dp828
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Tekken 2 [p1].zip"'
+p829
+sg13
+g825
+sbsS'Blades of Steel (U)'
+p830
+g1
+(g18
+g19
+Ntp831
+Rp832
+(dp833
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Blades of Steel (U).zip"'
+p834
+sg13
+g830
+sbsS'Target Renegade (U)'
+p835
+g1
+(g18
+g19
+Ntp836
+Rp837
+(dp838
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Target Renegade (U).zip"'
+p839
+sg13
+g835
+sbsS'Mafat Conspiracy - Golgo 13 (U)'
+p840
+g1
+(g18
+g19
+Ntp841
+Rp842
+(dp843
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mafat Conspiracy - Golgo 13 (U).zip"'
+p844
+sg13
+g840
+sbsS'Golf (VS)'
+p845
+g1
+(g18
+g19
+Ntp846
+Rp847
+(dp848
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Golf (VS).zip"'
+p849
+sg13
+g845
+sbsS'Guerrilla War (U)'
+p850
+g1
+(g18
+g19
+Ntp851
+Rp852
+(dp853
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Guerrilla War (U).zip"'
+p854
+sg13
+g850
+sbsS'Rally Bike (U)'
+p855
+g1
+(g18
+g19
+Ntp856
+Rp857
+(dp858
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Rally Bike (U).zip"'
+p859
+sg13
+g855
+sbsS'Romance of the Three Kingdoms (U)'
+p860
+g1
+(g18
+g19
+Ntp861
+Rp862
+(dp863
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Romance of the Three Kingdoms (U).zip"'
+p864
+sg13
+g860
+sbsS'3-D Battles of World Runner, The (U)'
+p865
+g1
+(g18
+g19
+Ntp866
+Rp867
+(dp868
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/3-D Battles of World Runner, The (U).zip"'
+p869
+sg13
+g865
+sbsS'Deathbots (U)'
+p870
+g1
+(g18
+g19
+Ntp871
+Rp872
+(dp873
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Deathbots (U).zip"'
+p874
+sg13
+g870
+sbsS'SMB3 Expert (Thru World 1) (SMB3 Hack)'
+p875
+g1
+(g18
+g19
+Ntp876
+Rp877
+(dp878
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 3/SMB3 Expert (Thru World 1) (SMB3 Hack).zip"'
+p879
+sg13
+g875
+sbsS'Smash T.V. (U) [!]'
+p880
+g1
+(g18
+g19
+Ntp881
+Rp882
+(dp883
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Smash T.V. (U) [!].zip"'
+p884
+sg13
+g880
+sbsS'Who Framed Roger Rabbit (U)'
+p885
+g1
+(g18
+g19
+Ntp886
+Rp887
+(dp888
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Who Framed Roger Rabbit (U).zip"'
+p889
+sg13
+g885
+sbsS"Dusty Diamond's All-Star Softball (U)"
+p890
+g1
+(g18
+g19
+Ntp891
+Rp892
+(dp893
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Dusty Diamond\'s All-Star Softball (U).zip"'
+p894
+sg13
+g890
+sbsS'Wally Bear and the No Gang (U)'
+p895
+g1
+(g18
+g19
+Ntp896
+Rp897
+(dp898
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wally Bear and the No Gang (U).zip"'
+p899
+sg13
+g895
+sbsS'Kamikaze V3 (SMB1 Hack)'
+p900
+g1
+(g18
+g19
+Ntp901
+Rp902
+(dp903
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Kamikaze V3 (SMB1 Hack).zip"'
+p904
+sg13
+g900
+sbsS"Bonk's Adventure (U)"
+p905
+g1
+(g18
+g19
+Ntp906
+Rp907
+(dp908
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bonk\'s Adventure (U).zip"'
+p909
+sg13
+g905
+sbsS'RoadBlasters (U)'
+p910
+g1
+(g18
+g19
+Ntp911
+Rp912
+(dp913
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/RoadBlasters (U).zip"'
+p914
+sg13
+g910
+sbsS'Gemfire (U)'
+p915
+g1
+(g18
+g19
+Ntp916
+Rp917
+(dp918
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Gemfire (U).zip"'
+p919
+sg13
+g915
+sbsS'Wizards & Warriors (U)'
+p920
+g1
+(g18
+g19
+Ntp921
+Rp922
+(dp923
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wizards & Warriors (U).zip"'
+p924
+sg13
+g920
+sbsS"Chip 'n Dale Rescue Rangers (U) [!]"
+p925
+g1
+(g18
+g19
+Ntp926
+Rp927
+(dp928
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Chip \'n Dale Rescue Rangers (U) [!].zip"'
+p929
+sg13
+g925
+sbsS'Godzilla 2 - War of the Monsters (U)'
+p930
+g1
+(g18
+g19
+Ntp931
+Rp932
+(dp933
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Godzilla 2 - War of the Monsters (U).zip"'
+p934
+sg13
+g930
+sbsS'Teenage Mutant Ninja Turtles (U) [!]'
+p935
+g1
+(g18
+g19
+Ntp936
+Rp937
+(dp938
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Teenage Mutant Ninja Turtles (U) [!].zip"'
+p939
+sg13
+g935
+sbsS'Chogga (SMB1 Hack)'
+p940
+g1
+(g18
+g19
+Ntp941
+Rp942
+(dp943
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Chogga (SMB1 Hack).zip"'
+p944
+sg13
+g940
+sbsS"Whomp'Em (U)"
+p945
+g1
+(g18
+g19
+Ntp946
+Rp947
+(dp948
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Whomp\'Em (U).zip"'
+p949
+sg13
+g945
+sbsS"Chip 'n Dale Rescue Rangers 2 (U)"
+p950
+g1
+(g18
+g19
+Ntp951
+Rp952
+(dp953
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Chip \'n Dale Rescue Rangers 2 (U).zip"'
+p954
+sg13
+g950
+sbsS'Jedi Mario Bros (SMB1 Hack)'
+p955
+g1
+(g18
+g19
+Ntp956
+Rp957
+(dp958
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Jedi Mario Bros (SMB1 Hack).zip"'
+p959
+sg13
+g955
+sbsS'Super Donkey Kong 2 [p1]'
+p960
+g1
+(g18
+g19
+Ntp961
+Rp962
+(dp963
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super Donkey Kong 2 [p1].zip"'
+p964
+sg13
+g960
+sbsS'World Games (U)'
+p965
+g1
+(g18
+g19
+Ntp966
+Rp967
+(dp968
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/World Games (U).zip"'
+p969
+sg13
+g965
+sbsS'Super Dodge Ball (U)'
+p970
+g1
+(g18
+g19
+Ntp971
+Rp972
+(dp973
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super Dodge Ball (U).zip"'
+p974
+sg13
+g970
+sbsS"Castlevania III - Dracula's Curse (U) [!]"
+p975
+g1
+(g18
+g19
+Ntp976
+Rp977
+(dp978
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Castlevania III - Dracula\'s Curse (U) [!].zip"'
+p979
+sg13
+g975
+sbsS'Ring King (U)'
+p980
+g1
+(g18
+g19
+Ntp981
+Rp982
+(dp983
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ring King (U).zip"'
+p984
+sg13
+g980
+sbsS'Pikachu Y2K (Unl)'
+p985
+g1
+(g18
+g19
+Ntp986
+Rp987
+(dp988
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pikachu Y2K (Unl).zip"'
+p989
+sg13
+g985
+sbsS'Big Nose Mario (SMB1 Hack)'
+p990
+g1
+(g18
+g19
+Ntp991
+Rp992
+(dp993
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Big Nose Mario (SMB1 Hack).zip"'
+p994
+sg13
+g990
+sbsS'Cat Man 4 (FF1 Hack)'
+p995
+g1
+(g18
+g19
+Ntp996
+Rp997
+(dp998
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Cat Man 4 (FF1 Hack).zip"'
+p999
+sg13
+g995
+sbsS"Bram Stoker's Dracula (U)"
+p1000
+g1
+(g18
+g19
+Ntp1001
+Rp1002
+(dp1003
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bram Stoker\'s Dracula (U).zip"'
+p1004
+sg13
+g1000
+sbsS'Rollerball (U)'
+p1005
+g1
+(g18
+g19
+Ntp1006
+Rp1007
+(dp1008
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rollerball (U).zip"'
+p1009
+sg13
+g1005
+sbsS'SMB3 The 2nd Adventure v6.0 (SMB3 Hack)'
+p1010
+g1
+(g18
+g19
+Ntp1011
+Rp1012
+(dp1013
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 3/SMB3 The 2nd Adventure v6.0 (SMB3 Hack).zip"'
+p1014
+sg13
+g1010
+sbsS'Jungle Book, The (U)'
+p1015
+g1
+(g18
+g19
+Ntp1016
+Rp1017
+(dp1018
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Jungle Book, The (U).zip"'
+p1019
+sg13
+g1015
+sbsS'Solstice (U)'
+p1020
+g1
+(g18
+g19
+Ntp1021
+Rp1022
+(dp1023
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Solstice (U).zip"'
+p1024
+sg13
+g1020
+sbsS'Bugs Bunny Birthday Blowout, The (U)'
+p1025
+g1
+(g18
+g19
+Ntp1026
+Rp1027
+(dp1028
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bugs Bunny Birthday Blowout, The (U).zip"'
+p1029
+sg13
+g1025
+sbsS'Super Mario Bros - Ninja Turtles (SMB1 Hack)'
+p1030
+g1
+(g18
+g19
+Ntp1031
+Rp1032
+(dp1033
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Super Mario Bros - Ninja Turtles (SMB1 Hack).zip"'
+p1034
+sg13
+g1030
+sbsS'Power Blade (U) [!]'
+p1035
+g1
+(g18
+g19
+Ntp1036
+Rp1037
+(dp1038
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Power Blade (U) [!].zip"'
+p1039
+sg13
+g1035
+sbsS'Castle of Deceit (U)'
+p1040
+g1
+(g18
+g19
+Ntp1041
+Rp1042
+(dp1043
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Castle of Deceit (U).zip"'
+p1044
+sg13
+g1040
+sbsS'Lode Runner (J) [T+Chi]'
+p1045
+g1
+(g18
+g19
+Ntp1046
+Rp1047
+(dp1048
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Lode Runner (J) [T+Chi].zip"'
+p1049
+sg13
+g1045
+sbsS'Dragon Warrior II (U)'
+p1050
+g1
+(g18
+g19
+Ntp1051
+Rp1052
+(dp1053
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dragon Warrior II (U).zip"'
+p1054
+sg13
+g1050
+sbsS'Mighty Bomb Jack (U)'
+p1055
+g1
+(g18
+g19
+Ntp1056
+Rp1057
+(dp1058
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mighty Bomb Jack (U).zip"'
+p1059
+sg13
+g1055
+sbsS'Doki Doki Panik! by MB Hacks (SMB2 Hack)'
+p1060
+g1
+(g18
+g19
+Ntp1061
+Rp1062
+(dp1063
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 2/Doki Doki Panik! by MB Hacks (SMB2 Hack).zip"'
+p1064
+sg13
+g1060
+sbsS'SMB2J+SMB1 Chars (Hack)'
+p1065
+g1
+(g18
+g19
+Ntp1066
+Rp1067
+(dp1068
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/SMB2J+SMB1 Chars (Hack).zip"'
+p1069
+sg13
+g1065
+sbsS'Al Unser Jr. Turbo Racing (U)'
+p1070
+g1
+(g18
+g19
+Ntp1071
+Rp1072
+(dp1073
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Al Unser Jr. Turbo Racing (U).zip"'
+p1074
+sg13
+g1070
+sbsS'SMB Panic! Part 5 (SMB1 Hack)'
+p1075
+g1
+(g18
+g19
+Ntp1076
+Rp1077
+(dp1078
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/SMB Panic! Part 5 (SMB1 Hack).zip"'
+p1079
+sg13
+g1075
+sbsS"Gargoyle's Quest II - The Demon Darkness (U)"
+p1080
+g1
+(g18
+g19
+Ntp1081
+Rp1082
+(dp1083
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Gargoyle\'s Quest II - The Demon Darkness (U).zip"'
+p1084
+sg13
+g1080
+sbsS'Base Wars (U)'
+p1085
+g1
+(g18
+g19
+Ntp1086
+Rp1087
+(dp1088
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Base Wars (U).zip"'
+p1089
+sg13
+g1085
+sbsS'Excite Mario Bros (SMB1 Hack)'
+p1090
+g1
+(g18
+g19
+Ntp1091
+Rp1092
+(dp1093
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Excite Mario Bros (SMB1 Hack).zip"'
+p1094
+sg13
+g1090
+sbsS'Iron Tank (U)'
+p1095
+g1
+(g18
+g19
+Ntp1096
+Rp1097
+(dp1098
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Iron Tank (U).zip"'
+p1099
+sg13
+g1095
+sbsS'Airwolf (U)'
+p1100
+g1
+(g18
+g19
+Ntp1101
+Rp1102
+(dp1103
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Airwolf (U).zip"'
+p1104
+sg13
+g1100
+sbsS'ASCII Mario (Final) (SMB1 Hack)'
+p1105
+g1
+(g18
+g19
+Ntp1106
+Rp1107
+(dp1108
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/ASCII Mario (Final) (SMB1 Hack).zip"'
+p1109
+sg13
+g1105
+sbsS'Street Fighter III [p1][!]'
+p1110
+g1
+(g18
+g19
+Ntp1111
+Rp1112
+(dp1113
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Street Fighter III [p1][!].zip"'
+p1114
+sg13
+g1110
+sbsS'Joust (U)'
+p1115
+g1
+(g18
+g19
+Ntp1116
+Rp1117
+(dp1118
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Joust (U).zip"'
+p1119
+sg13
+g1115
+sbsS'Little League Baseball - Championship Series (U)'
+p1120
+g1
+(g18
+g19
+Ntp1121
+Rp1122
+(dp1123
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Little League Baseball - Championship Series (U).zip"'
+p1124
+sg13
+g1120
+sbsS'Flying Warriors (U)'
+p1125
+g1
+(g18
+g19
+Ntp1126
+Rp1127
+(dp1128
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Flying Warriors (U).zip"'
+p1129
+sg13
+g1125
+sbsS'Abadox (U)'
+p1130
+g1
+(g18
+g19
+Ntp1131
+Rp1132
+(dp1133
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Abadox (U).zip"'
+p1134
+sg13
+g1130
+sbsS'Panic Restaurant (U)'
+p1135
+g1
+(g18
+g19
+Ntp1136
+Rp1137
+(dp1138
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Panic Restaurant (U).zip"'
+p1139
+sg13
+g1135
+sbsS"Frank's Third Super Mario Bros (SMB1 Hack)"
+p1140
+g1
+(g18
+g19
+Ntp1141
+Rp1142
+(dp1143
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/The Frank Series/Frank\'s Third Super Mario Bros (SMB1 Hack).zip"'
+p1144
+sg13
+g1140
+sbsS'Super Contra 3 (Unl) [p1]'
+p1145
+g1
+(g18
+g19
+Ntp1146
+Rp1147
+(dp1148
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super Contra 3 (Unl) [p1].zip"'
+p1149
+sg13
+g1145
+sbsS'Final Fantasy Forever (Hack)'
+p1150
+g1
+(g18
+g19
+Ntp1151
+Rp1152
+(dp1153
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Final Fantasy Forever (Hack).zip"'
+p1154
+sg13
+g1150
+sbsS'Double Dragon (U)'
+p1155
+g1
+(g18
+g19
+Ntp1156
+Rp1157
+(dp1158
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Double Dragon (U).zip"'
+p1159
+sg13
+g1155
+sbsS'720 (U)'
+p1160
+g1
+(g18
+g19
+Ntp1161
+Rp1162
+(dp1163
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/720 (U).zip"'
+p1164
+sg13
+g1160
+sbsS"Lee Trevino's Fighting Golf (U)"
+p1165
+g1
+(g18
+g19
+Ntp1166
+Rp1167
+(dp1168
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Lee Trevino\'s Fighting Golf (U).zip"'
+p1169
+sg13
+g1165
+sbsS"Mickey's Safari in Letterland (U)"
+p1170
+g1
+(g18
+g19
+Ntp1171
+Rp1172
+(dp1173
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mickey\'s Safari in Letterland (U).zip"'
+p1174
+sg13
+g1170
+sbsS'NARC (U)'
+p1175
+g1
+(g18
+g19
+Ntp1176
+Rp1177
+(dp1178
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/NARC (U).zip"'
+p1179
+sg13
+g1175
+sbsS'Superman (U)'
+p1180
+g1
+(g18
+g19
+Ntp1181
+Rp1182
+(dp1183
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Superman (U).zip"'
+p1184
+sg13
+g1180
+sbsS'Ikari Warriors (U) (PRG1) [!]'
+p1185
+g1
+(g18
+g19
+Ntp1186
+Rp1187
+(dp1188
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ikari Warriors (U) (PRG1) [!].zip"'
+p1189
+sg13
+g1185
+sbsS'Blue Shadow (E)'
+p1190
+g1
+(g18
+g19
+Ntp1191
+Rp1192
+(dp1193
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Blue Shadow (E).zip"'
+p1194
+sg13
+g1190
+sbsS"Snoopy's Silly Sports Spectacular (U)"
+p1195
+g1
+(g18
+g19
+Ntp1196
+Rp1197
+(dp1198
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Snoopy\'s Silly Sports Spectacular (U).zip"'
+p1199
+sg13
+g1195
+sbsS'Adventures of Lolo 3 (U)'
+p1200
+g1
+(g18
+g19
+Ntp1201
+Rp1202
+(dp1203
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Adventures of Lolo 3 (U).zip"'
+p1204
+sg13
+g1200
+sbsS'Robin Hood - Prince of Thieves (U)'
+p1205
+g1
+(g18
+g19
+Ntp1206
+Rp1207
+(dp1208
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Robin Hood - Prince of Thieves (U).zip"'
+p1209
+sg13
+g1205
+sbsS'Mega Man 3 (U) [!]'
+p1210
+g1
+(g18
+g19
+Ntp1211
+Rp1212
+(dp1213
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mega Man 3 (U) [!].zip"'
+p1214
+sg13
+g1210
+sbsS'Road Runner (U)'
+p1215
+g1
+(g18
+g19
+Ntp1216
+Rp1217
+(dp1218
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Road Runner (U).zip"'
+p1219
+sg13
+g1215
+sbsS'Air Fortress (U)'
+p1220
+g1
+(g18
+g19
+Ntp1221
+Rp1222
+(dp1223
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Air Fortress (U).zip"'
+p1224
+sg13
+g1220
+sbsS'SMB3 Hard Type v8.2.147 (SMB3 Hack)'
+p1225
+g1
+(g18
+g19
+Ntp1226
+Rp1227
+(dp1228
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 3/SMB3 Hard Type v8.2.147 (SMB3 Hack).zip"'
+p1229
+sg13
+g1225
+sbsS'Impossible Mission II (U)'
+p1230
+g1
+(g18
+g19
+Ntp1231
+Rp1232
+(dp1233
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Impossible Mission II (U).zip"'
+p1234
+sg13
+g1230
+sbsS'Deja Vu (U)'
+p1235
+g1
+(g18
+g19
+Ntp1236
+Rp1237
+(dp1238
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Deja Vu (U).zip"'
+p1239
+sg13
+g1235
+sbsS'Kouryuu Densetsu Villgust Gaiden (J) [T+Eng1.1_J2e]'
+p1240
+g1
+(g18
+g19
+Ntp1241
+Rp1242
+(dp1243
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Kouryuu Densetsu Villgust Gaiden (J) [T+Eng1.1_J2e].zip"'
+p1244
+sg13
+g1240
+sbsS"Frank's 1st (Final) (SMB1 Hack)"
+p1245
+g1
+(g18
+g19
+Ntp1246
+Rp1247
+(dp1248
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/The Frank Series/Frank\'s 1st (Final) (SMB1 Hack).zip"'
+p1249
+sg13
+g1245
+sbsS'Mega Man 6 (U)'
+p1250
+g1
+(g18
+g19
+Ntp1251
+Rp1252
+(dp1253
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mega Man 6 (U).zip"'
+p1254
+sg13
+g1250
+sbsS'Crystalis (U)'
+p1255
+g1
+(g18
+g19
+Ntp1256
+Rp1257
+(dp1258
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Crystalis (U).zip"'
+p1259
+sg13
+g1255
+sbsS'Double Dribble (PC10)'
+p1260
+g1
+(g18
+g19
+Ntp1261
+Rp1262
+(dp1263
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Double Dribble (PC10).zip"'
+p1264
+sg13
+g1260
+sbsS'15-in-1 [p1]'
+p1265
+g1
+(g18
+g19
+Ntp1266
+Rp1267
+(dp1268
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/15-in-1 [p1].zip"'
+p1269
+sg13
+g1265
+sbsS'Operation Wolf (U)'
+p1270
+g1
+(g18
+g19
+Ntp1271
+Rp1272
+(dp1273
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Operation Wolf (U).zip"'
+p1274
+sg13
+g1270
+sbsS'WWF Wrestlemania (U)'
+p1275
+g1
+(g18
+g19
+Ntp1276
+Rp1277
+(dp1278
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/WWF Wrestlemania (U).zip"'
+p1279
+sg13
+g1275
+sbsS'Astyanax (U)'
+p1280
+g1
+(g18
+g19
+Ntp1281
+Rp1282
+(dp1283
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Astyanax (U).zip"'
+p1284
+sg13
+g1280
+sbsS"Yoshi's Cookie (U)"
+p1285
+g1
+(g18
+g19
+Ntp1286
+Rp1287
+(dp1288
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Other Games/Yoshi\'s Cookie (U).zip"'
+p1289
+sg13
+g1285
+sbsS'Moon Ranger (U)'
+p1290
+g1
+(g18
+g19
+Ntp1291
+Rp1292
+(dp1293
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Moon Ranger (U).zip"'
+p1294
+sg13
+g1290
+sbsS'Classic Concentration (U)'
+p1295
+g1
+(g18
+g19
+Ntp1296
+Rp1297
+(dp1298
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Classic Concentration (U).zip"'
+p1299
+sg13
+g1295
+sbsS'Shinobi (U)'
+p1300
+g1
+(g18
+g19
+Ntp1301
+Rp1302
+(dp1303
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Shinobi (U).zip"'
+p1304
+sg13
+g1300
+sbsS'Dig Dug II (U) [!]'
+p1305
+g1
+(g18
+g19
+Ntp1306
+Rp1307
+(dp1308
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dig Dug II (U) [!].zip"'
+p1309
+sg13
+g1305
+sbsS'Little Ninja Brothers (U)'
+p1310
+g1
+(g18
+g19
+Ntp1311
+Rp1312
+(dp1313
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Little Ninja Brothers (U).zip"'
+p1314
+sg13
+g1310
+sbsS'Saint Seiya - Ougon Densetsu (J) [T+Eng1.00_KingMike]'
+p1315
+g1
+(g18
+g19
+Ntp1316
+Rp1317
+(dp1318
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Saint Seiya - Ougon Densetsu (J) [T+Eng1.00_KingMike].zip"'
+p1319
+sg13
+g1315
+sbsS'Rampart (U)'
+p1320
+g1
+(g18
+g19
+Ntp1321
+Rp1322
+(dp1323
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rampart (U).zip"'
+p1324
+sg13
+g1320
+sbsS'Rescue - The Embassy Mission (U)'
+p1325
+g1
+(g18
+g19
+Ntp1326
+Rp1327
+(dp1328
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rescue - The Embassy Mission (U).zip"'
+p1329
+sg13
+g1325
+sbsS'260-in-1 [p1]'
+p1330
+g1
+(g18
+g19
+Ntp1331
+Rp1332
+(dp1333
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/260-in-1 [p1].zip"'
+p1334
+sg13
+g1330
+sbsS'Stanley - The Search for Dr. Livingston (U)'
+p1335
+g1
+(g18
+g19
+Ntp1336
+Rp1337
+(dp1338
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Stanley - The Search for Dr. Livingston (U).zip"'
+p1339
+sg13
+g1335
+sbsS'Zelda II - The Adventure of Link'
+p1340
+g1
+(g18
+g19
+Ntp1341
+Rp1342
+(dp1343
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Zelda II - The Adventure of Link.zip"'
+p1344
+sg13
+g1340
+sbsS'Felix the Cat (U)'
+p1345
+g1
+(g18
+g19
+Ntp1346
+Rp1347
+(dp1348
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Felix the Cat (U).zip"'
+p1349
+sg13
+g1345
+sbsS'Gremlins 2 - The New Batch (U)'
+p1350
+g1
+(g18
+g19
+Ntp1351
+Rp1352
+(dp1353
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Gremlins 2 - The New Batch (U).zip"'
+p1354
+sg13
+g1350
+sbsS'Final Fantasy Special Edition (FF1 Hack)'
+p1355
+g1
+(g18
+g19
+Ntp1356
+Rp1357
+(dp1358
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Final Fantasy Special Edition (FF1 Hack).zip"'
+p1359
+sg13
+g1355
+sbsS"Frank's v8.0 (SMB3 Hack)"
+p1360
+g1
+(g18
+g19
+Ntp1361
+Rp1362
+(dp1363
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/The Frank Series/Frank\'s v8.0 (SMB3 Hack).zip"'
+p1364
+sg13
+g1360
+sbsS'Alice Cooper (SMB1 Hack)'
+p1365
+g1
+(g18
+g19
+Ntp1366
+Rp1367
+(dp1368
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Alice Cooper (SMB1 Hack).zip"'
+p1369
+sg13
+g1365
+sbsS'Paperboy 2 (U)'
+p1370
+g1
+(g18
+g19
+Ntp1371
+Rp1372
+(dp1373
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Paperboy 2 (U).zip"'
+p1374
+sg13
+g1370
+sbsS"Hudson's Adventure Island III (U)"
+p1375
+g1
+(g18
+g19
+Ntp1376
+Rp1377
+(dp1378
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Hudson\'s Adventure Island III (U).zip"'
+p1379
+sg13
+g1375
+sbsS'Flintstones, The - The Rescue of Dino & Hoppy (U)'
+p1380
+g1
+(g18
+g19
+Ntp1381
+Rp1382
+(dp1383
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Flintstones, The - The Rescue of Dino & Hoppy (U).zip"'
+p1384
+sg13
+g1380
+sbsS'Final Fantasy III Spoof (Hack)'
+p1385
+g1
+(g18
+g19
+Ntp1386
+Rp1387
+(dp1388
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Final Fantasy III Spoof (Hack).zip"'
+p1389
+sg13
+g1385
+sbsS'Super Mario Bros. 3 (PC10)'
+p1390
+g1
+(g18
+g19
+Ntp1391
+Rp1392
+(dp1393
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Super Mario Bros. 3 (PC10).zip"'
+p1394
+sg13
+g1390
+sbsS'Quattro Arcade (U)'
+p1395
+g1
+(g18
+g19
+Ntp1396
+Rp1397
+(dp1398
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Quattro Arcade (U).zip"'
+p1399
+sg13
+g1395
+sbsS"Solomon's Key (U) [!]"
+p1400
+g1
+(g18
+g19
+Ntp1401
+Rp1402
+(dp1403
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Solomon\'s Key (U) [!].zip"'
+p1404
+sg13
+g1400
+sbsS'Wayne Gretzky Hockey (U)'
+p1405
+g1
+(g18
+g19
+Ntp1406
+Rp1407
+(dp1408
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Wayne Gretzky Hockey (U).zip"'
+p1409
+sg13
+g1405
+sbsS"Gilligan's Island (U)"
+p1410
+g1
+(g18
+g19
+Ntp1411
+Rp1412
+(dp1413
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Gilligan\'s Island (U).zip"'
+p1414
+sg13
+g1410
+sbsS'Rainbow Islands - The Story of Bubble Bobble 2 (U)'
+p1415
+g1
+(g18
+g19
+Ntp1416
+Rp1417
+(dp1418
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rainbow Islands - The Story of Bubble Bobble 2 (U).zip"'
+p1419
+sg13
+g1415
+sbsS'JJ - Tobidase Daisakusen Part 2 (J) [T+Eng1.00_DvD_Trans]'
+p1420
+g1
+(g18
+g19
+Ntp1421
+Rp1422
+(dp1423
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/JJ - Tobidase Daisakusen Part 2 (J) [T+Eng1.00_DvD_Trans].zip"'
+p1424
+sg13
+g1420
+sbsS'Lifeforce (U)'
+p1425
+g1
+(g18
+g19
+Ntp1426
+Rp1427
+(dp1428
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Lifeforce (U).zip"'
+p1429
+sg13
+g1425
+sbsS'Tetris (U) [!]'
+p1430
+g1
+(g18
+g19
+Ntp1431
+Rp1432
+(dp1433
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Tetris (U) [!].zip"'
+p1434
+sg13
+g1430
+sbsS'Codename 23 (SMB1 Hack)'
+p1435
+g1
+(g18
+g19
+Ntp1436
+Rp1437
+(dp1438
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Codename 23 (SMB1 Hack).zip"'
+p1439
+sg13
+g1435
+sbsS'Double Dare (U)'
+p1440
+g1
+(g18
+g19
+Ntp1441
+Rp1442
+(dp1443
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Double Dare (U).zip"'
+p1444
+sg13
+g1440
+sbsS'Attack Mario (SMB1 Hack)'
+p1445
+g1
+(g18
+g19
+Ntp1446
+Rp1447
+(dp1448
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Attack Mario (SMB1 Hack).zip"'
+p1449
+sg13
+g1445
+sbsS'Karate Kid, The (U)'
+p1450
+g1
+(g18
+g19
+Ntp1451
+Rp1452
+(dp1453
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Karate Kid, The (U).zip"'
+p1454
+sg13
+g1450
+sbsS'Lost Levels (Final) (SMB3 Hack)'
+p1455
+g1
+(g18
+g19
+Ntp1456
+Rp1457
+(dp1458
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Lost Levels (Final) (SMB3 Hack).zip"'
+p1459
+sg13
+g1455
+sbsS'Shockwave (U)'
+p1460
+g1
+(g18
+g19
+Ntp1461
+Rp1462
+(dp1463
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Shockwave (U).zip"'
+p1464
+sg13
+g1460
+sbsS'Donkey Kong Jr. (JU)'
+p1465
+g1
+(g18
+g19
+Ntp1466
+Rp1467
+(dp1468
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Donkey Kong Jr. (JU).zip"'
+p1469
+sg13
+g1465
+sbsS'World Champ (U) [!]'
+p1470
+g1
+(g18
+g19
+Ntp1471
+Rp1472
+(dp1473
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/World Champ (U) [!].zip"'
+p1474
+sg13
+g1470
+sbsS'Swords and Serpents (U)'
+p1475
+g1
+(g18
+g19
+Ntp1476
+Rp1477
+(dp1478
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Swords and Serpents (U).zip"'
+p1479
+sg13
+g1475
+sbsS'California Games (U)'
+p1480
+g1
+(g18
+g19
+Ntp1481
+Rp1482
+(dp1483
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/California Games (U).zip"'
+p1484
+sg13
+g1480
+sbsS'Roger Clemens MVP Baseball (U)'
+p1485
+g1
+(g18
+g19
+Ntp1486
+Rp1487
+(dp1488
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Roger Clemens MVP Baseball (U).zip"'
+p1489
+sg13
+g1485
+sbsS'Quattro Sports (U)'
+p1490
+g1
+(g18
+g19
+Ntp1491
+Rp1492
+(dp1493
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Quattro Sports (U).zip"'
+p1494
+sg13
+g1490
+sbsS'SMB Challenge v5.0 (SMB1 Hack) [o1]'
+p1495
+g1
+(g18
+g19
+Ntp1496
+Rp1497
+(dp1498
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/SMB Challenge v5.0 (SMB1 Hack) [o1].zip"'
+p1499
+sg13
+g1495
+sbsS'Laser Invasion (U)'
+p1500
+g1
+(g18
+g19
+Ntp1501
+Rp1502
+(dp1503
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Laser Invasion (U).zip"'
+p1504
+sg13
+g1500
+sbsS'R.B.I. Baseball (U)'
+p1505
+g1
+(g18
+g19
+Ntp1506
+Rp1507
+(dp1508
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/R.B.I. Baseball (U).zip"'
+p1509
+sg13
+g1505
+sbsS'Defender of the Crown (U)'
+p1510
+g1
+(g18
+g19
+Ntp1511
+Rp1512
+(dp1513
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Defender of the Crown (U).zip"'
+p1514
+sg13
+g1510
+sbsS'Remote Control (U)'
+p1515
+g1
+(g18
+g19
+Ntp1516
+Rp1517
+(dp1518
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Remote Control (U).zip"'
+p1519
+sg13
+g1515
+sbsS'Kiwi Kraze (U)'
+p1520
+g1
+(g18
+g19
+Ntp1521
+Rp1522
+(dp1523
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Kiwi Kraze (U).zip"'
+p1524
+sg13
+g1520
+sbsS'Golf Grand Slam (U)'
+p1525
+g1
+(g18
+g19
+Ntp1526
+Rp1527
+(dp1528
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Golf Grand Slam (U).zip"'
+p1529
+sg13
+g1525
+sbsS'Punisher, The (U)'
+p1530
+g1
+(g18
+g19
+Ntp1531
+Rp1532
+(dp1533
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Punisher, The (U).zip"'
+p1534
+sg13
+g1530
+sbsS'Dragon Warrior (U) (PRG0)'
+p1535
+g1
+(g18
+g19
+Ntp1536
+Rp1537
+(dp1538
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dragon Warrior (U) (PRG0).zip"'
+p1539
+sg13
+g1535
+sbsS'Adventures of Bayou Billy, The (U)'
+p1540
+g1
+(g18
+g19
+Ntp1541
+Rp1542
+(dp1543
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Adventures of Bayou Billy, The (U).zip"'
+p1544
+sg13
+g1540
+sbsS'Tenchi o Kurau II - Shokatsu Koumei Den (J) [T-Eng]'
+p1545
+g1
+(g18
+g19
+Ntp1546
+Rp1547
+(dp1548
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Tenchi o Kurau II - Shokatsu Koumei Den (J) [T-Eng].zip"'
+p1549
+sg13
+g1545
+sbsS'Billy Bros (SMB1 Hack)'
+p1550
+g1
+(g18
+g19
+Ntp1551
+Rp1552
+(dp1553
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Billy Bros (SMB1 Hack).zip"'
+p1554
+sg13
+g1550
+sbsS'Softball Tengoku (J) [o1][T+Eng1.1_Toma]'
+p1555
+g1
+(g18
+g19
+Ntp1556
+Rp1557
+(dp1558
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Softball Tengoku (J) [o1][T+Eng1.1_Toma].zip"'
+p1559
+sg13
+g1555
+sbsS"Hudson's Adventure Island II (U)"
+p1560
+g1
+(g18
+g19
+Ntp1561
+Rp1562
+(dp1563
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Hudson\'s Adventure Island II (U).zip"'
+p1564
+sg13
+g1560
+sbsS'Tiny Toon Adventures (U)'
+p1565
+g1
+(g18
+g19
+Ntp1566
+Rp1567
+(dp1568
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Tiny Toon Adventures (U).zip"'
+p1569
+sg13
+g1565
+sbsS'Adventures of Captain Comic, The (U)'
+p1570
+g1
+(g18
+g19
+Ntp1571
+Rp1572
+(dp1573
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Adventures of Captain Comic, The (U).zip"'
+p1574
+sg13
+g1570
+sbsS"Bill Elliott's NASCAR Challenge (U)"
+p1575
+g1
+(g18
+g19
+Ntp1576
+Rp1577
+(dp1578
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Bill Elliott\'s NASCAR Challenge (U).zip"'
+p1579
+sg13
+g1575
+sbsS'Guardian Legend, The (U)'
+p1580
+g1
+(g18
+g19
+Ntp1581
+Rp1582
+(dp1583
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Guardian Legend, The (U).zip"'
+p1584
+sg13
+g1580
+sbsS'Mario Knight 1 (SMB1 Hack)'
+p1585
+g1
+(g18
+g19
+Ntp1586
+Rp1587
+(dp1588
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Mario Knight 1 (SMB1 Hack).zip"'
+p1589
+sg13
+g1585
+sbsS'Slalom (U)'
+p1590
+g1
+(g18
+g19
+Ntp1591
+Rp1592
+(dp1593
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Slalom (U).zip"'
+p1594
+sg13
+g1590
+sbsS'King Koopa (Mario Bros Hack)'
+p1595
+g1
+(g18
+g19
+Ntp1596
+Rp1597
+(dp1598
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/King Koopa (Mario Bros Hack).zip"'
+p1599
+sg13
+g1595
+sbsS'Contra Force (U)'
+p1600
+g1
+(g18
+g19
+Ntp1601
+Rp1602
+(dp1603
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Contra Force (U).zip"'
+p1604
+sg13
+g1600
+sbsS'Pro Sport Hockey (U)'
+p1605
+g1
+(g18
+g19
+Ntp1606
+Rp1607
+(dp1608
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Pro Sport Hockey (U).zip"'
+p1609
+sg13
+g1605
+sbsS'Shatterhand (U)'
+p1610
+g1
+(g18
+g19
+Ntp1611
+Rp1612
+(dp1613
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Shatterhand (U).zip"'
+p1614
+sg13
+g1610
+sbsS'Ikari III - The Rescue (U)'
+p1615
+g1
+(g18
+g19
+Ntp1616
+Rp1617
+(dp1618
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ikari III - The Rescue (U).zip"'
+p1619
+sg13
+g1615
+sbsS'Bad Dudes (U)'
+p1620
+g1
+(g18
+g19
+Ntp1621
+Rp1622
+(dp1623
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bad Dudes (U).zip"'
+p1624
+sg13
+g1620
+sbsS'Mad Max (U) [!]'
+p1625
+g1
+(g18
+g19
+Ntp1626
+Rp1627
+(dp1628
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mad Max (U) [!].zip"'
+p1629
+sg13
+g1625
+sbsS"George Foreman's KO Boxing (U)"
+p1630
+g1
+(g18
+g19
+Ntp1631
+Rp1632
+(dp1633
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/George Foreman\'s KO Boxing (U).zip"'
+p1634
+sg13
+g1630
+sbsS"Super Spike V'Ball (U)"
+p1635
+g1
+(g18
+g19
+Ntp1636
+Rp1637
+(dp1638
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super Spike V\'Ball (U).zip"'
+p1639
+sg13
+g1635
+sbsS"Toobin' (U)"
+p1640
+g1
+(g18
+g19
+Ntp1641
+Rp1642
+(dp1643
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Toobin\' (U).zip"'
+p1644
+sg13
+g1640
+sbsS'Treasure Master (U)'
+p1645
+g1
+(g18
+g19
+Ntp1646
+Rp1647
+(dp1648
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Treasure Master (U).zip"'
+p1649
+sg13
+g1645
+sbsS'Image Fight (U)'
+p1650
+g1
+(g18
+g19
+Ntp1651
+Rp1652
+(dp1653
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Image Fight (U).zip"'
+p1654
+sg13
+g1650
+sbsS'Bases Loaded 3 (U)'
+p1655
+g1
+(g18
+g19
+Ntp1656
+Rp1657
+(dp1658
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Bases Loaded 3 (U).zip"'
+p1659
+sg13
+g1655
+sbsS'Baseball Simulator 1.000 (U)'
+p1660
+g1
+(g18
+g19
+Ntp1661
+Rp1662
+(dp1663
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Baseball Simulator 1.000 (U).zip"'
+p1664
+sg13
+g1660
+sbsS'Star Trek - The Next Generation (U)'
+p1665
+g1
+(g18
+g19
+Ntp1666
+Rp1667
+(dp1668
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Star Trek - The Next Generation (U).zip"'
+p1669
+sg13
+g1665
+sbsS"Jackie Chan's Action Kung Fu (U)"
+p1670
+g1
+(g18
+g19
+Ntp1671
+Rp1672
+(dp1673
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Jackie Chan\'s Action Kung Fu (U).zip"'
+p1674
+sg13
+g1670
+sbsS'Mutant Virus, The (U)'
+p1675
+g1
+(g18
+g19
+Ntp1676
+Rp1677
+(dp1678
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mutant Virus, The (U).zip"'
+p1679
+sg13
+g1675
+sbsS'Skate or Die! (U)'
+p1680
+g1
+(g18
+g19
+Ntp1681
+Rp1682
+(dp1683
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Skate or Die! (U).zip"'
+p1684
+sg13
+g1680
+sbsS'Final Fantasy II'
+p1685
+g1
+(g18
+g19
+Ntp1686
+Rp1687
+(dp1688
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Final Fantasy II.zip"'
+p1689
+sg13
+g1685
+sbsS'Alfred Chicken (U)'
+p1690
+g1
+(g18
+g19
+Ntp1691
+Rp1692
+(dp1693
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Alfred Chicken (U).zip"'
+p1694
+sg13
+g1690
+sbsS'Spot (U)'
+p1695
+g1
+(g18
+g19
+Ntp1696
+Rp1697
+(dp1698
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Spot (U).zip"'
+p1699
+sg13
+g1695
+sbsS'Shadowgate (U)'
+p1700
+g1
+(g18
+g19
+Ntp1701
+Rp1702
+(dp1703
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Shadowgate (U).zip"'
+p1704
+sg13
+g1700
+sbsS'Thunder & Lightning (U)'
+p1705
+g1
+(g18
+g19
+Ntp1706
+Rp1707
+(dp1708
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Thunder & Lightning (U).zip"'
+p1709
+sg13
+g1705
+sbsS'Raid on Bungeling Bay (U)'
+p1710
+g1
+(g18
+g19
+Ntp1711
+Rp1712
+(dp1713
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Raid on Bungeling Bay (U).zip"'
+p1714
+sg13
+g1710
+sbsS'Star Soldier (U)'
+p1715
+g1
+(g18
+g19
+Ntp1716
+Rp1717
+(dp1718
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Star Soldier (U).zip"'
+p1719
+sg13
+g1715
+sbsS'72-in-1 [p1]'
+p1720
+g1
+(g18
+g19
+Ntp1721
+Rp1722
+(dp1723
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/72-in-1 [p1].zip"'
+p1724
+sg13
+g1720
+sbsS'Mega Man 2 (U)'
+p1725
+g1
+(g18
+g19
+Ntp1726
+Rp1727
+(dp1728
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mega Man 2 (U).zip"'
+p1729
+sg13
+g1725
+sbsS'Ferrari - Grand Prix Challenge (U) [!]'
+p1730
+g1
+(g18
+g19
+Ntp1731
+Rp1732
+(dp1733
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Ferrari - Grand Prix Challenge (U) [!].zip"'
+p1734
+sg13
+g1730
+sbsS'Fantastic Adventures of Dizzy, The (U)'
+p1735
+g1
+(g18
+g19
+Ntp1736
+Rp1737
+(dp1738
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Fantastic Adventures of Dizzy, The (U).zip"'
+p1739
+sg13
+g1735
+sbsS'Goal! (U)'
+p1740
+g1
+(g18
+g19
+Ntp1741
+Rp1742
+(dp1743
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Goal! (U).zip"'
+p1744
+sg13
+g1740
+sbsS'Mixed Up Mario Bros (SMB1 Hack)'
+p1745
+g1
+(g18
+g19
+Ntp1746
+Rp1747
+(dp1748
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Mixed Up Mario Bros (SMB1 Hack).zip"'
+p1749
+sg13
+g1745
+sbsS'Color A Dinosaur (U)'
+p1750
+g1
+(g18
+g19
+Ntp1751
+Rp1752
+(dp1753
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Color A Dinosaur (U).zip"'
+p1754
+sg13
+g1750
+sbsS'Jeopardy! (U)'
+p1755
+g1
+(g18
+g19
+Ntp1756
+Rp1757
+(dp1758
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Jeopardy! (U).zip"'
+p1759
+sg13
+g1755
+sbsS'Teenage Mutant Ninja Turtles III - The Manhattan Project (U)'
+p1760
+g1
+(g18
+g19
+Ntp1761
+Rp1762
+(dp1763
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Teenage Mutant Ninja Turtles III - The Manhattan Project (U).zip"'
+p1764
+sg13
+g1760
+sbsS'Circus Caper (U)'
+p1765
+g1
+(g18
+g19
+Ntp1766
+Rp1767
+(dp1768
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Circus Caper (U).zip"'
+p1769
+sg13
+g1765
+sbsS'Four Touches of Death (SMB2 Hack)'
+p1770
+g1
+(g18
+g19
+Ntp1771
+Rp1772
+(dp1773
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 2/Four Touches of Death (SMB2 Hack).zip"'
+p1774
+sg13
+g1770
+sbsS'Fire Hawk (Unl)'
+p1775
+g1
+(g18
+g19
+Ntp1776
+Rp1777
+(dp1778
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Fire Hawk (Unl).zip"'
+p1779
+sg13
+g1775
+sbsS"Frank's (Thru World 2) (SMB2 Hack)"
+p1780
+g1
+(g18
+g19
+Ntp1781
+Rp1782
+(dp1783
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/The Frank Series/Frank\'s (Thru World 2) (SMB2 Hack).zip"'
+p1784
+sg13
+g1780
+sbsS'NES Play Action Football (U)'
+p1785
+g1
+(g18
+g19
+Ntp1786
+Rp1787
+(dp1788
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/NES Play Action Football (U).zip"'
+p1789
+sg13
+g1785
+sbsS'Tecmo NBA Basketball (U)'
+p1790
+g1
+(g18
+g19
+Ntp1791
+Rp1792
+(dp1793
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Tecmo NBA Basketball (U).zip"'
+p1794
+sg13
+g1790
+sbsS'Monkey on LSD (Zelda Hack)'
+p1795
+g1
+(g18
+g19
+Ntp1796
+Rp1797
+(dp1798
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Monkey on LSD (Zelda Hack).zip"'
+p1799
+sg13
+g1795
+sbsS'Final Fantasy Deluxe Edition (FF1 Hack)'
+p1800
+g1
+(g18
+g19
+Ntp1801
+Rp1802
+(dp1803
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Final Fantasy Deluxe Edition (FF1 Hack).zip"'
+p1804
+sg13
+g1800
+sbsS'Nightshade (U)'
+p1805
+g1
+(g18
+g19
+Ntp1806
+Rp1807
+(dp1808
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Nightshade (U).zip"'
+p1809
+sg13
+g1805
+sbsS'Bloody Ax Bros (SMB1 Hack)'
+p1810
+g1
+(g18
+g19
+Ntp1811
+Rp1812
+(dp1813
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Bloody Ax Bros (SMB1 Hack).zip"'
+p1814
+sg13
+g1810
+sbsS"Milon's Secret Castle (U)"
+p1815
+g1
+(g18
+g19
+Ntp1816
+Rp1817
+(dp1818
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Milon\'s Secret Castle (U).zip"'
+p1819
+sg13
+g1815
+sbsS'Willow (U)'
+p1820
+g1
+(g18
+g19
+Ntp1821
+Rp1822
+(dp1823
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Willow (U).zip"'
+p1824
+sg13
+g1820
+sbsS'Wall Street Kid (U)'
+p1825
+g1
+(g18
+g19
+Ntp1826
+Rp1827
+(dp1828
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wall Street Kid (U).zip"'
+p1829
+sg13
+g1825
+sbsS'Athena (U)'
+p1830
+g1
+(g18
+g19
+Ntp1831
+Rp1832
+(dp1833
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Athena (U).zip"'
+p1834
+sg13
+g1830
+sbsS"Day Dreamin' Davey (U)"
+p1835
+g1
+(g18
+g19
+Ntp1836
+Rp1837
+(dp1838
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Day Dreamin\' Davey (U).zip"'
+p1839
+sg13
+g1835
+sbsS'Sanrio Carnival 2 (J) [o1][T+Eng1.0_Suicidal]'
+p1840
+g1
+(g18
+g19
+Ntp1841
+Rp1842
+(dp1843
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sanrio Carnival 2 (J) [o1][T+Eng1.0_Suicidal].zip"'
+p1844
+sg13
+g1840
+sbsS"Hudson's Adventure Island (U)"
+p1845
+g1
+(g18
+g19
+Ntp1846
+Rp1847
+(dp1848
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Hudson\'s Adventure Island (U).zip"'
+p1849
+sg13
+g1845
+sbsS'Double Dragon III - The Sacred Stones (U)'
+p1850
+g1
+(g18
+g19
+Ntp1851
+Rp1852
+(dp1853
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Double Dragon III - The Sacred Stones (U).zip"'
+p1854
+sg13
+g1850
+sbsS'Evil Mario (SMB1 Hack)'
+p1855
+g1
+(g18
+g19
+Ntp1856
+Rp1857
+(dp1858
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Evil Mario (SMB1 Hack).zip"'
+p1859
+sg13
+g1855
+sbsS'Ninja Gaiden 2 - The Dark Sword of Chaos (U)'
+p1860
+g1
+(g18
+g19
+Ntp1861
+Rp1862
+(dp1863
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ninja Gaiden 2 - The Dark Sword of Chaos (U).zip"'
+p1864
+sg13
+g1860
+sbsS'Legends of the Diamond (U)'
+p1865
+g1
+(g18
+g19
+Ntp1866
+Rp1867
+(dp1868
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Legends of the Diamond (U).zip"'
+p1869
+sg13
+g1865
+sbsS'Challenge of the Dragon (U)'
+p1870
+g1
+(g18
+g19
+Ntp1871
+Rp1872
+(dp1873
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Challenge of the Dragon (U).zip"'
+p1874
+sg13
+g1870
+sbsS'Captain Skyhawk (U)'
+p1875
+g1
+(g18
+g19
+Ntp1876
+Rp1877
+(dp1878
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Captain Skyhawk (U).zip"'
+p1879
+sg13
+g1875
+sbsS'Ghoul School (U)'
+p1880
+g1
+(g18
+g19
+Ntp1881
+Rp1882
+(dp1883
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ghoul School (U).zip"'
+p1884
+sg13
+g1880
+sbsS'Athletic World (U)'
+p1885
+g1
+(g18
+g19
+Ntp1886
+Rp1887
+(dp1888
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Athletic World (U).zip"'
+p1889
+sg13
+g1885
+sbsS'Rampage (U)'
+p1890
+g1
+(g18
+g19
+Ntp1891
+Rp1892
+(dp1893
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rampage (U).zip"'
+p1894
+sg13
+g1890
+sbsS'Silent Assault (U)'
+p1895
+g1
+(g18
+g19
+Ntp1896
+Rp1897
+(dp1898
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Silent Assault (U).zip"'
+p1899
+sg13
+g1895
+sbsS"Snake's Revenge (U)"
+p1900
+g1
+(g18
+g19
+Ntp1901
+Rp1902
+(dp1903
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Snake\'s Revenge (U).zip"'
+p1904
+sg13
+g1900
+sbsS'Where in Time is Carmen Sandiego (U)'
+p1905
+g1
+(g18
+g19
+Ntp1906
+Rp1907
+(dp1908
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Where in Time is Carmen Sandiego (U).zip"'
+p1909
+sg13
+g1905
+sbsS'Rad Racer (U) [b1]'
+p1910
+g1
+(g18
+g19
+Ntp1911
+Rp1912
+(dp1913
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rad Racer (U) [b1].zip"'
+p1914
+sg13
+g1910
+sbsS'Boy and His Blob, A - Trouble on Blobolonia (U)'
+p1915
+g1
+(g18
+g19
+Ntp1916
+Rp1917
+(dp1918
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Boy and His Blob, A - Trouble on Blobolonia (U).zip"'
+p1919
+sg13
+g1915
+sbsS'Heavy Barrel (U)'
+p1920
+g1
+(g18
+g19
+Ntp1921
+Rp1922
+(dp1923
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Heavy Barrel (U).zip"'
+p1924
+sg13
+g1920
+sbsS'Deformed Bros (SMB1 Hack)'
+p1925
+g1
+(g18
+g19
+Ntp1926
+Rp1927
+(dp1928
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Deformed Bros (SMB1 Hack).zip"'
+p1929
+sg13
+g1925
+sbsS'First New Quest, The (V6-23) (Zelda Hack)'
+p1930
+g1
+(g18
+g19
+Ntp1931
+Rp1932
+(dp1933
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/First New Quest, The (V6-23) (Zelda Hack).zip"'
+p1934
+sg13
+g1930
+sbsS'Toxic Crusaders (U)'
+p1935
+g1
+(g18
+g19
+Ntp1936
+Rp1937
+(dp1938
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Toxic Crusaders (U).zip"'
+p1939
+sg13
+g1935
+sbsS'Final Fantasy Christmas (Hack)'
+p1940
+g1
+(g18
+g19
+Ntp1941
+Rp1942
+(dp1943
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Final Fantasy Christmas (Hack).zip"'
+p1944
+sg13
+g1940
+sbsS'Bubble Bobble Part 2 (U)'
+p1945
+g1
+(g18
+g19
+Ntp1946
+Rp1947
+(dp1948
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bubble Bobble Part 2 (U).zip"'
+p1949
+sg13
+g1945
+sbsS'Tecmo Super Bowl (U)'
+p1950
+g1
+(g18
+g19
+Ntp1951
+Rp1952
+(dp1953
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Tecmo Super Bowl (U).zip"'
+p1954
+sg13
+g1950
+sbsS'Micro Machines (U)'
+p1955
+g1
+(g18
+g19
+Ntp1956
+Rp1957
+(dp1958
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Micro Machines (U).zip"'
+p1959
+sg13
+g1955
+sbsS'Major League Baseball (U)'
+p1960
+g1
+(g18
+g19
+Ntp1961
+Rp1962
+(dp1963
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Major League Baseball (U).zip"'
+p1964
+sg13
+g1960
+sbsS'Cool World (U)'
+p1965
+g1
+(g18
+g19
+Ntp1966
+Rp1967
+(dp1968
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Cool World (U).zip"'
+p1969
+sg13
+g1965
+sbsS'Big Nose Freaks Out (U)'
+p1970
+g1
+(g18
+g19
+Ntp1971
+Rp1972
+(dp1973
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Big Nose Freaks Out (U).zip"'
+p1974
+sg13
+g1970
+sbsS'Werewolf - The Last Warrior (U)'
+p1975
+g1
+(g18
+g19
+Ntp1976
+Rp1977
+(dp1978
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Werewolf - The Last Warrior (U).zip"'
+p1979
+sg13
+g1975
+sbsS'Popeye (JU) (PRG0) [!]'
+p1980
+g1
+(g18
+g19
+Ntp1981
+Rp1982
+(dp1983
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Popeye (JU) (PRG0) [!].zip"'
+p1984
+sg13
+g1980
+sbsS'Little Nemo - The Dream Master (U)'
+p1985
+g1
+(g18
+g19
+Ntp1986
+Rp1987
+(dp1988
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Little Nemo - The Dream Master (U).zip"'
+p1989
+sg13
+g1985
+sbsS'R.C. Pro-Am 2 (U)'
+p1990
+g1
+(g18
+g19
+Ntp1991
+Rp1992
+(dp1993
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/R.C. Pro-Am 2 (U).zip"'
+p1994
+sg13
+g1990
+sbsS'Mortal Kombat 3 - Special 56 Peoples [p1]'
+p1995
+g1
+(g18
+g19
+Ntp1996
+Rp1997
+(dp1998
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mortal Kombat 3 - Special 56 Peoples [p1].zip"'
+p1999
+sg13
+g1995
+sbsS'Donkey Kong Jr. Math (U)'
+p2000
+g1
+(g18
+g19
+Ntp2001
+Rp2002
+(dp2003
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Donkey Kong Jr. Math (U).zip"'
+p2004
+sg13
+g2000
+sbsS'Ultimate League Soccer (U)'
+p2005
+g1
+(g18
+g19
+Ntp2006
+Rp2007
+(dp2008
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ultimate League Soccer (U).zip"'
+p2009
+sg13
+g2005
+sbsS'Top Gun (VS)'
+p2010
+g1
+(g18
+g19
+Ntp2011
+Rp2012
+(dp2013
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Top Gun (VS).zip"'
+p2014
+sg13
+g2010
+sbsS'SMB1 Hard Type (SMB1 Hack) [a4]'
+p2015
+g1
+(g18
+g19
+Ntp2016
+Rp2017
+(dp2018
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/SMB1 Hard Type (SMB1 Hack) [a4].zip"'
+p2019
+sg13
+g2015
+sbsS'Galaxy 5000 (U)'
+p2020
+g1
+(g18
+g19
+Ntp2021
+Rp2022
+(dp2023
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Galaxy 5000 (U).zip"'
+p2024
+sg13
+g2020
+sbsS"Krusty's Fun House (U)"
+p2025
+g1
+(g18
+g19
+Ntp2026
+Rp2027
+(dp2028
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Krusty\'s Fun House (U).zip"'
+p2029
+sg13
+g2025
+sbsS'Martroid (SMB1 Hack)'
+p2030
+g1
+(g18
+g19
+Ntp2031
+Rp2032
+(dp2033
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Martroid (SMB1 Hack).zip"'
+p2034
+sg13
+g2030
+sbsS'Jeopardy! Junior Edition (U)'
+p2035
+g1
+(g18
+g19
+Ntp2036
+Rp2037
+(dp2038
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Jeopardy! Junior Edition (U).zip"'
+p2039
+sg13
+g2035
+sbsS'Game Genie (Unl)'
+p2040
+g1
+(g18
+g19
+Ntp2041
+Rp2042
+(dp2043
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Game Genie/Game Genie (Unl).zip"'
+p2044
+sg13
+g2040
+sbsS'Final Fantasy III'
+p2045
+g1
+(g18
+g19
+Ntp2046
+Rp2047
+(dp2048
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Final Fantasy III.zip"'
+p2049
+sg13
+g2045
+sbsS'Ultima - Warriors of Destiny (U)'
+p2050
+g1
+(g18
+g19
+Ntp2051
+Rp2052
+(dp2053
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ultima - Warriors of Destiny (U).zip"'
+p2054
+sg13
+g2050
+sbsS'1943 - The Battle of Midway (U)'
+p2055
+g1
+(g18
+g19
+Ntp2056
+Rp2057
+(dp2058
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/1943 - The Battle of Midway (U).zip"'
+p2059
+sg13
+g2055
+sbsS'UPS Bros (SMB1 Hack)'
+p2060
+g1
+(g18
+g19
+Ntp2061
+Rp2062
+(dp2063
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/UPS Bros (SMB1 Hack).zip"'
+p2064
+sg13
+g2060
+sbsS'Classic Knight (Mario Bros Hack)'
+p2065
+g1
+(g18
+g19
+Ntp2066
+Rp2067
+(dp2068
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Classic Knight (Mario Bros Hack).zip"'
+p2069
+sg13
+g2065
+sbsS'Bases Loaded (U)'
+p2070
+g1
+(g18
+g19
+Ntp2071
+Rp2072
+(dp2073
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Bases Loaded (U).zip"'
+p2074
+sg13
+g2070
+sbsS'EDS Mario (no title) (SMB1 Hack)'
+p2075
+g1
+(g18
+g19
+Ntp2076
+Rp2077
+(dp2078
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/EDS Mario (no title) (SMB1 Hack).zip"'
+p2079
+sg13
+g2075
+sbsS"Snake Rattle'n Roll (U)"
+p2080
+g1
+(g18
+g19
+Ntp2081
+Rp2082
+(dp2083
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Snake Rattle\'n Roll (U).zip"'
+p2084
+sg13
+g2080
+sbsS'Kick Master (U)'
+p2085
+g1
+(g18
+g19
+Ntp2086
+Rp2087
+(dp2088
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Kick Master (U).zip"'
+p2089
+sg13
+g2085
+sbsS'Burai Fighter (U)'
+p2090
+g1
+(g18
+g19
+Ntp2091
+Rp2092
+(dp2093
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Burai Fighter (U).zip"'
+p2094
+sg13
+g2090
+sbsS'MiG 29 - Soviet Fighter (U)'
+p2095
+g1
+(g18
+g19
+Ntp2096
+Rp2097
+(dp2098
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/MiG 29 - Soviet Fighter (U).zip"'
+p2099
+sg13
+g2095
+sbsS'Alien Syndrome (U)'
+p2100
+g1
+(g18
+g19
+Ntp2101
+Rp2102
+(dp2103
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Alien Syndrome (U).zip"'
+p2104
+sg13
+g2100
+sbsS'Indiana Jones and the Temple of Doom (U) (Mindscape)'
+p2105
+g1
+(g18
+g19
+Ntp2106
+Rp2107
+(dp2108
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Indiana Jones and the Temple of Doom (U) (Mindscape).zip"'
+p2109
+sg13
+g2105
+sbsS'Double Strike (U) (V1.0)'
+p2110
+g1
+(g18
+g19
+Ntp2111
+Rp2112
+(dp2113
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Double Strike (U) (V1.0).zip"'
+p2114
+sg13
+g2110
+sbsS'Pac-Mania (U)'
+p2115
+g1
+(g18
+g19
+Ntp2116
+Rp2117
+(dp2118
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pac Man Roms/Pac-Mania (U).zip"'
+p2119
+sg13
+g2115
+sbsS'Quattro Adventure (U)'
+p2120
+g1
+(g18
+g19
+Ntp2121
+Rp2122
+(dp2123
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Quattro Adventure (U).zip"'
+p2124
+sg13
+g2120
+sbsS'Super Mario Bros 3 Hack by Morden (SMB3 PRG0 Hack)'
+p2125
+g1
+(g18
+g19
+Ntp2126
+Rp2127
+(dp2128
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 3/Super Mario Bros 3 Hack by Morden (SMB3 PRG0 Hack).zip"'
+p2129
+sg13
+g2125
+sbsS'Defender II (U)'
+p2130
+g1
+(g18
+g19
+Ntp2131
+Rp2132
+(dp2133
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Defender II (U).zip"'
+p2134
+sg13
+g2130
+sbsS'Flight of the Intruder (U)'
+p2135
+g1
+(g18
+g19
+Ntp2136
+Rp2137
+(dp2138
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Flight of the Intruder (U).zip"'
+p2139
+sg13
+g2135
+sbsS'Adventures of Lolo (U) [!]'
+p2140
+g1
+(g18
+g19
+Ntp2141
+Rp2142
+(dp2143
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Adventures of Lolo (U) [!].zip"'
+p2144
+sg13
+g2140
+sbsS'Isolated Warrior (U)'
+p2145
+g1
+(g18
+g19
+Ntp2146
+Rp2147
+(dp2148
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Isolated Warrior (U).zip"'
+p2149
+sg13
+g2145
+sbsS'NES Open Tournament Golf (U)'
+p2150
+g1
+(g18
+g19
+Ntp2151
+Rp2152
+(dp2153
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/NES Open Tournament Golf (U).zip"'
+p2154
+sg13
+g2150
+sbsS'Simpsons, The - Bart Vs. the World (U)'
+p2155
+g1
+(g18
+g19
+Ntp2156
+Rp2157
+(dp2158
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Simpsons, The - Bart Vs. the World (U).zip"'
+p2159
+sg13
+g2155
+sbsS'Dirty Harry (U)'
+p2160
+g1
+(g18
+g19
+Ntp2161
+Rp2162
+(dp2163
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dirty Harry (U).zip"'
+p2164
+sg13
+g2160
+sbsS'Pikachu (Unl)'
+p2165
+g1
+(g18
+g19
+Ntp2166
+Rp2167
+(dp2168
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pikachu (Unl).zip"'
+p2169
+sg13
+g2165
+sbsS'Infiltrator (U)'
+p2170
+g1
+(g18
+g19
+Ntp2171
+Rp2172
+(dp2173
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Infiltrator (U).zip"'
+p2174
+sg13
+g2170
+sbsS'Robocop (U)'
+p2175
+g1
+(g18
+g19
+Ntp2176
+Rp2177
+(dp2178
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Robocop (U).zip"'
+p2179
+sg13
+g2175
+sbsS'Karate Champ (U)'
+p2180
+g1
+(g18
+g19
+Ntp2181
+Rp2182
+(dp2183
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Karate Champ (U).zip"'
+p2184
+sg13
+g2180
+sbsS'Dick Tracy (U)'
+p2185
+g1
+(g18
+g19
+Ntp2186
+Rp2187
+(dp2188
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dick Tracy (U).zip"'
+p2189
+sg13
+g2185
+sbsS'Metal Gear (U)'
+p2190
+g1
+(g18
+g19
+Ntp2191
+Rp2192
+(dp2193
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Metal Gear (U).zip"'
+p2194
+sg13
+g2190
+sbsS'Takahashi Meijin no Bouken Shima II (J) [T+Eng]'
+p2195
+g1
+(g18
+g19
+Ntp2196
+Rp2197
+(dp2198
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Takahashi Meijin no Bouken Shima II (J) [T+Eng].zip"'
+p2199
+sg13
+g2195
+sbsS'Monster In My Pocket (U)'
+p2200
+g1
+(g18
+g19
+Ntp2201
+Rp2202
+(dp2203
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Monster In My Pocket (U).zip"'
+p2204
+sg13
+g2200
+sbsS'Blink (SMB1 Hack)'
+p2205
+g1
+(g18
+g19
+Ntp2206
+Rp2207
+(dp2208
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Blink (SMB1 Hack).zip"'
+p2209
+sg13
+g2205
+sbsS'Caveman Games (U)'
+p2210
+g1
+(g18
+g19
+Ntp2211
+Rp2212
+(dp2213
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Caveman Games (U).zip"'
+p2214
+sg13
+g2210
+sbsS'Cheetah Men II (U)'
+p2215
+g1
+(g18
+g19
+Ntp2216
+Rp2217
+(dp2218
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Cheetah Men II (U).zip"'
+p2219
+sg13
+g2215
+sbsS'Capcom 30-in-1 [p1][!]'
+p2220
+g1
+(g18
+g19
+Ntp2221
+Rp2222
+(dp2223
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Capcom 30-in-1 [p1][!].zip"'
+p2224
+sg13
+g2220
+sbsS'Swamp Thing (U) [!]'
+p2225
+g1
+(g18
+g19
+Ntp2226
+Rp2227
+(dp2228
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Swamp Thing (U) [!].zip"'
+p2229
+sg13
+g2225
+sbsS'Fantasy Zone (U)'
+p2230
+g1
+(g18
+g19
+Ntp2231
+Rp2232
+(dp2233
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Fantasy Zone (U).zip"'
+p2234
+sg13
+g2230
+sbsS'Harlem Globetrotters (U)'
+p2235
+g1
+(g18
+g19
+Ntp2236
+Rp2237
+(dp2238
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Harlem Globetrotters (U).zip"'
+p2239
+sg13
+g2235
+sbsS'Destiny of an Emperor (U)'
+p2240
+g1
+(g18
+g19
+Ntp2241
+Rp2242
+(dp2243
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Destiny of an Emperor (U).zip"'
+p2244
+sg13
+g2240
+sbsS"Arkista's Ring (U) [!]"
+p2245
+g1
+(g18
+g19
+Ntp2246
+Rp2247
+(dp2248
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Arkista\'s Ring (U) [!].zip"'
+p2249
+sg13
+g2245
+sbsS'Autobot Bros (SMB1 Hack)'
+p2250
+g1
+(g18
+g19
+Ntp2251
+Rp2252
+(dp2253
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Autobot Bros (SMB1 Hack).zip"'
+p2254
+sg13
+g2250
+sbsS'Goal! Two (U)'
+p2255
+g1
+(g18
+g19
+Ntp2256
+Rp2257
+(dp2258
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Goal! Two (U).zip"'
+p2259
+sg13
+g2255
+sbsS'Cliffhanger (U)'
+p2260
+g1
+(g18
+g19
+Ntp2261
+Rp2262
+(dp2263
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Cliffhanger (U).zip"'
+p2264
+sg13
+g2260
+sbsS"Bill & Ted's Excellent Video Game Adventure (U)"
+p2265
+g1
+(g18
+g19
+Ntp2266
+Rp2267
+(dp2268
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bill & Ted\'s Excellent Video Game Adventure (U).zip"'
+p2269
+sg13
+g2265
+sbsS'Ghostbusters 2 (U)'
+p2270
+g1
+(g18
+g19
+Ntp2271
+Rp2272
+(dp2273
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ghostbusters 2 (U).zip"'
+p2274
+sg13
+g2270
+sbsS"Mario's Time Machine! (U)"
+p2275
+g1
+(g18
+g19
+Ntp2276
+Rp2277
+(dp2278
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Mario\'s Time Machine! (U).zip"'
+p2279
+sg13
+g2275
+sbsS'Golgo 13 - Top Secret Episode (U)'
+p2280
+g1
+(g18
+g19
+Ntp2281
+Rp2282
+(dp2283
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Golgo 13 - Top Secret Episode (U).zip"'
+p2284
+sg13
+g2280
+sbsS'Overlord (U)'
+p2285
+g1
+(g18
+g19
+Ntp2286
+Rp2287
+(dp2288
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Overlord (U).zip"'
+p2289
+sg13
+g2285
+sbsS'Pac-Man (E) [!]'
+p2290
+g1
+(g18
+g19
+Ntp2291
+Rp2292
+(dp2293
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pac Man Roms/Pac-Man (E) [!].zip"'
+p2294
+sg13
+g2290
+sbsS'Zelda Story, The (Zelda Hack)'
+p2295
+g1
+(g18
+g19
+Ntp2296
+Rp2297
+(dp2298
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Zelda Story, The (Zelda Hack).zip"'
+p2299
+sg13
+g2295
+sbsS'Legend of the Ghost Lion (U)'
+p2300
+g1
+(g18
+g19
+Ntp2301
+Rp2302
+(dp2303
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Legend of the Ghost Lion (U).zip"'
+p2304
+sg13
+g2300
+sbsS'Power Pad Dance Aerobics (U)'
+p2305
+g1
+(g18
+g19
+Ntp2306
+Rp2307
+(dp2308
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Power Pad Dance Aerobics (U).zip"'
+p2309
+sg13
+g2305
+sbsS'Anti-Hippie Dr. Mario (Dr. Mario Hack)'
+p2310
+g1
+(g18
+g19
+Ntp2311
+Rp2312
+(dp2313
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/Dr. Mario/Anti-Hippie Dr. Mario (Dr. Mario Hack).zip"'
+p2314
+sg13
+g2310
+sbsS'SMB2J mpr4 (Hack)'
+p2315
+g1
+(g18
+g19
+Ntp2316
+Rp2317
+(dp2318
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB2J mpr4 (Hack).zip"'
+p2319
+sg13
+g2315
+sbsS"Frank's Second Ultimate Super Mario Bros Nasy Version (SMB1 Hack)"
+p2320
+g1
+(g18
+g19
+Ntp2321
+Rp2322
+(dp2323
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/The Frank Series/Frank\'s Second Ultimate Super Mario Bros Nasy Version (SMB1 Hack).zip"'
+p2324
+sg13
+g2320
+sbsS'Alpha Mission (U)'
+p2325
+g1
+(g18
+g19
+Ntp2326
+Rp2327
+(dp2328
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Alpha Mission (U).zip"'
+p2329
+sg13
+g2325
+sbsS'Wacky Races (U)'
+p2330
+g1
+(g18
+g19
+Ntp2331
+Rp2332
+(dp2333
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wacky Races (U).zip"'
+p2334
+sg13
+g2330
+sbsS'Baby Boomer (U)'
+p2335
+g1
+(g18
+g19
+Ntp2336
+Rp2337
+(dp2338
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Baby Boomer (U).zip"'
+p2339
+sg13
+g2335
+sbsS'Demon Sword (U)'
+p2340
+g1
+(g18
+g19
+Ntp2341
+Rp2342
+(dp2343
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Demon Sword (U).zip"'
+p2344
+sg13
+g2340
+sbsS'Yoshi (U)'
+p2345
+g1
+(g18
+g19
+Ntp2346
+Rp2347
+(dp2348
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Other Games/Yoshi (U).zip"'
+p2349
+sg13
+g2345
+sbsS'Bomberman Collection (U) [p1]'
+p2350
+g1
+(g18
+g19
+Ntp2351
+Rp2352
+(dp2353
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bomberman Collection (U) [p1].zip"'
+p2354
+sg13
+g2350
+sbsS'Ikari Warriors II - Victory Road (U)'
+p2355
+g1
+(g18
+g19
+Ntp2356
+Rp2357
+(dp2358
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ikari Warriors II - Victory Road (U).zip"'
+p2359
+sg13
+g2355
+sbsS'Skull & Crossbones (U)'
+p2360
+g1
+(g18
+g19
+Ntp2361
+Rp2362
+(dp2363
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Skull & Crossbones (U).zip"'
+p2364
+sg13
+g2360
+sbsS'Kung-Fu Heroes (U)'
+p2365
+g1
+(g18
+g19
+Ntp2366
+Rp2367
+(dp2368
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Kung-Fu Heroes (U).zip"'
+p2369
+sg13
+g2365
+sbsS'Tecmo Cup - Soccer Game (U)'
+p2370
+g1
+(g18
+g19
+Ntp2371
+Rp2372
+(dp2373
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Tecmo Cup - Soccer Game (U).zip"'
+p2374
+sg13
+g2370
+sbsS'Cloud Bros (SMB1 Hack)'
+p2375
+g1
+(g18
+g19
+Ntp2376
+Rp2377
+(dp2378
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Cloud Bros (SMB1 Hack).zip"'
+p2379
+sg13
+g2375
+sbsS'Final Fantasy II - Return of Lich (FF1 Hack)'
+p2380
+g1
+(g18
+g19
+Ntp2381
+Rp2382
+(dp2383
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Final Fantasy II - Return of Lich (FF1 Hack).zip"'
+p2384
+sg13
+g2380
+sbsS'Final Fantasy Bronze (FF1 Hack)'
+p2385
+g1
+(g18
+g19
+Ntp2386
+Rp2387
+(dp2388
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Final Fantasy Bronze (FF1 Hack).zip"'
+p2389
+sg13
+g2385
+sbsS'Friday the 13th (U)'
+p2390
+g1
+(g18
+g19
+Ntp2391
+Rp2392
+(dp2393
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Friday the 13th (U).zip"'
+p2394
+sg13
+g2390
+sbsS'Simpsons, The - Bart Vs. the Space Mutants (U)'
+p2395
+g1
+(g18
+g19
+Ntp2396
+Rp2397
+(dp2398
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Simpsons, The - Bart Vs. the Space Mutants (U).zip"'
+p2399
+sg13
+g2395
+sbsS"Marvel's X-Men (U)"
+p2400
+g1
+(g18
+g19
+Ntp2401
+Rp2402
+(dp2403
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Marvel\'s X-Men (U).zip"'
+p2404
+sg13
+g2400
+sbsS'Little Mermaid, The (U)'
+p2405
+g1
+(g18
+g19
+Ntp2406
+Rp2407
+(dp2408
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Little Mermaid, The (U).zip"'
+p2409
+sg13
+g2405
+sbsS'Mission Impossible (U)'
+p2410
+g1
+(g18
+g19
+Ntp2411
+Rp2412
+(dp2413
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mission Impossible (U).zip"'
+p2414
+sg13
+g2410
+sbsS'Addams Family, The (U)'
+p2415
+g1
+(g18
+g19
+Ntp2416
+Rp2417
+(dp2418
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Addams Family, The (U).zip"'
+p2419
+sg13
+g2415
+sbsS"L'Empereur (U)"
+p2420
+g1
+(g18
+g19
+Ntp2421
+Rp2422
+(dp2423
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/L\'Empereur (U).zip"'
+p2424
+sg13
+g2420
+sbsS'Blink 3 (SMB1 Hack)'
+p2425
+g1
+(g18
+g19
+Ntp2426
+Rp2427
+(dp2428
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Blink 3 (SMB1 Hack).zip"'
+p2429
+sg13
+g2425
+sbsS'Quest of Zelda, The (Hack)'
+p2430
+g1
+(g18
+g19
+Ntp2431
+Rp2432
+(dp2433
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Quest of Zelda, The (Hack).zip"'
+p2434
+sg13
+g2430
+sbsS'Conan (U)'
+p2435
+g1
+(g18
+g19
+Ntp2436
+Rp2437
+(dp2438
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Conan (U).zip"'
+p2439
+sg13
+g2435
+sbsS'Sirius Mario Bros 4 (SMB1 Hack)'
+p2440
+g1
+(g18
+g19
+Ntp2441
+Rp2442
+(dp2443
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Sirius Mario Bros 4 (SMB1 Hack).zip"'
+p2444
+sg13
+g2440
+sbsS'Gun Nac (U)'
+p2445
+g1
+(g18
+g19
+Ntp2446
+Rp2447
+(dp2448
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Gun Nac (U).zip"'
+p2449
+sg13
+g2445
+sbsS'Joe & Mac (U)'
+p2450
+g1
+(g18
+g19
+Ntp2451
+Rp2452
+(dp2453
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Joe & Mac (U).zip"'
+p2454
+sg13
+g2450
+sbsS'Super Contra 7 (Unl) [p1]'
+p2455
+g1
+(g18
+g19
+Ntp2456
+Rp2457
+(dp2458
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super Contra 7 (Unl) [p1].zip"'
+p2459
+sg13
+g2455
+sbsS'Wizardry - The Knight of Diamonds (U)'
+p2460
+g1
+(g18
+g19
+Ntp2461
+Rp2462
+(dp2463
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wizardry - The Knight of Diamonds (U).zip"'
+p2464
+sg13
+g2460
+sbsS'10-Yard Fight (U)'
+p2465
+g1
+(g18
+g19
+Ntp2466
+Rp2467
+(dp2468
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/10-Yard Fight (U).zip"'
+p2469
+sg13
+g2465
+sbsS'Street Fighter 2010 (U)'
+p2470
+g1
+(g18
+g19
+Ntp2471
+Rp2472
+(dp2473
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Street Fighter 2010 (U).zip"'
+p2474
+sg13
+g2470
+sbsS'Win, Lose or Draw (U)'
+p2475
+g1
+(g18
+g19
+Ntp2476
+Rp2477
+(dp2478
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Win, Lose or Draw (U).zip"'
+p2479
+sg13
+g2475
+sbsS'Romance of the Three Kingdoms II (U) [!]'
+p2480
+g1
+(g18
+g19
+Ntp2481
+Rp2482
+(dp2483
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Romance of the Three Kingdoms II (U) [!].zip"'
+p2484
+sg13
+g2480
+sbsS"Frank's Second Ultimate Super Mario Bros Normal Version (SMB1 Hack)"
+p2485
+g1
+(g18
+g19
+Ntp2486
+Rp2487
+(dp2488
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/The Frank Series/Frank\'s Second Ultimate Super Mario Bros Normal Version (SMB1 Hack).zip"'
+p2489
+sg13
+g2485
+sbsS'Super C (U) [!]'
+p2490
+g1
+(g18
+g19
+Ntp2491
+Rp2492
+(dp2493
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super C (U) [!].zip"'
+p2494
+sg13
+g2490
+sbsS'Street Fighter VI 12 Peoples [p1][!]'
+p2495
+g1
+(g18
+g19
+Ntp2496
+Rp2497
+(dp2498
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Street Fighter VI 12 Peoples [p1][!].zip"'
+p2499
+sg13
+g2495
+sbsS'Nazi Dr. Mario (Dr. Mario Hack)'
+p2500
+g1
+(g18
+g19
+Ntp2501
+Rp2502
+(dp2503
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/Dr. Mario/Nazi Dr. Mario (Dr. Mario Hack).zip"'
+p2504
+sg13
+g2500
+sbsS'Sirius Mario Bros 6 (SMB1 Hack)'
+p2505
+g1
+(g18
+g19
+Ntp2506
+Rp2507
+(dp2508
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Sirius Mario Bros 6 (SMB1 Hack).zip"'
+p2509
+sg13
+g2505
+sbsS'Gyruss (U)'
+p2510
+g1
+(g18
+g19
+Ntp2511
+Rp2512
+(dp2513
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Gyruss (U).zip"'
+p2514
+sg13
+g2510
+sbsS'Eliminator Boat Duel (U)'
+p2515
+g1
+(g18
+g19
+Ntp2516
+Rp2517
+(dp2518
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Eliminator Boat Duel (U).zip"'
+p2519
+sg13
+g2515
+sbsS'North & South (U)'
+p2520
+g1
+(g18
+g19
+Ntp2521
+Rp2522
+(dp2523
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/North & South (U).zip"'
+p2524
+sg13
+g2520
+sbsS'Adventures of Rocky and Bullwinkle and Friends, The (U)'
+p2525
+g1
+(g18
+g19
+Ntp2526
+Rp2527
+(dp2528
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Adventures of Rocky and Bullwinkle and Friends, The (U).zip"'
+p2529
+sg13
+g2525
+sbsS'Track & Field (U)'
+p2530
+g1
+(g18
+g19
+Ntp2531
+Rp2532
+(dp2533
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Track & Field (U).zip"'
+p2534
+sg13
+g2530
+sbsS'Legend of Zelda, The - Special Edition (Zelda Hack)'
+p2535
+g1
+(g18
+g19
+Ntp2536
+Rp2537
+(dp2538
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Legend of Zelda, The - Special Edition (Zelda Hack).zip"'
+p2539
+sg13
+g2535
+sbsS'Bionic Commando (U) [!]'
+p2540
+g1
+(g18
+g19
+Ntp2541
+Rp2542
+(dp2543
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bionic Commando (U) [!].zip"'
+p2544
+sg13
+g2540
+sbsS'Bugs Bunny Crazy Castle, The (U)'
+p2545
+g1
+(g18
+g19
+Ntp2546
+Rp2547
+(dp2548
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bugs Bunny Crazy Castle, The (U).zip"'
+p2549
+sg13
+g2545
+sbsS'Legend of Zelda, The'
+p2550
+g1
+(g18
+g19
+Ntp2551
+Rp2552
+(dp2553
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Legend of Zelda, The.zip"'
+p2554
+sg13
+g2550
+sbsS'Kickle Cubicle (U)'
+p2555
+g1
+(g18
+g19
+Ntp2556
+Rp2557
+(dp2558
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Kickle Cubicle (U).zip"'
+p2559
+sg13
+g2555
+sbsS'Ren & Stimpy Show, The (U)'
+p2560
+g1
+(g18
+g19
+Ntp2561
+Rp2562
+(dp2563
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ren & Stimpy Show, The (U).zip"'
+p2564
+sg13
+g2560
+sbsS'Super Mario Bros. (PC10)'
+p2565
+g1
+(g18
+g19
+Ntp2566
+Rp2567
+(dp2568
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Super Mario Bros. (PC10).zip"'
+p2569
+sg13
+g2565
+sbsS'Sirius Mario Bros 2 (SMB1 Hack)'
+p2570
+g1
+(g18
+g19
+Ntp2571
+Rp2572
+(dp2573
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Sirius Mario Bros 2 (SMB1 Hack).zip"'
+p2574
+sg13
+g2570
+sbsS'CBMario 3 (SMB3 Hack)'
+p2575
+g1
+(g18
+g19
+Ntp2576
+Rp2577
+(dp2578
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 3/CBMario 3 (SMB3 Hack).zip"'
+p2579
+sg13
+g2575
+sbsS'Peter Pan & The Pirates (U)'
+p2580
+g1
+(g18
+g19
+Ntp2581
+Rp2582
+(dp2583
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Peter Pan & The Pirates (U).zip"'
+p2584
+sg13
+g2580
+sbsS'SMB Challenge v5.0 (SMB1 Hack) [a1]'
+p2585
+g1
+(g18
+g19
+Ntp2586
+Rp2587
+(dp2588
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/SMB Challenge v5.0 (SMB1 Hack) [a1].zip"'
+p2589
+sg13
+g2585
+sbsS'Archon (U)'
+p2590
+g1
+(g18
+g19
+Ntp2591
+Rp2592
+(dp2593
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Archon (U).zip"'
+p2594
+sg13
+g2590
+sbsS'Legend of Zelda Outlands Final by Clomax Dominion (Zelda Hack)'
+p2595
+g1
+(g18
+g19
+Ntp2596
+Rp2597
+(dp2598
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Legend of Zelda Outlands Final by Clomax Dominion (Zelda Hack).zip"'
+p2599
+sg13
+g2595
+sbsS'City Connection (U)'
+p2600
+g1
+(g18
+g19
+Ntp2601
+Rp2602
+(dp2603
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/City Connection (U).zip"'
+p2604
+sg13
+g2600
+sbsS'Jurassic Park (U)'
+p2605
+g1
+(g18
+g19
+Ntp2606
+Rp2607
+(dp2608
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Jurassic Park (U).zip"'
+p2609
+sg13
+g2605
+sbsS'Venice Beach Volleyball (U)'
+p2610
+g1
+(g18
+g19
+Ntp2611
+Rp2612
+(dp2613
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Venice Beach Volleyball (U).zip"'
+p2614
+sg13
+g2610
+sbsS'Kunio Kun no Nekketsu Soccer League (J) [T-Eng1.0_PentarouZero]'
+p2615
+g1
+(g18
+g19
+Ntp2616
+Rp2617
+(dp2618
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Kunio Kun no Nekketsu Soccer League (J) [T-Eng1.0_PentarouZero].zip"'
+p2619
+sg13
+g2615
+sbsS'Ninja Kid (U)'
+p2620
+g1
+(g18
+g19
+Ntp2621
+Rp2622
+(dp2623
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ninja Kid (U).zip"'
+p2624
+sg13
+g2620
+sbsS'Sky Kid (U)'
+p2625
+g1
+(g18
+g19
+Ntp2626
+Rp2627
+(dp2628
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sky Kid (U).zip"'
+p2629
+sg13
+g2625
+sbsS'Dragon Warrior IV (U)'
+p2630
+g1
+(g18
+g19
+Ntp2631
+Rp2632
+(dp2633
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dragon Warrior IV (U).zip"'
+p2634
+sg13
+g2630
+sbsS'Super Waterfall Bros 3 V0.1 (SMB3 PRG0 Hack)'
+p2635
+g1
+(g18
+g19
+Ntp2636
+Rp2637
+(dp2638
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 3/Super Waterfall Bros 3 V0.1 (SMB3 PRG0 Hack).zip"'
+p2639
+sg13
+g2635
+sbsS'Legend of Zelda GST (Zelda Hack)'
+p2640
+g1
+(g18
+g19
+Ntp2641
+Rp2642
+(dp2643
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Legend of Zelda GST (Zelda Hack).zip"'
+p2644
+sg13
+g2640
+sbsS'Ufouria (E)'
+p2645
+g1
+(g18
+g19
+Ntp2646
+Rp2647
+(dp2648
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ufouria (E).zip"'
+p2649
+sg13
+g2645
+sbsS'Carnage 3 (SMB3 Hack)'
+p2650
+g1
+(g18
+g19
+Ntp2651
+Rp2652
+(dp2653
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 3/Carnage 3 (SMB3 Hack).zip"'
+p2654
+sg13
+g2650
+sbsS"Frank's First Ultimate Super Mario Bros 1 (SMB1 Hack)"
+p2655
+g1
+(g18
+g19
+Ntp2656
+Rp2657
+(dp2658
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/The Frank Series/Frank\'s First Ultimate Super Mario Bros 1 (SMB1 Hack).zip"'
+p2659
+sg13
+g2655
+sbsS'Donkey Kong Classics (U) [!]'
+p2660
+g1
+(g18
+g19
+Ntp2661
+Rp2662
+(dp2663
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Donkey Kong Classics (U) [!].zip"'
+p2664
+sg13
+g2660
+sbsS'Galaga (U)'
+p2665
+g1
+(g18
+g19
+Ntp2666
+Rp2667
+(dp2668
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Galaga (U).zip"'
+p2669
+sg13
+g2665
+sbsS'Adventures of Rad Gravity, The (U)'
+p2670
+g1
+(g18
+g19
+Ntp2671
+Rp2672
+(dp2673
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Adventures of Rad Gravity, The (U).zip"'
+p2674
+sg13
+g2670
+sbsS"Moblin's Tale v1.0 (Zelda Hack)"
+p2675
+g1
+(g18
+g19
+Ntp2676
+Rp2677
+(dp2678
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Moblin\'s Tale v1.0 (Zelda Hack).zip"'
+p2679
+sg13
+g2675
+sbsS'Mega Man (U)'
+p2680
+g1
+(g18
+g19
+Ntp2681
+Rp2682
+(dp2683
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mega Man (U).zip"'
+p2684
+sg13
+g2680
+sbsS'Family Feud (U)'
+p2685
+g1
+(g18
+g19
+Ntp2686
+Rp2687
+(dp2688
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Family Feud (U).zip"'
+p2689
+sg13
+g2685
+sbsS'Q-bert (U)'
+p2690
+g1
+(g18
+g19
+Ntp2691
+Rp2692
+(dp2693
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Q-bert (U).zip"'
+p2694
+sg13
+g2690
+sbsS'Conquest of the Crystal Palace (U)'
+p2695
+g1
+(g18
+g19
+Ntp2696
+Rp2697
+(dp2698
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Conquest of the Crystal Palace (U).zip"'
+p2699
+sg13
+g2695
+sbsS'Fantasy Fighter (SMB1 Hack)'
+p2700
+g1
+(g18
+g19
+Ntp2701
+Rp2702
+(dp2703
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Fantasy Fighter (SMB1 Hack).zip"'
+p2704
+sg13
+g2700
+sbsS"Gold Medal Challenge '92 (U)"
+p2705
+g1
+(g18
+g19
+Ntp2706
+Rp2707
+(dp2708
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Gold Medal Challenge \'92 (U).zip"'
+p2709
+sg13
+g2705
+sbsS'Total Recall (U)'
+p2710
+g1
+(g18
+g19
+Ntp2711
+Rp2712
+(dp2713
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Total Recall (U).zip"'
+p2714
+sg13
+g2710
+sbsS'Stealth ATF (U)'
+p2715
+g1
+(g18
+g19
+Ntp2716
+Rp2717
+(dp2718
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Stealth ATF (U).zip"'
+p2719
+sg13
+g2715
+sbsS'Final Fantasy Amazon (Hack)'
+p2720
+g1
+(g18
+g19
+Ntp2721
+Rp2722
+(dp2723
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Final Fantasy Amazon (Hack).zip"'
+p2724
+sg13
+g2720
+sbsS'Power Punch 2 (U)'
+p2725
+g1
+(g18
+g19
+Ntp2726
+Rp2727
+(dp2728
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Power Punch 2 (U).zip"'
+p2729
+sg13
+g2725
+sbsS"Rock 'n' Ball (U)"
+p2730
+g1
+(g18
+g19
+Ntp2731
+Rp2732
+(dp2733
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rock \'n\' Ball (U).zip"'
+p2734
+sg13
+g2730
+sbsS'Beetlejuice (U) [!]'
+p2735
+g1
+(g18
+g19
+Ntp2736
+Rp2737
+(dp2738
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Beetlejuice (U) [!].zip"'
+p2739
+sg13
+g2735
+sbsS'52 Games [p1]'
+p2740
+g1
+(g18
+g19
+Ntp2741
+Rp2742
+(dp2743
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/52 Games [p1].zip"'
+p2744
+sg13
+g2740
+sbsS"Peach's Nightmare - No Mercy (SMB1 Hack)"
+p2745
+g1
+(g18
+g19
+Ntp2746
+Rp2747
+(dp2748
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Peach\'s Nightmare - No Mercy (SMB1 Hack).zip"'
+p2749
+sg13
+g2745
+sbsS'Punch-Out!! (U)'
+p2750
+g1
+(g18
+g19
+Ntp2751
+Rp2752
+(dp2753
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Punch-Out!! (U).zip"'
+p2754
+sg13
+g2750
+sbsS'Othello (U)'
+p2755
+g1
+(g18
+g19
+Ntp2756
+Rp2757
+(dp2758
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Othello (U).zip"'
+p2759
+sg13
+g2755
+sbsS'Final Fantasy I'
+p2760
+g1
+(g18
+g19
+Ntp2761
+Rp2762
+(dp2763
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Final Fantasy I.zip"'
+p2764
+sg13
+g2760
+sbsS'Mechanized Attack (U)'
+p2765
+g1
+(g18
+g19
+Ntp2766
+Rp2767
+(dp2768
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mechanized Attack (U).zip"'
+p2769
+sg13
+g2765
+sbsS"Ghosts'n Goblins (U) [!]"
+p2770
+g1
+(g18
+g19
+Ntp2771
+Rp2772
+(dp2773
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ghosts\'n Goblins (U) [!].zip"'
+p2774
+sg13
+g2770
+sbsS'Cowboy Kid (U)'
+p2775
+g1
+(g18
+g19
+Ntp2776
+Rp2777
+(dp2778
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Cowboy Kid (U).zip"'
+p2779
+sg13
+g2775
+sbsS"Frank's Super Mario Bros 2 (SMB2 Hack)"
+p2780
+g1
+(g18
+g19
+Ntp2781
+Rp2782
+(dp2783
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/The Frank Series/Frank\'s Super Mario Bros 2 (SMB2 Hack).zip"'
+p2784
+sg13
+g2780
+sbsS'58-in-1 [p1]'
+p2785
+g1
+(g18
+g19
+Ntp2786
+Rp2787
+(dp2788
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/58-in-1 [p1].zip"'
+p2789
+sg13
+g2785
+sbsS'WorldCup'
+p2790
+g1
+(g18
+g19
+Ntp2791
+Rp2792
+(dp2793
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/WorldCup.zip"'
+p2794
+sg13
+g2790
+sbsS'Search for Link, The (Zelda Hack)'
+p2795
+g1
+(g18
+g19
+Ntp2796
+Rp2797
+(dp2798
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Search for Link, The (Zelda Hack).zip"'
+p2799
+sg13
+g2795
+sbsS'Ski or Die (U)'
+p2800
+g1
+(g18
+g19
+Ntp2801
+Rp2802
+(dp2803
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ski or Die (U).zip"'
+p2804
+sg13
+g2800
+sbsS"Kirby's Adventure (G) [!]"
+p2805
+g1
+(g18
+g19
+Ntp2806
+Rp2807
+(dp2808
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Kirby\'s Adventure (G) [!].zip"'
+p2809
+sg13
+g2805
+sbsS'Might and Magic (U)'
+p2810
+g1
+(g18
+g19
+Ntp2811
+Rp2812
+(dp2813
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Might and Magic (U).zip"'
+p2814
+sg13
+g2810
+sbsS"Top Players' Tennis - Featuring Chris Evert & Ivan Lendl (U)"
+p2815
+g1
+(g18
+g19
+Ntp2816
+Rp2817
+(dp2818
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Top Players\' Tennis - Featuring Chris Evert & Ivan Lendl (U).zip"'
+p2819
+sg13
+g2815
+sbsS'James Bond Jr (U)'
+p2820
+g1
+(g18
+g19
+Ntp2821
+Rp2822
+(dp2823
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/James Bond Jr (U).zip"'
+p2824
+sg13
+g2820
+sbsS'Ninja Mario (SMB1 Hack)'
+p2825
+g1
+(g18
+g19
+Ntp2826
+Rp2827
+(dp2828
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Ninja Mario (SMB1 Hack).zip"'
+p2829
+sg13
+g2825
+sbsS'Pesterminator - The Western Exterminator (U)'
+p2830
+g1
+(g18
+g19
+Ntp2831
+Rp2832
+(dp2833
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pesterminator - The Western Exterminator (U).zip"'
+p2834
+sg13
+g2830
+sbsS"Frank's 2nd (Final) (SMB1 Hack)"
+p2835
+g1
+(g18
+g19
+Ntp2836
+Rp2837
+(dp2838
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/The Frank Series/Frank\'s 2nd (Final) (SMB1 Hack).zip"'
+p2839
+sg13
+g2835
+sbsS'Double Dragon II - The Revenge (U)'
+p2840
+g1
+(g18
+g19
+Ntp2841
+Rp2842
+(dp2843
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Double Dragon II - The Revenge (U).zip"'
+p2844
+sg13
+g2840
+sbsS'Terminator, The (U)'
+p2845
+g1
+(g18
+g19
+Ntp2846
+Rp2847
+(dp2848
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Terminator, The (U).zip"'
+p2849
+sg13
+g2845
+sbsS'Wrath of the Black Manta (U)'
+p2850
+g1
+(g18
+g19
+Ntp2851
+Rp2852
+(dp2853
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wrath of the Black Manta (U).zip"'
+p2854
+sg13
+g2850
+sbsS'Mario Family 10-in-1 [p1]'
+p2855
+g1
+(g18
+g19
+Ntp2856
+Rp2857
+(dp2858
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Mario Family 10-in-1 [p1].zip"'
+p2859
+sg13
+g2855
+sbsS"Legend of Zelda, The (Zelda 'Editable' Hack)"
+p2860
+g1
+(g18
+g19
+Ntp2861
+Rp2862
+(dp2863
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Legend of Zelda, The (Zelda \'Editable\' Hack).zip"'
+p2864
+sg13
+g2860
+sbsS"Startropics 2 - Zoda's Revenge (U)"
+p2865
+g1
+(g18
+g19
+Ntp2866
+Rp2867
+(dp2868
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Startropics 2 - Zoda\'s Revenge (U).zip"'
+p2869
+sg13
+g2865
+sbsS'Tecmo Baseball (U)'
+p2870
+g1
+(g18
+g19
+Ntp2871
+Rp2872
+(dp2873
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Tecmo Baseball (U).zip"'
+p2874
+sg13
+g2870
+sbsS'Lost Levels 2, The (V03-07-2000) (SMB1 Hack)'
+p2875
+g1
+(g18
+g19
+Ntp2876
+Rp2877
+(dp2878
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Lost Levels 2, The (V03-07-2000) (SMB1 Hack).zip"'
+p2879
+sg13
+g2875
+sbsS'Peach & Daisy - The Royal Quest (Alpha) (SMB1 Hack)'
+p2880
+g1
+(g18
+g19
+Ntp2881
+Rp2882
+(dp2883
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Peach & Daisy - The Royal Quest (Alpha) (SMB1 Hack).zip"'
+p2884
+sg13
+g2880
+sbsS'Super Mario Bros Enhanced (SMB1 Hack)'
+p2885
+g1
+(g18
+g19
+Ntp2886
+Rp2887
+(dp2888
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Super Mario Bros Enhanced (SMB1 Hack).zip"'
+p2889
+sg13
+g2885
+sbsS'Air (SMB1 Hack)'
+p2890
+g1
+(g18
+g19
+Ntp2891
+Rp2892
+(dp2893
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Air (SMB1 Hack).zip"'
+p2894
+sg13
+g2890
+sbsS'Super Mario Bros. 2 (PC10)'
+p2895
+g1
+(g18
+g19
+Ntp2896
+Rp2897
+(dp2898
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Super Mario Bros. 2 (PC10).zip"'
+p2899
+sg13
+g2895
+sbsS'Rambo (U)'
+p2900
+g1
+(g18
+g19
+Ntp2901
+Rp2902
+(dp2903
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rambo (U).zip"'
+p2904
+sg13
+g2900
+sbsS'Ms. Pac-Man (U) (Namco)'
+p2905
+g1
+(g18
+g19
+Ntp2906
+Rp2907
+(dp2908
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pac Man Roms/Ms. Pac-Man (U) (Namco).zip"'
+p2909
+sg13
+g2905
+sbsS'F-15 Strike Eagle (U)'
+p2910
+g1
+(g18
+g19
+Ntp2911
+Rp2912
+(dp2913
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/F-15 Strike Eagle (U).zip"'
+p2914
+sg13
+g2910
+sbsS'Rygar (U)'
+p2915
+g1
+(g18
+g19
+Ntp2916
+Rp2917
+(dp2918
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rygar (U).zip"'
+p2919
+sg13
+g2915
+sbsS'Robocop 3 (U)'
+p2920
+g1
+(g18
+g19
+Ntp2921
+Rp2922
+(dp2923
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Robocop 3 (U).zip"'
+p2924
+sg13
+g2920
+sbsS'Monkey of Zelda, The (Zelda Hack)'
+p2925
+g1
+(g18
+g19
+Ntp2926
+Rp2927
+(dp2928
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Monkey of Zelda, The (Zelda Hack).zip"'
+p2929
+sg13
+g2925
+sbsS'Mushroom Dreams (V1.1) (SMB1 Hack)'
+p2930
+g1
+(g18
+g19
+Ntp2931
+Rp2932
+(dp2933
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Mushroom Dreams (V1.1) (SMB1 Hack).zip"'
+p2934
+sg13
+g2930
+sbsS'Older Mario Bros (SMB1 Hack)'
+p2935
+g1
+(g18
+g19
+Ntp2936
+Rp2937
+(dp2938
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Older Mario Bros (SMB1 Hack).zip"'
+p2939
+sg13
+g2935
+sbsS'Sunday Funday (U)'
+p2940
+g1
+(g18
+g19
+Ntp2941
+Rp2942
+(dp2943
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sunday Funday (U).zip"'
+p2944
+sg13
+g2940
+sbsS'Luigi and the Christmas Quest (SMB1 Hack)'
+p2945
+g1
+(g18
+g19
+Ntp2946
+Rp2947
+(dp2948
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Luigi and the Christmas Quest (SMB1 Hack).zip"'
+p2949
+sg13
+g2945
+sbsS'Street Fighter 3 [p1]'
+p2950
+g1
+(g18
+g19
+Ntp2951
+Rp2952
+(dp2953
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Street Fighter 3 [p1].zip"'
+p2954
+sg13
+g2950
+sbsS"Jetsons, The - Cogswell's Caper! (U)"
+p2955
+g1
+(g18
+g19
+Ntp2956
+Rp2957
+(dp2958
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Jetsons, The - Cogswell\'s Caper! (U).zip"'
+p2959
+sg13
+g2955
+sbsS'Evil Dead (Zelda 2 Hack)'
+p2960
+g1
+(g18
+g19
+Ntp2961
+Rp2962
+(dp2963
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Evil Dead (Zelda 2 Hack).zip"'
+p2964
+sg13
+g2960
+sbsS'Gauntlet II (U)'
+p2965
+g1
+(g18
+g19
+Ntp2966
+Rp2967
+(dp2968
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Gauntlet II (U).zip"'
+p2969
+sg13
+g2965
+sbsS'Ms. Pac-Man (U) (Tengen)'
+p2970
+g1
+(g18
+g19
+Ntp2971
+Rp2972
+(dp2973
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pac Man Roms/Ms. Pac-Man (U) (Tengen).zip"'
+p2974
+sg13
+g2970
+sbsS'Bigfoot (U)'
+p2975
+g1
+(g18
+g19
+Ntp2976
+Rp2977
+(dp2978
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bigfoot (U).zip"'
+p2979
+sg13
+g2975
+sbsS'Wurm (U)'
+p2980
+g1
+(g18
+g19
+Ntp2981
+Rp2982
+(dp2983
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wurm (U).zip"'
+p2984
+sg13
+g2980
+sbsS'SMB2 Hard Type (Final) (SMB2 Hack)'
+p2985
+g1
+(g18
+g19
+Ntp2986
+Rp2987
+(dp2988
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 2/SMB2 Hard Type (Final) (SMB2 Hack).zip"'
+p2989
+sg13
+g2985
+sbsS'Short Order - Eggsplode (U) [!]'
+p2990
+g1
+(g18
+g19
+Ntp2991
+Rp2992
+(dp2993
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Short Order - Eggsplode (U) [!].zip"'
+p2994
+sg13
+g2990
+sbsS'Monster Party (U)'
+p2995
+g1
+(g18
+g19
+Ntp2996
+Rp2997
+(dp2998
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Monster Party (U).zip"'
+p2999
+sg13
+g2995
+sbsS"Magic Johnson's Fast Break (U)"
+p3000
+g1
+(g18
+g19
+Ntp3001
+Rp3002
+(dp3003
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Magic Johnson\'s Fast Break (U).zip"'
+p3004
+sg13
+g3000
+sbsS'Startropics (U)'
+p3005
+g1
+(g18
+g19
+Ntp3006
+Rp3007
+(dp3008
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Startropics (U).zip"'
+p3009
+sg13
+g3005
+sbsS'Pictionary (U)'
+p3010
+g1
+(g18
+g19
+Ntp3011
+Rp3012
+(dp3013
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pictionary (U).zip"'
+p3014
+sg13
+g3010
+sbsS'Super Mario Bros 3 Challenge V5.4 (SMB3 PRG0 Hack)'
+p3015
+g1
+(g18
+g19
+Ntp3016
+Rp3017
+(dp3018
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 3/Super Mario Bros 3 Challenge V5.4 (SMB3 PRG0 Hack).zip"'
+p3019
+sg13
+g3015
+sbsS'Videomation (U)'
+p3020
+g1
+(g18
+g19
+Ntp3021
+Rp3022
+(dp3023
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Videomation (U).zip"'
+p3024
+sg13
+g3020
+sbsS'Black Bass USA, The (U)'
+p3025
+g1
+(g18
+g19
+Ntp3026
+Rp3027
+(dp3028
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Black Bass USA, The (U).zip"'
+p3029
+sg13
+g3025
+sbsS'Contra (U) [!]'
+p3030
+g1
+(g18
+g19
+Ntp3031
+Rp3032
+(dp3033
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Contra (U) [!].zip"'
+p3034
+sg13
+g3030
+sbsS'Bomber Mario V1.00 (SMB1 Hack)'
+p3035
+g1
+(g18
+g19
+Ntp3036
+Rp3037
+(dp3038
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Bomber Mario V1.00 (SMB1 Hack).zip"'
+p3039
+sg13
+g3035
+sbsS'Battle Tank (U)'
+p3040
+g1
+(g18
+g19
+Ntp3041
+Rp3042
+(dp3043
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Battle Tank (U).zip"'
+p3044
+sg13
+g3040
+sbsS'Fire Emblem Gaiden (J) [T+Eng97b2_J2e]'
+p3045
+g1
+(g18
+g19
+Ntp3046
+Rp3047
+(dp3048
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Fire Emblem Gaiden (J) [T+Eng97b2_J2e].zip"'
+p3049
+sg13
+g3045
+sbsS'WCW World Championship Wrestling (U)'
+p3050
+g1
+(g18
+g19
+Ntp3051
+Rp3052
+(dp3053
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/WCW World Championship Wrestling (U).zip"'
+p3054
+sg13
+g3050
+sbsS'Super Link Bros (SMB1 Hack)'
+p3055
+g1
+(g18
+g19
+Ntp3056
+Rp3057
+(dp3058
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Super Link Bros (SMB1 Hack).zip"'
+p3059
+sg13
+g3055
+sbsS'Cyber Mario (SMB1 Hack)'
+p3060
+g1
+(g18
+g19
+Ntp3061
+Rp3062
+(dp3063
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Cyber Mario (SMB1 Hack).zip"'
+p3064
+sg13
+g3060
+sbsS'Star Force (U)'
+p3065
+g1
+(g18
+g19
+Ntp3066
+Rp3067
+(dp3068
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Star Force (U).zip"'
+p3069
+sg13
+g3065
+sbsS'Adventures of Lolo 2 (U)'
+p3070
+g1
+(g18
+g19
+Ntp3071
+Rp3072
+(dp3073
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Adventures of Lolo 2 (U).zip"'
+p3074
+sg13
+g3070
+sbsS'Sirius Mario Bros 5 (SMB1 Hack)'
+p3075
+g1
+(g18
+g19
+Ntp3076
+Rp3077
+(dp3078
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Sirius Mario Bros 5 (SMB1 Hack).zip"'
+p3079
+sg13
+g3075
+sbsS'Attack of the Killer Tomatoes (U)'
+p3080
+g1
+(g18
+g19
+Ntp3081
+Rp3082
+(dp3083
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Attack of the Killer Tomatoes (U).zip"'
+p3084
+sg13
+g3080
+sbsS'Ice Hockey (U) [!]'
+p3085
+g1
+(g18
+g19
+Ntp3086
+Rp3087
+(dp3088
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ice Hockey (U) [!].zip"'
+p3089
+sg13
+g3085
+sbsS'Fantasy of Darkness (FF1 Hack)'
+p3090
+g1
+(g18
+g19
+Ntp3091
+Rp3092
+(dp3093
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Fantasy of Darkness (FF1 Hack).zip"'
+p3094
+sg13
+g3090
+sbsS'Destination Earthstar (U)'
+p3095
+g1
+(g18
+g19
+Ntp3096
+Rp3097
+(dp3098
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Destination Earthstar (U).zip"'
+p3099
+sg13
+g3095
+sbsS'Gun.Smoke (U)'
+p3100
+g1
+(g18
+g19
+Ntp3101
+Rp3102
+(dp3103
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Gun.Smoke (U).zip"'
+p3104
+sg13
+g3100
+sbsS'Klash Ball (U)'
+p3105
+g1
+(g18
+g19
+Ntp3106
+Rp3107
+(dp3108
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Klash Ball (U).zip"'
+p3109
+sg13
+g3105
+sbsS'Dr. Manson (Dr. Mario Hack)'
+p3110
+g1
+(g18
+g19
+Ntp3111
+Rp3112
+(dp3113
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/Dr. Mario/Dr. Manson (Dr. Mario Hack).zip"'
+p3114
+sg13
+g3110
+sbsS'Track & Field 2 (U)'
+p3115
+g1
+(g18
+g19
+Ntp3116
+Rp3117
+(dp3118
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Track & Field 2 (U).zip"'
+p3119
+sg13
+g3115
+sbsS'Mortal Kombat Bros (SMB1 Hack)'
+p3120
+g1
+(g18
+g19
+Ntp3121
+Rp3122
+(dp3123
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Mortal Kombat Bros (SMB1 Hack).zip"'
+p3124
+sg13
+g3120
+sbsS'Balloon Bros (Final) (SMB1 Hack)'
+p3125
+g1
+(g18
+g19
+Ntp3126
+Rp3127
+(dp3128
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Balloon Bros (Final) (SMB1 Hack).zip"'
+p3129
+sg13
+g3125
+sbsS'Trolls on Treasure Island (U)'
+p3130
+g1
+(g18
+g19
+Ntp3131
+Rp3132
+(dp3133
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Trolls on Treasure Island (U).zip"'
+p3134
+sg13
+g3130
+sbsS'Klax (U)'
+p3135
+g1
+(g18
+g19
+Ntp3136
+Rp3137
+(dp3138
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Klax (U).zip"'
+p3139
+sg13
+g3135
+sbsS'Conflict (U) [!]'
+p3140
+g1
+(g18
+g19
+Ntp3141
+Rp3142
+(dp3143
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Conflict (U) [!].zip"'
+p3144
+sg13
+g3140
+sbsS'Back to the Future (U)'
+p3145
+g1
+(g18
+g19
+Ntp3146
+Rp3147
+(dp3148
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Back to the Future (U).zip"'
+p3149
+sg13
+g3145
+sbsS'Dr. Mario (E)'
+p3150
+g1
+(g18
+g19
+Ntp3151
+Rp3152
+(dp3153
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Dr. Mario (E).zip"'
+p3154
+sg13
+g3150
+sbsS'Silent Service (U)'
+p3155
+g1
+(g18
+g19
+Ntp3156
+Rp3157
+(dp3158
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Silent Service (U).zip"'
+p3159
+sg13
+g3155
+sbsS"Kirby's Adventure (U) (PRG0) [!]"
+p3160
+g1
+(g18
+g19
+Ntp3161
+Rp3162
+(dp3163
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Kirby\'s Adventure (U) (PRG0) [!].zip"'
+p3164
+sg13
+g3160
+sbsS'Gradius (U)'
+p3165
+g1
+(g18
+g19
+Ntp3166
+Rp3167
+(dp3168
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Gradius (U).zip"'
+p3169
+sg13
+g3165
+sbsS'Fish Bros (Mario Bros Hack)'
+p3170
+g1
+(g18
+g19
+Ntp3171
+Rp3172
+(dp3173
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Fish Bros (Mario Bros Hack).zip"'
+p3174
+sg13
+g3170
+sbsS'SMB Challenge v5.0 (SMB1 Hack)'
+p3175
+g1
+(g18
+g19
+Ntp3176
+Rp3177
+(dp3178
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/SMB Challenge v5.0 (SMB1 Hack).zip"'
+p3179
+sg13
+g3175
+sbsS'Dudes With Attitude (U)'
+p3180
+g1
+(g18
+g19
+Ntp3181
+Rp3182
+(dp3183
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dudes With Attitude (U).zip"'
+p3184
+sg13
+g3180
+sbsS'Raid 2020 (U) [!]'
+p3185
+g1
+(g18
+g19
+Ntp3186
+Rp3187
+(dp3188
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Raid 2020 (U) [!].zip"'
+p3189
+sg13
+g3185
+sbsS'Girl Merio (SMB1 Hack)'
+p3190
+g1
+(g18
+g19
+Ntp3191
+Rp3192
+(dp3193
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Girl Merio (SMB1 Hack).zip"'
+p3194
+sg13
+g3190
+sbsS'Motor City Patrol (U)'
+p3195
+g1
+(g18
+g19
+Ntp3196
+Rp3197
+(dp3198
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Motor City Patrol (U).zip"'
+p3199
+sg13
+g3195
+sbsS'R.B.I. Baseball 2 (U)'
+p3200
+g1
+(g18
+g19
+Ntp3201
+Rp3202
+(dp3203
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/R.B.I. Baseball 2 (U).zip"'
+p3204
+sg13
+g3200
+sbsS'Roundball - 2-on-2 Challenge (U)'
+p3205
+g1
+(g18
+g19
+Ntp3206
+Rp3207
+(dp3208
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Roundball - 2-on-2 Challenge (U).zip"'
+p3209
+sg13
+g3205
+sbsS"Frank's First Super Mario Bros 3 (SMB3 Hack)"
+p3210
+g1
+(g18
+g19
+Ntp3211
+Rp3212
+(dp3213
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/The Frank Series/Frank\'s First Super Mario Bros 3 (SMB3 Hack).zip"'
+p3214
+sg13
+g3210
+sbsS"Mickey's Adventures in Numberland (U)"
+p3215
+g1
+(g18
+g19
+Ntp3216
+Rp3217
+(dp3218
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mickey\'s Adventures in Numberland (U).zip"'
+p3219
+sg13
+g3215
+sbsS'Mighty Final Fight (U)'
+p3220
+g1
+(g18
+g19
+Ntp3221
+Rp3222
+(dp3223
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mighty Final Fight (U).zip"'
+p3224
+sg13
+g3220
+sbsS'Legendary Wings (U)'
+p3225
+g1
+(g18
+g19
+Ntp3226
+Rp3227
+(dp3228
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Legendary Wings (U).zip"'
+p3229
+sg13
+g3225
+sbsS'Legend of Kage, The (U)'
+p3230
+g1
+(g18
+g19
+Ntp3231
+Rp3232
+(dp3233
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Legend of Kage, The (U).zip"'
+p3234
+sg13
+g3230
+sbsS'Frankenstein - The Monster Returns (U)'
+p3235
+g1
+(g18
+g19
+Ntp3236
+Rp3237
+(dp3238
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Frankenstein - The Monster Returns (U).zip"'
+p3239
+sg13
+g3235
+sbsS'Metal Mech (U)'
+p3240
+g1
+(g18
+g19
+Ntp3241
+Rp3242
+(dp3243
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Metal Mech (U).zip"'
+p3244
+sg13
+g3240
+sbsS'Days of Thunder (U)'
+p3245
+g1
+(g18
+g19
+Ntp3246
+Rp3247
+(dp3248
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Days of Thunder (U).zip"'
+p3249
+sg13
+g3245
+sbsS'Rolling Thunder (U)'
+p3250
+g1
+(g18
+g19
+Ntp3251
+Rp3252
+(dp3253
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rolling Thunder (U).zip"'
+p3254
+sg13
+g3250
+sbsS'Jaws (U) [!]'
+p3255
+g1
+(g18
+g19
+Ntp3256
+Rp3257
+(dp3258
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Jaws (U) [!].zip"'
+p3259
+sg13
+g3255
+sbsS'Pikachu Bros (Mario Bros Hack)'
+p3260
+g1
+(g18
+g19
+Ntp3261
+Rp3262
+(dp3263
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Pikachu Bros (Mario Bros Hack).zip"'
+p3264
+sg13
+g3260
+sbsS'Twin Cobra (U)'
+p3265
+g1
+(g18
+g19
+Ntp3266
+Rp3267
+(dp3268
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Twin Cobra (U).zip"'
+p3269
+sg13
+g3265
+sbsS'Peach & Daisy in The Ultimate Quest (SMB3 Hack)'
+p3270
+g1
+(g18
+g19
+Ntp3271
+Rp3272
+(dp3273
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 3/Peach & Daisy in The Ultimate Quest (SMB3 Hack).zip"'
+p3274
+sg13
+g3270
+sbsS"Where's Waldo (U)"
+p3275
+g1
+(g18
+g19
+Ntp3276
+Rp3277
+(dp3278
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Where\'s Waldo (U).zip"'
+p3279
+sg13
+g3275
+sbsS'Ultima - Quest of the Avatar (U)'
+p3280
+g1
+(g18
+g19
+Ntp3281
+Rp3282
+(dp3283
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ultima - Quest of the Avatar (U).zip"'
+p3284
+sg13
+g3280
+sbsS'Code Name - Viper (U)'
+p3285
+g1
+(g18
+g19
+Ntp3286
+Rp3287
+(dp3288
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Code Name - Viper (U).zip"'
+p3289
+sg13
+g3285
+sbsS'Stunt Kids (U)'
+p3290
+g1
+(g18
+g19
+Ntp3291
+Rp3292
+(dp3293
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Stunt Kids (U).zip"'
+p3294
+sg13
+g3290
+sbsS'Super Mario World [p1]'
+p3295
+g1
+(g18
+g19
+Ntp3296
+Rp3297
+(dp3298
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Super Mario World [p1].zip"'
+p3299
+sg13
+g3295
+sbsS'SMB1 Hard Type (SMB1 Hack)'
+p3300
+g1
+(g18
+g19
+Ntp3301
+Rp3302
+(dp3303
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/SMB1 Hard Type (SMB1 Hack).zip"'
+p3304
+sg13
+g3300
+sbsS'Super Team Games (U)'
+p3305
+g1
+(g18
+g19
+Ntp3306
+Rp3307
+(dp3308
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super Team Games (U).zip"'
+p3309
+sg13
+g3305
+sbsS'Nightmare on Elm Street, A (U)'
+p3310
+g1
+(g18
+g19
+Ntp3311
+Rp3312
+(dp3313
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Nightmare on Elm Street, A (U).zip"'
+p3314
+sg13
+g3310
+sbsS'Baseball Stars II (U)'
+p3315
+g1
+(g18
+g19
+Ntp3316
+Rp3317
+(dp3318
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Baseball Stars II (U).zip"'
+p3319
+sg13
+g3315
+sbsS'Terra Cresta (U)'
+p3320
+g1
+(g18
+g19
+Ntp3321
+Rp3322
+(dp3323
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Terra Cresta (U).zip"'
+p3324
+sg13
+g3320
+sbsS'Metroid (U) [!]'
+p3325
+g1
+(g18
+g19
+Ntp3326
+Rp3327
+(dp3328
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Metroid (U) [!].zip"'
+p3329
+sg13
+g3325
+sbsS'Blob Bros 2 (SMB3 Hack)'
+p3330
+g1
+(g18
+g19
+Ntp3331
+Rp3332
+(dp3333
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Blob Bros 2 (SMB3 Hack).zip"'
+p3334
+sg13
+g3330
+sbsS'All-Pro Basketball (U)'
+p3335
+g1
+(g18
+g19
+Ntp3336
+Rp3337
+(dp3338
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/All-Pro Basketball (U).zip"'
+p3339
+sg13
+g3335
+sbsS'Desert Commander (U)'
+p3340
+g1
+(g18
+g19
+Ntp3341
+Rp3342
+(dp3343
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Desert Commander (U).zip"'
+p3344
+sg13
+g3340
+sbsS'Ninja Gaiden (U) [!]'
+p3345
+g1
+(g18
+g19
+Ntp3346
+Rp3347
+(dp3348
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ninja Gaiden (U) [!].zip"'
+p3349
+sg13
+g3345
+sbsS'Touch Down Fever (U)'
+p3350
+g1
+(g18
+g19
+Ntp3351
+Rp3352
+(dp3353
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Touch Down Fever (U).zip"'
+p3354
+sg13
+g3350
+sbsS'Widget (U)'
+p3355
+g1
+(g18
+g19
+Ntp3356
+Rp3357
+(dp3358
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Widget (U).zip"'
+p3359
+sg13
+g3355
+sbsS"Big Bird's Hide & Speak (U)"
+p3360
+g1
+(g18
+g19
+Ntp3361
+Rp3362
+(dp3363
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Big Bird\'s Hide & Speak (U).zip"'
+p3364
+sg13
+g3360
+sbsS'Silk Worm (U)'
+p3365
+g1
+(g18
+g19
+Ntp3366
+Rp3367
+(dp3368
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Silk Worm (U).zip"'
+p3369
+sg13
+g3365
+sbsS'Fall of the Moon v1.0 (Zelda Hack)'
+p3370
+g1
+(g18
+g19
+Ntp3371
+Rp3372
+(dp3373
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Fall of the Moon v1.0 (Zelda Hack).zip"'
+p3374
+sg13
+g3370
+sbsS'Barney Bros (SMB1 Hack)'
+p3375
+g1
+(g18
+g19
+Ntp3376
+Rp3377
+(dp3378
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Barney Bros (SMB1 Hack).zip"'
+p3379
+sg13
+g3375
+sbsS'Super Cars (U)'
+p3380
+g1
+(g18
+g19
+Ntp3381
+Rp3382
+(dp3383
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super Cars (U).zip"'
+p3384
+sg13
+g3380
+sbsS'Legend of Zelda, The (Esperanto Hack)'
+p3385
+g1
+(g18
+g19
+Ntp3386
+Rp3387
+(dp3388
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Legend of Zelda, The (Esperanto Hack).zip"'
+p3389
+sg13
+g3385
+sbsS'Tetris 2 (U) [!]'
+p3390
+g1
+(g18
+g19
+Ntp3391
+Rp3392
+(dp3393
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Tetris 2 (U) [!].zip"'
+p3394
+sg13
+g3390
+sbsS'Mega Man 5 (U)'
+p3395
+g1
+(g18
+g19
+Ntp3396
+Rp3397
+(dp3398
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mega Man 5 (U).zip"'
+p3399
+sg13
+g3395
+sbsS'Incredible Crash Dummies, The (U)'
+p3400
+g1
+(g18
+g19
+Ntp3401
+Rp3402
+(dp3403
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Incredible Crash Dummies, The (U).zip"'
+p3404
+sg13
+g3400
+sbsS'Bloody Dagger Bros (SMB1 Hack)'
+p3405
+g1
+(g18
+g19
+Ntp3406
+Rp3407
+(dp3408
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Bloody Dagger Bros (SMB1 Hack).zip"'
+p3409
+sg13
+g3405
+sbsS'WWF Wrestlemania Challenge (U)'
+p3410
+g1
+(g18
+g19
+Ntp3411
+Rp3412
+(dp3413
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/WWF Wrestlemania Challenge (U).zip"'
+p3414
+sg13
+g3410
+sbsS'Hoops (U)'
+p3415
+g1
+(g18
+g19
+Ntp3416
+Rp3417
+(dp3418
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Hoops (U).zip"'
+p3419
+sg13
+g3415
+sbsS'Miracle Piano Teaching System, The (U)'
+p3420
+g1
+(g18
+g19
+Ntp3421
+Rp3422
+(dp3423
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Miracle Piano Teaching System, The (U).zip"'
+p3424
+sg13
+g3420
+sbsS'Dynowarz - Destruction of Spondylus (U)'
+p3425
+g1
+(g18
+g19
+Ntp3426
+Rp3427
+(dp3428
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dynowarz - Destruction of Spondylus (U).zip"'
+p3429
+sg13
+g3425
+sbsS'Snow Bros (U)'
+p3430
+g1
+(g18
+g19
+Ntp3431
+Rp3432
+(dp3433
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Snow Bros (U).zip"'
+p3434
+sg13
+g3430
+sbsS'Legend of Zelda, The (U) (PRG0)'
+p3435
+g1
+(g18
+g19
+Ntp3436
+Rp3437
+(dp3438
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Legend of Zelda, The (U) (PRG0).zip"'
+p3439
+sg13
+g3435
+sbsS'Anticipation (U)'
+p3440
+g1
+(g18
+g19
+Ntp3441
+Rp3442
+(dp3443
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Anticipation (U).zip"'
+p3444
+sg13
+g3440
+sbsS'Championship Bowling (U) [!]'
+p3445
+g1
+(g18
+g19
+Ntp3446
+Rp3447
+(dp3448
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Championship Bowling (U) [!].zip"'
+p3449
+sg13
+g3445
+sbsS'Cobra Command (U)'
+p3450
+g1
+(g18
+g19
+Ntp3451
+Rp3452
+(dp3453
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Cobra Command (U).zip"'
+p3454
+sg13
+g3450
+sbsS'Racket Attack (U)'
+p3455
+g1
+(g18
+g19
+Ntp3456
+Rp3457
+(dp3458
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Racket Attack (U).zip"'
+p3459
+sg13
+g3455
+sbsS'Ladies Golf (VS)'
+p3460
+g1
+(g18
+g19
+Ntp3461
+Rp3462
+(dp3463
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Ladies Golf (VS).zip"'
+p3464
+sg13
+g3460
+sbsS"Heavy Shreddin' (U)"
+p3465
+g1
+(g18
+g19
+Ntp3466
+Rp3467
+(dp3468
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Heavy Shreddin\' (U).zip"'
+p3469
+sg13
+g3465
+sbsS'Bible Buffet (U)'
+p3470
+g1
+(g18
+g19
+Ntp3471
+Rp3472
+(dp3473
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bible Buffet (U).zip"'
+p3474
+sg13
+g3470
+sbsS'Super Mario Bros 2 - Christmas Edition (SMB2 Hack)'
+p3475
+g1
+(g18
+g19
+Ntp3476
+Rp3477
+(dp3478
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 2/Super Mario Bros 2 - Christmas Edition (SMB2 Hack).zip"'
+p3479
+sg13
+g3475
+sbsS'Paperboy (U)'
+p3480
+g1
+(g18
+g19
+Ntp3481
+Rp3482
+(dp3483
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Paperboy (U).zip"'
+p3484
+sg13
+g3480
+sbsS'Bad Street Brawler (U)'
+p3485
+g1
+(g18
+g19
+Ntp3486
+Rp3487
+(dp3488
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bad Street Brawler (U).zip"'
+p3489
+sg13
+g3485
+sbsS'Bee 52 (U)'
+p3490
+g1
+(g18
+g19
+Ntp3491
+Rp3492
+(dp3493
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bee 52 (U).zip"'
+p3494
+sg13
+g3490
+sbsS'Beauty and the Beast (E) [!]'
+p3495
+g1
+(g18
+g19
+Ntp3496
+Rp3497
+(dp3498
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Beauty and the Beast (E) [!].zip"'
+p3499
+sg13
+g3495
+sbsS'Top Gun - The Second Mission (U)'
+p3500
+g1
+(g18
+g19
+Ntp3501
+Rp3502
+(dp3503
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Top Gun - The Second Mission (U).zip"'
+p3504
+sg13
+g3500
+sbsS'Mystery Quest (U)'
+p3505
+g1
+(g18
+g19
+Ntp3506
+Rp3507
+(dp3508
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mystery Quest (U).zip"'
+p3509
+sg13
+g3505
+sbsS'To The Earth (U)'
+p3510
+g1
+(g18
+g19
+Ntp3511
+Rp3512
+(dp3513
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/To The Earth (U).zip"'
+p3514
+sg13
+g3510
+sbsS'Super Monk Bros (SMB3 Hack)'
+p3515
+g1
+(g18
+g19
+Ntp3516
+Rp3517
+(dp3518
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 3/Super Monk Bros (SMB3 Hack).zip"'
+p3519
+sg13
+g3515
+sbsS'Qix (U)'
+p3520
+g1
+(g18
+g19
+Ntp3521
+Rp3522
+(dp3523
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Qix (U).zip"'
+p3524
+sg13
+g3520
+sbsS'Puzznic (U)'
+p3525
+g1
+(g18
+g19
+Ntp3526
+Rp3527
+(dp3528
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Puzznic (U).zip"'
+p3529
+sg13
+g3525
+sbsS'Star Trek - 25th Anniversary (U)'
+p3530
+g1
+(g18
+g19
+Ntp3531
+Rp3532
+(dp3533
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Star Trek - 25th Anniversary (U).zip"'
+p3534
+sg13
+g3530
+sbsS'Jordan Vs Bird - One On One (U)'
+p3535
+g1
+(g18
+g19
+Ntp3536
+Rp3537
+(dp3538
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Jordan Vs Bird - One On One (U).zip"'
+p3539
+sg13
+g3535
+sbsS'Starship Hector (U)'
+p3540
+g1
+(g18
+g19
+Ntp3541
+Rp3542
+(dp3543
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Starship Hector (U).zip"'
+p3544
+sg13
+g3540
+sbsS'Orb 3D (U)'
+p3545
+g1
+(g18
+g19
+Ntp3546
+Rp3547
+(dp3548
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Orb 3D (U).zip"'
+p3549
+sg13
+g3545
+sbsS'Bo Jackson Baseball (U)'
+p3550
+g1
+(g18
+g19
+Ntp3551
+Rp3552
+(dp3553
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Bo Jackson Baseball (U).zip"'
+p3554
+sg13
+g3550
+sbsS'Super Pitfall (U)'
+p3555
+g1
+(g18
+g19
+Ntp3556
+Rp3557
+(dp3558
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super Pitfall (U).zip"'
+p3559
+sg13
+g3555
+sbsS'Cabal (U)'
+p3560
+g1
+(g18
+g19
+Ntp3561
+Rp3562
+(dp3563
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Cabal (U).zip"'
+p3564
+sg13
+g3560
+sbsS'Star Wars - The Empire Strikes Back (U)'
+p3565
+g1
+(g18
+g19
+Ntp3566
+Rp3567
+(dp3568
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Star Wars - The Empire Strikes Back (U).zip"'
+p3569
+sg13
+g3565
+sbsS'Kero Kero Keroppi no Daibouken (J) [T+Eng1.00_Gaijin]'
+p3570
+g1
+(g18
+g19
+Ntp3571
+Rp3572
+(dp3573
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Kero Kero Keroppi no Daibouken (J) [T+Eng1.00_Gaijin].zip"'
+p3574
+sg13
+g3570
+sbsS'Game Genie (PD)'
+p3575
+g1
+(g18
+g19
+Ntp3576
+Rp3577
+(dp3578
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Game Genie/Game Genie (PD).zip"'
+p3579
+sg13
+g3575
+sbsS'Castelian (U)'
+p3580
+g1
+(g18
+g19
+Ntp3581
+Rp3582
+(dp3583
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Castelian (U).zip"'
+p3584
+sg13
+g3580
+sbsS'Street Cop (U)'
+p3585
+g1
+(g18
+g19
+Ntp3586
+Rp3587
+(dp3588
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Street Cop (U).zip"'
+p3589
+sg13
+g3585
+sbsS'Pro Wrestling (U) (PRG1) [!]'
+p3590
+g1
+(g18
+g19
+Ntp3591
+Rp3592
+(dp3593
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Pro Wrestling (U) (PRG1) [!].zip"'
+p3594
+sg13
+g3590
+sbsS'Kamakaze (SMB1 Hack) [a1]'
+p3595
+g1
+(g18
+g19
+Ntp3596
+Rp3597
+(dp3598
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Kamakaze (SMB1 Hack) [a1].zip"'
+p3599
+sg13
+g3595
+sbsS'Dora Bros (Mario Bros Hack)'
+p3600
+g1
+(g18
+g19
+Ntp3601
+Rp3602
+(dp3603
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Dora Bros (Mario Bros Hack).zip"'
+p3604
+sg13
+g3600
+sbsS'Vice - Project Doom (U)'
+p3605
+g1
+(g18
+g19
+Ntp3606
+Rp3607
+(dp3608
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Vice - Project Doom (U).zip"'
+p3609
+sg13
+g3605
+sbsS"Clyde's Revenge (Pac-Man Hack)"
+p3610
+g1
+(g18
+g19
+Ntp3611
+Rp3612
+(dp3613
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pac Man Roms/Clyde\'s Revenge (Pac-Man Hack).zip"'
+p3614
+sg13
+g3610
+sbsS'Ultimate Basketball (U)'
+p3615
+g1
+(g18
+g19
+Ntp3616
+Rp3617
+(dp3618
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ultimate Basketball (U).zip"'
+p3619
+sg13
+g3615
+sbsS'Ironsword - Wizards & Warriors II (U)'
+p3620
+g1
+(g18
+g19
+Ntp3621
+Rp3622
+(dp3623
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ironsword - Wizards & Warriors II (U).zip"'
+p3624
+sg13
+g3620
+sbsS'Mario Different Levels (SMB1 Hack) [a1]'
+p3625
+g1
+(g18
+g19
+Ntp3626
+Rp3627
+(dp3628
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Mario Different Levels (SMB1 Hack) [a1].zip"'
+p3629
+sg13
+g3625
+sbsS'Deadly Towers (U)'
+p3630
+g1
+(g18
+g19
+Ntp3631
+Rp3632
+(dp3633
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Deadly Towers (U).zip"'
+p3634
+sg13
+g3630
+sbsS'Three Stooges (U)'
+p3635
+g1
+(g18
+g19
+Ntp3636
+Rp3637
+(dp3638
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Three Stooges (U).zip"'
+p3639
+sg13
+g3635
+sbsS'Duck Hunt (VS)'
+p3640
+g1
+(g18
+g19
+Ntp3641
+Rp3642
+(dp3643
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Duck Hunt (VS).zip"'
+p3644
+sg13
+g3640
+sbsS"Super Spike V'Ball + Nintendo World Cup (U) [!]"
+p3645
+g1
+(g18
+g19
+Ntp3646
+Rp3647
+(dp3648
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super Spike V\'Ball + Nintendo World Cup (U) [!].zip"'
+p3649
+sg13
+g3645
+sbsS'Tecmo World Wrestling (U)'
+p3650
+g1
+(g18
+g19
+Ntp3651
+Rp3652
+(dp3653
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Tecmo World Wrestling (U).zip"'
+p3654
+sg13
+g3650
+sbsS'Mushroom Bros (Mario Bros Hack)'
+p3655
+g1
+(g18
+g19
+Ntp3656
+Rp3657
+(dp3658
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Mushroom Bros (Mario Bros Hack).zip"'
+p3659
+sg13
+g3655
+sbsS'Toki (U)'
+p3660
+g1
+(g18
+g19
+Ntp3661
+Rp3662
+(dp3663
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Toki (U).zip"'
+p3664
+sg13
+g3660
+sbsS'Tom & Jerry and Tuffy (U)'
+p3665
+g1
+(g18
+g19
+Ntp3666
+Rp3667
+(dp3668
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Tom & Jerry and Tuffy (U).zip"'
+p3669
+sg13
+g3665
+sbsS'Bomberman (U)'
+p3670
+g1
+(g18
+g19
+Ntp3671
+Rp3672
+(dp3673
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bomberman (U).zip"'
+p3674
+sg13
+g3670
+sbsS'Break Time - The National Pool Tour (U)'
+p3675
+g1
+(g18
+g19
+Ntp3676
+Rp3677
+(dp3678
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Break Time - The National Pool Tour (U).zip"'
+p3679
+sg13
+g3675
+sbsS'Bubble Bobble (U)'
+p3680
+g1
+(g18
+g19
+Ntp3681
+Rp3682
+(dp3683
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bubble Bobble (U).zip"'
+p3684
+sg13
+g3680
+sbsS"Bard's Tale, The - Tales of the Unknown (U) [!]"
+p3685
+g1
+(g18
+g19
+Ntp3686
+Rp3687
+(dp3688
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bard\'s Tale, The - Tales of the Unknown (U) [!].zip"'
+p3689
+sg13
+g3685
+sbsS'Captain Planet and The Planeteers (U)'
+p3690
+g1
+(g18
+g19
+Ntp3691
+Rp3692
+(dp3693
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Captain Planet and The Planeteers (U).zip"'
+p3694
+sg13
+g3690
+sbsS'Fist of the North Star (U)'
+p3695
+g1
+(g18
+g19
+Ntp3696
+Rp3697
+(dp3698
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Fist of the North Star (U).zip"'
+p3699
+sg13
+g3695
+sbsS'Batman Returns (U)'
+p3700
+g1
+(g18
+g19
+Ntp3701
+Rp3702
+(dp3703
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Batman Returns (U).zip"'
+p3704
+sg13
+g3700
+sbsS'Mario Mixed Fruit (SMB1 Hack)'
+p3705
+g1
+(g18
+g19
+Ntp3706
+Rp3707
+(dp3708
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Mario Mixed Fruit (SMB1 Hack).zip"'
+p3709
+sg13
+g3705
+sbsS"Nobunaga's Ambition 2 (U)"
+p3710
+g1
+(g18
+g19
+Ntp3711
+Rp3712
+(dp3713
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Nobunaga\'s Ambition 2 (U).zip"'
+p3714
+sg13
+g3710
+sbsS'Magic of Scheherazade, The (U)'
+p3715
+g1
+(g18
+g19
+Ntp3716
+Rp3717
+(dp3718
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Magic of Scheherazade, The (U).zip"'
+p3719
+sg13
+g3715
+sbsS'Esperanto Zelda (Zelda Hack)'
+p3720
+g1
+(g18
+g19
+Ntp3721
+Rp3722
+(dp3723
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Esperanto Zelda (Zelda Hack).zip"'
+p3724
+sg13
+g3720
+sbsS'Music Mario Bros (SMB1 Hack)'
+p3725
+g1
+(g18
+g19
+Ntp3726
+Rp3727
+(dp3728
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Music Mario Bros (SMB1 Hack).zip"'
+p3729
+sg13
+g3725
+sbsS"King's Knight (U)"
+p3730
+g1
+(g18
+g19
+Ntp3731
+Rp3732
+(dp3733
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/King\'s Knight (U).zip"'
+p3734
+sg13
+g3730
+sbsS'Wrecking Crew (VS) [!]'
+p3735
+g1
+(g18
+g19
+Ntp3736
+Rp3737
+(dp3738
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wrecking Crew (VS) [!].zip"'
+p3739
+sg13
+g3735
+sbsS'Nintendo World Cup (U)'
+p3740
+g1
+(g18
+g19
+Ntp3741
+Rp3742
+(dp3743
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Nintendo World Cup (U).zip"'
+p3744
+sg13
+g3740
+sbsS'Prince of Persia (U)'
+p3745
+g1
+(g18
+g19
+Ntp3746
+Rp3747
+(dp3748
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Prince of Persia (U).zip"'
+p3749
+sg13
+g3745
+sbsS"Danny Sullivan's Indy Heat (U)"
+p3750
+g1
+(g18
+g19
+Ntp3751
+Rp3752
+(dp3753
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Danny Sullivan\'s Indy Heat (U).zip"'
+p3754
+sg13
+g3750
+sbsS'Carnage 2 (SMB2 Hack)'
+p3755
+g1
+(g18
+g19
+Ntp3756
+Rp3757
+(dp3758
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 2/Carnage 2 (SMB2 Hack).zip"'
+p3759
+sg13
+g3755
+sbsS'Untouchables, The (U)'
+p3760
+g1
+(g18
+g19
+Ntp3761
+Rp3762
+(dp3763
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Untouchables, The (U).zip"'
+p3764
+sg13
+g3760
+sbsS"Goomba's Revenge (SMB1 Hack)"
+p3765
+g1
+(g18
+g19
+Ntp3766
+Rp3767
+(dp3768
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Goomba\'s Revenge (SMB1 Hack).zip"'
+p3769
+sg13
+g3765
+sbsS'Yo! Noid (U)'
+p3770
+g1
+(g18
+g19
+Ntp3771
+Rp3772
+(dp3773
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Yo! Noid (U).zip"'
+p3774
+sg13
+g3770
+sbsS'R.B.I. Baseball 3 (U)'
+p3775
+g1
+(g18
+g19
+Ntp3776
+Rp3777
+(dp3778
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/R.B.I. Baseball 3 (U).zip"'
+p3779
+sg13
+g3775
+sbsS'Spy Hunter (U)'
+p3780
+g1
+(g18
+g19
+Ntp3781
+Rp3782
+(dp3783
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Spy Hunter (U).zip"'
+p3784
+sg13
+g3780
+sbsS'Chessmaster, The (U)'
+p3785
+g1
+(g18
+g19
+Ntp3786
+Rp3787
+(dp3788
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Chessmaster, The (U).zip"'
+p3789
+sg13
+g3785
+sbsS'Twin Eagle (U)'
+p3790
+g1
+(g18
+g19
+Ntp3791
+Rp3792
+(dp3793
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Twin Eagle (U).zip"'
+p3794
+sg13
+g3790
+sbsS'Death Race (U)'
+p3795
+g1
+(g18
+g19
+Ntp3796
+Rp3797
+(dp3798
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Death Race (U).zip"'
+p3799
+sg13
+g3795
+sbsS'Teenage Mutant Ninja Turtles - Tournament Fighters (U)'
+p3800
+g1
+(g18
+g19
+Ntp3801
+Rp3802
+(dp3803
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Teenage Mutant Ninja Turtles - Tournament Fighters (U).zip"'
+p3804
+sg13
+g3800
+sbsS'Karnov (U)'
+p3805
+g1
+(g18
+g19
+Ntp3806
+Rp3807
+(dp3808
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Karnov (U).zip"'
+p3809
+sg13
+g3805
+sbsS"P'radikus Conflict, The (U)"
+p3810
+g1
+(g18
+g19
+Ntp3811
+Rp3812
+(dp3813
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/P\'radikus Conflict, The (U).zip"'
+p3814
+sg13
+g3810
+sbsS'Arkanoid (U)'
+p3815
+g1
+(g18
+g19
+Ntp3816
+Rp3817
+(dp3818
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Arkanoid (U).zip"'
+p3819
+sg13
+g3815
+sbsS'Monopoly (U)'
+p3820
+g1
+(g18
+g19
+Ntp3821
+Rp3822
+(dp3823
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Monopoly (U).zip"'
+p3824
+sg13
+g3820
+sbsS'Robo Warrior (U)'
+p3825
+g1
+(g18
+g19
+Ntp3826
+Rp3827
+(dp3828
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Robo Warrior (U).zip"'
+p3829
+sg13
+g3825
+sbsS'Goonies II, The (U)'
+p3830
+g1
+(g18
+g19
+Ntp3831
+Rp3832
+(dp3833
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Goonies II, The (U).zip"'
+p3834
+sg13
+g3830
+sbsS'Mario is Missing! (U)'
+p3835
+g1
+(g18
+g19
+Ntp3836
+Rp3837
+(dp3838
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Mario is Missing! (U).zip"'
+p3839
+sg13
+g3835
+sbsS'Adventures of Ice Mario (SMB1 Hack)'
+p3840
+g1
+(g18
+g19
+Ntp3841
+Rp3842
+(dp3843
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Adventures of Ice Mario (SMB1 Hack).zip"'
+p3844
+sg13
+g3840
+sbsS'Wheel of Fortune Family Edition (U)'
+p3845
+g1
+(g18
+g19
+Ntp3846
+Rp3847
+(dp3848
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wheel of Fortune Family Edition (U).zip"'
+p3849
+sg13
+g3845
+sbsS'Rocket Ranger (U) [!]'
+p3850
+g1
+(g18
+g19
+Ntp3851
+Rp3852
+(dp3853
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rocket Ranger (U) [!].zip"'
+p3854
+sg13
+g3850
+sbsS'Battle of Olympus, The (U)'
+p3855
+g1
+(g18
+g19
+Ntp3856
+Rp3857
+(dp3858
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Battle of Olympus, The (U).zip"'
+p3859
+sg13
+g3855
+sbsS'High Speed (U)'
+p3860
+g1
+(g18
+g19
+Ntp3861
+Rp3862
+(dp3863
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/High Speed (U).zip"'
+p3864
+sg13
+g3860
+sbsS'Pill Bros (SMB1 Hack)'
+p3865
+g1
+(g18
+g19
+Ntp3866
+Rp3867
+(dp3868
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Pill Bros (SMB1 Hack).zip"'
+p3869
+sg13
+g3865
+sbsS'Race America (U)'
+p3870
+g1
+(g18
+g19
+Ntp3871
+Rp3872
+(dp3873
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Race America (U).zip"'
+p3874
+sg13
+g3870
+sbsS'Battleship (U)'
+p3875
+g1
+(g18
+g19
+Ntp3876
+Rp3877
+(dp3878
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Battleship (U).zip"'
+p3879
+sg13
+g3875
+sbsS'Indiana Jones and the Last Crusade (U) (Taito)'
+p3880
+g1
+(g18
+g19
+Ntp3881
+Rp3882
+(dp3883
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Indiana Jones and the Last Crusade (U) (Taito).zip"'
+p3884
+sg13
+g3880
+sbsS'Legend of Zelda in SMB World (SMB1 Hack)'
+p3885
+g1
+(g18
+g19
+Ntp3886
+Rp3887
+(dp3888
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Legend of Zelda in SMB World (SMB1 Hack).zip"'
+p3889
+sg13
+g3885
+sbsS'Donkey Kong (JU)'
+p3890
+g1
+(g18
+g19
+Ntp3891
+Rp3892
+(dp3893
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Donkey Kong (JU).zip"'
+p3894
+sg13
+g3890
+sbsS'Kid Klown (U)'
+p3895
+g1
+(g18
+g19
+Ntp3896
+Rp3897
+(dp3898
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Kid Klown (U).zip"'
+p3899
+sg13
+g3895
+sbsS"Wayne's World (U)"
+p3900
+g1
+(g18
+g19
+Ntp3901
+Rp3902
+(dp3903
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wayne\'s World (U).zip"'
+p3904
+sg13
+g3900
+sbsS'Pinball Quest (U)'
+p3905
+g1
+(g18
+g19
+Ntp3906
+Rp3907
+(dp3908
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pinball Quest (U).zip"'
+p3909
+sg13
+g3905
+sbsS'Chapolim Adventure (SMB1 Hack)'
+p3910
+g1
+(g18
+g19
+Ntp3911
+Rp3912
+(dp3913
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Chapolim Adventure (SMB1 Hack).zip"'
+p3914
+sg13
+g3910
+sbsS"Fester's Quest (U) [!]"
+p3915
+g1
+(g18
+g19
+Ntp3916
+Rp3917
+(dp3918
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Fester\'s Quest (U) [!].zip"'
+p3919
+sg13
+g3915
+sbsS'Pac-Man (U) (Namco)'
+p3920
+g1
+(g18
+g19
+Ntp3921
+Rp3922
+(dp3923
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pac Man Roms/Pac-Man (U) (Namco).zip"'
+p3924
+sg13
+g3920
+sbsS'Castle of Dragon (U)'
+p3925
+g1
+(g18
+g19
+Ntp3926
+Rp3927
+(dp3928
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Castle of Dragon (U).zip"'
+p3929
+sg13
+g3925
+sbsS'SMB1 Hard Type (SMB1 Hack) [a3]'
+p3930
+g1
+(g18
+g19
+Ntp3931
+Rp3932
+(dp3933
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/SMB1 Hard Type (SMB1 Hack) [a3].zip"'
+p3934
+sg13
+g3930
+sbsS'Kabuki - Quantum Fighter (U)'
+p3935
+g1
+(g18
+g19
+Ntp3936
+Rp3937
+(dp3938
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Kabuki - Quantum Fighter (U).zip"'
+p3939
+sg13
+g3935
+sbsS'Happy Mario (Mario Bros Hack)'
+p3940
+g1
+(g18
+g19
+Ntp3941
+Rp3942
+(dp3943
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Happy Mario (Mario Bros Hack).zip"'
+p3944
+sg13
+g3940
+sbsS'Mission Cobra (U)'
+p3945
+g1
+(g18
+g19
+Ntp3946
+Rp3947
+(dp3948
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mission Cobra (U).zip"'
+p3949
+sg13
+g3945
+sbsS'Monk Warriors (SMB1 Hack)'
+p3950
+g1
+(g18
+g19
+Ntp3951
+Rp3952
+(dp3953
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Monk Warriors (SMB1 Hack).zip"'
+p3954
+sg13
+g3950
+sbsS'Star Voyager (U)'
+p3955
+g1
+(g18
+g19
+Ntp3956
+Rp3957
+(dp3958
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Star Voyager (U).zip"'
+p3959
+sg13
+g3955
+sbsS'Mendel Palace (U)'
+p3960
+g1
+(g18
+g19
+Ntp3961
+Rp3962
+(dp3963
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mendel Palace (U).zip"'
+p3964
+sg13
+g3960
+sbsS'Legend of Pokemon, The (Zelda Hack)'
+p3965
+g1
+(g18
+g19
+Ntp3966
+Rp3967
+(dp3968
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Legend of Pokemon, The (Zelda Hack).zip"'
+p3969
+sg13
+g3965
+sbsS'Mappy-Land (U)'
+p3970
+g1
+(g18
+g19
+Ntp3971
+Rp3972
+(dp3973
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mappy-Land (U).zip"'
+p3974
+sg13
+g3970
+sbsS'8 Eyes (U)'
+p3975
+g1
+(g18
+g19
+Ntp3976
+Rp3977
+(dp3978
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/8 Eyes (U).zip"'
+p3979
+sg13
+g3975
+sbsS'Robocop 2 (U)'
+p3980
+g1
+(g18
+g19
+Ntp3981
+Rp3982
+(dp3983
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Robocop 2 (U).zip"'
+p3984
+sg13
+g3980
+sbsS"Noah's Ark (E) [!]"
+p3985
+g1
+(g18
+g19
+Ntp3986
+Rp3987
+(dp3988
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Noah\'s Ark (E) [!].zip"'
+p3989
+sg13
+g3985
+sbsS'Deep Dungeon 4 - Kuro no Youjutsushi (J) [T+Eng0.1_OffCourse]'
+p3990
+g1
+(g18
+g19
+Ntp3991
+Rp3992
+(dp3993
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Deep Dungeon 4 - Kuro no Youjutsushi (J) [T+Eng0.1_OffCourse].zip"'
+p3994
+sg13
+g3990
+sbsS'Home Alone (U) [!]'
+p3995
+g1
+(g18
+g19
+Ntp3996
+Rp3997
+(dp3998
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Home Alone (U) [!].zip"'
+p3999
+sg13
+g3995
+sbsS'Lone Ranger, The (U)'
+p4000
+g1
+(g18
+g19
+Ntp4001
+Rp4002
+(dp4003
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Lone Ranger, The (U).zip"'
+p4004
+sg13
+g4000
+sbsS'Jackal (U)'
+p4005
+g1
+(g18
+g19
+Ntp4006
+Rp4007
+(dp4008
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Jackal (U).zip"'
+p4009
+sg13
+g4005
+sbsS"Super Mario Bros 2 - Mario's Nightmare Edition (Hack)"
+p4010
+g1
+(g18
+g19
+Ntp4011
+Rp4012
+(dp4013
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 2/Super Mario Bros 2 - Mario\'s Nightmare Edition (Hack).zip"'
+p4014
+sg13
+g4010
+sbsS'Predator (U)'
+p4015
+g1
+(g18
+g19
+Ntp4016
+Rp4017
+(dp4018
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Predator (U).zip"'
+p4019
+sg13
+g4015
+sbsS'Darkman (U)'
+p4020
+g1
+(g18
+g19
+Ntp4021
+Rp4022
+(dp4023
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Darkman (U).zip"'
+p4024
+sg13
+g4020
+sbsS'Legend of Zelda, The - Curse From the Outskirts (SMB1 Hack)'
+p4025
+g1
+(g18
+g19
+Ntp4026
+Rp4027
+(dp4028
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Legend of Zelda, The - Curse From the Outskirts (SMB1 Hack).zip"'
+p4029
+sg13
+g4025
+sbsS'Pirates! (U)'
+p4030
+g1
+(g18
+g19
+Ntp4031
+Rp4032
+(dp4033
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Pirates! (U).zip"'
+p4034
+sg13
+g4030
+sbsS'Sky Shark (U)'
+p4035
+g1
+(g18
+g19
+Ntp4036
+Rp4037
+(dp4038
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sky Shark (U).zip"'
+p4039
+sg13
+g4035
+sbsS'Elevator Action (U)'
+p4040
+g1
+(g18
+g19
+Ntp4041
+Rp4042
+(dp4043
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Elevator Action (U).zip"'
+p4044
+sg13
+g4040
+sbsS'After Burner (U)'
+p4045
+g1
+(g18
+g19
+Ntp4046
+Rp4047
+(dp4048
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/After Burner (U).zip"'
+p4049
+sg13
+g4045
+sbsS'Tiger-Heli (U)'
+p4050
+g1
+(g18
+g19
+Ntp4051
+Rp4052
+(dp4053
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Tiger-Heli (U).zip"'
+p4054
+sg13
+g4050
+sbsS"Bump'n'Jump (U)"
+p4055
+g1
+(g18
+g19
+Ntp4056
+Rp4057
+(dp4058
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Bump\'n\'Jump (U).zip"'
+p4059
+sg13
+g4055
+sbsS'Uncharted Waters (U)'
+p4060
+g1
+(g18
+g19
+Ntp4061
+Rp4062
+(dp4063
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Uncharted Waters (U).zip"'
+p4064
+sg13
+g4060
+sbsS'Spy Vs Spy (U)'
+p4065
+g1
+(g18
+g19
+Ntp4066
+Rp4067
+(dp4068
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Spy Vs Spy (U).zip"'
+p4069
+sg13
+g4065
+sbsS'Hudson Hawk (U)'
+p4070
+g1
+(g18
+g19
+Ntp4071
+Rp4072
+(dp4073
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Hudson Hawk (U).zip"'
+p4074
+sg13
+g4070
+sbsS'G.I. Joe (U)'
+p4075
+g1
+(g18
+g19
+Ntp4076
+Rp4077
+(dp4078
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/G.I. Joe (U).zip"'
+p4079
+sg13
+g4075
+sbsS'Dungeon Magic - Sword of the Elements (U)'
+p4080
+g1
+(g18
+g19
+Ntp4081
+Rp4082
+(dp4083
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dungeon Magic - Sword of the Elements (U).zip"'
+p4084
+sg13
+g4080
+sbsS'Hunt for Red October, The (U)'
+p4085
+g1
+(g18
+g19
+Ntp4086
+Rp4087
+(dp4088
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Hunt for Red October, The (U).zip"'
+p4089
+sg13
+g4085
+sbsS'Darkwing Duck (U)'
+p4090
+g1
+(g18
+g19
+Ntp4091
+Rp4092
+(dp4093
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Darkwing Duck (U).zip"'
+p4094
+sg13
+g4090
+sbsS'Sesame Street 123 (U)'
+p4095
+g1
+(g18
+g19
+Ntp4096
+Rp4097
+(dp4098
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sesame Street 123 (U).zip"'
+p4099
+sg13
+g4095
+sbsS'Firehouse Rescue (U)'
+p4100
+g1
+(g18
+g19
+Ntp4101
+Rp4102
+(dp4103
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Firehouse Rescue (U).zip"'
+p4104
+sg13
+g4100
+sbsS'Times of Lore (U)'
+p4105
+g1
+(g18
+g19
+Ntp4106
+Rp4107
+(dp4108
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Times of Lore (U).zip"'
+p4109
+sg13
+g4105
+sbsS'Ninja Crusaders (U)'
+p4110
+g1
+(g18
+g19
+Ntp4111
+Rp4112
+(dp4113
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ninja Crusaders (U).zip"'
+p4114
+sg13
+g4110
+sbsS'Muppet Adventure - Chaos at the Carnival (U)'
+p4115
+g1
+(g18
+g19
+Ntp4116
+Rp4117
+(dp4118
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Muppet Adventure - Chaos at the Carnival (U).zip"'
+p4119
+sg13
+g4115
+sbsS'Baseball Stars (U)'
+p4120
+g1
+(g18
+g19
+Ntp4121
+Rp4122
+(dp4123
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Baseball Stars (U).zip"'
+p4124
+sg13
+g4120
+sbsS'Bases Loaded II (U)'
+p4125
+g1
+(g18
+g19
+Ntp4126
+Rp4127
+(dp4128
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Bases Loaded II (U).zip"'
+p4129
+sg13
+g4125
+sbsS'Musashi no Bouken (J) [T+Eng.98_MadHacker+Gaijin]'
+p4130
+g1
+(g18
+g19
+Ntp4131
+Rp4132
+(dp4133
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Musashi no Bouken (J) [T+Eng.98_MadHacker+Gaijin].zip"'
+p4134
+sg13
+g4130
+sbsS'Home Alone 2 - Lost in New York (U)'
+p4135
+g1
+(g18
+g19
+Ntp4136
+Rp4137
+(dp4138
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Home Alone 2 - Lost in New York (U).zip"'
+p4139
+sg13
+g4135
+sbsS'Batman - Return of the Joker (U)'
+p4140
+g1
+(g18
+g19
+Ntp4141
+Rp4142
+(dp4143
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Batman - Return of the Joker (U).zip"'
+p4144
+sg13
+g4140
+sbsS'Tiny Toon Adventures Cartoon Workshop (U)'
+p4145
+g1
+(g18
+g19
+Ntp4146
+Rp4147
+(dp4148
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Tiny Toon Adventures Cartoon Workshop (U).zip"'
+p4149
+sg13
+g4145
+sbsS'Blink 4 (Zelda Hack)'
+p4150
+g1
+(g18
+g19
+Ntp4151
+Rp4152
+(dp4153
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Blink 4 (Zelda Hack).zip"'
+p4154
+sg13
+g4150
+sbsS"Rush'n Attack (U)"
+p4155
+g1
+(g18
+g19
+Ntp4156
+Rp4157
+(dp4158
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Rush\'n Attack (U).zip"'
+p4159
+sg13
+g4155
+sbsS'TaleSpin (U)'
+p4160
+g1
+(g18
+g19
+Ntp4161
+Rp4162
+(dp4163
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/TaleSpin (U).zip"'
+p4164
+sg13
+g4160
+sbsS'I Can Remember (U)'
+p4165
+g1
+(g18
+g19
+Ntp4166
+Rp4167
+(dp4168
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/I Can Remember (U).zip"'
+p4169
+sg13
+g4165
+sbsS'Hammar Mario Bros (SMB1 Hack)'
+p4170
+g1
+(g18
+g19
+Ntp4171
+Rp4172
+(dp4173
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Hammar Mario Bros (SMB1 Hack).zip"'
+p4174
+sg13
+g4170
+sbsS'Taboo - The Sixth Sense (U)'
+p4175
+g1
+(g18
+g19
+Ntp4176
+Rp4177
+(dp4178
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Taboo - The Sixth Sense (U).zip"'
+p4179
+sg13
+g4175
+sbsS'Dizzy The Adventurer (U)'
+p4180
+g1
+(g18
+g19
+Ntp4181
+Rp4182
+(dp4183
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dizzy The Adventurer (U).zip"'
+p4184
+sg13
+g4180
+sbsS'Last Ninja, The (U)'
+p4185
+g1
+(g18
+g19
+Ntp4186
+Rp4187
+(dp4188
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Last Ninja, The (U).zip"'
+p4189
+sg13
+g4185
+sbsS"Nobunaga's Ambition (U)"
+p4190
+g1
+(g18
+g19
+Ntp4191
+Rp4192
+(dp4193
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Nobunaga\'s Ambition (U).zip"'
+p4194
+sg13
+g4190
+sbsS'Blink Ultra Hard (SMB1 Hack)'
+p4195
+g1
+(g18
+g19
+Ntp4196
+Rp4197
+(dp4198
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Blink Ultra Hard (SMB1 Hack).zip"'
+p4199
+sg13
+g4195
+sbsS'Wizards & Warriors 3 (U)'
+p4200
+g1
+(g18
+g19
+Ntp4201
+Rp4202
+(dp4203
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wizards & Warriors 3 (U).zip"'
+p4204
+sg13
+g4200
+sbsS'Dr. Blario (Dr. Mario Hack)'
+p4205
+g1
+(g18
+g19
+Ntp4206
+Rp4207
+(dp4208
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/Dr. Mario/Dr. Blario (Dr. Mario Hack).zip"'
+p4209
+sg13
+g4205
+sbsS'NFL Football (U)'
+p4210
+g1
+(g18
+g19
+Ntp4211
+Rp4212
+(dp4213
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/NFL Football (U).zip"'
+p4214
+sg13
+g4210
+sbsS'Sesame Street ABC (U)'
+p4215
+g1
+(g18
+g19
+Ntp4216
+Rp4217
+(dp4218
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sesame Street ABC (U).zip"'
+p4219
+sg13
+g4215
+sbsS'Splatter House - Wanpaku Graffiti (J) [o1][T+Eng2.0_Spinner8]'
+p4220
+g1
+(g18
+g19
+Ntp4221
+Rp4222
+(dp4223
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Splatter House - Wanpaku Graffiti (J) [o1][T+Eng2.0_Spinner8].zip"'
+p4224
+sg13
+g4220
+sbsS'Chiller (U) [!]'
+p4225
+g1
+(g18
+g19
+Ntp4226
+Rp4227
+(dp4228
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Chiller (U) [!].zip"'
+p4229
+sg13
+g4225
+sbsS'Ninja Gaiden 3 - The Ancient Ship of Doom (U) [!]'
+p4230
+g1
+(g18
+g19
+Ntp4231
+Rp4232
+(dp4233
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Ninja Gaiden 3 - The Ancient Ship of Doom (U) [!].zip"'
+p4234
+sg13
+g4230
+sbsS'Solar Jetman - Hunt for the Golden Warpship (U)'
+p4235
+g1
+(g18
+g19
+Ntp4236
+Rp4237
+(dp4238
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Solar Jetman - Hunt for the Golden Warpship (U).zip"'
+p4239
+sg13
+g4235
+sbsS'Back to the Future II & III (U)'
+p4240
+g1
+(g18
+g19
+Ntp4241
+Rp4242
+(dp4243
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Back to the Future II & III (U).zip"'
+p4244
+sg13
+g4240
+sbsS"Dragon's Lair (U)"
+p4245
+g1
+(g18
+g19
+Ntp4246
+Rp4247
+(dp4248
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Dragon\'s Lair (U).zip"'
+p4249
+sg13
+g4245
+sbsS'Faria - A World of Mystery and Danger! (U)'
+p4250
+g1
+(g18
+g19
+Ntp4251
+Rp4252
+(dp4253
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Faria - A World of Mystery and Danger! (U).zip"'
+p4254
+sg13
+g4250
+sbsS'Godzilla - Monster of Monsters! (U)'
+p4255
+g1
+(g18
+g19
+Ntp4256
+Rp4257
+(dp4258
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Godzilla - Monster of Monsters! (U).zip"'
+p4259
+sg13
+g4255
+sbsS'Wheel of Fortune - Starring Vanna White (U)'
+p4260
+g1
+(g18
+g19
+Ntp4261
+Rp4262
+(dp4263
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wheel of Fortune - Starring Vanna White (U).zip"'
+p4264
+sg13
+g4260
+sbsS'Shingen The Ruler (U)'
+p4265
+g1
+(g18
+g19
+Ntp4266
+Rp4267
+(dp4268
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Shingen The Ruler (U).zip"'
+p4269
+sg13
+g4265
+sbsS'Gothic Mario Bros (SMB1 Hack)'
+p4270
+g1
+(g18
+g19
+Ntp4271
+Rp4272
+(dp4273
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Gothic Mario Bros (SMB1 Hack).zip"'
+p4274
+sg13
+g4270
+sbsS'Silver Surfer (U)'
+p4275
+g1
+(g18
+g19
+Ntp4276
+Rp4277
+(dp4278
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Silver Surfer (U).zip"'
+p4279
+sg13
+g4275
+sbsS'Phantom Fighter (U)'
+p4280
+g1
+(g18
+g19
+Ntp4281
+Rp4282
+(dp4283
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Phantom Fighter (U).zip"'
+p4284
+sg13
+g4280
+sbsS'Final Fantasy Remix (Hack)'
+p4285
+g1
+(g18
+g19
+Ntp4286
+Rp4287
+(dp4288
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Final Fantasy Roms/Hacks/Final Fantasy Remix (Hack).zip"'
+p4289
+sg13
+g4285
+sbsS'Power Blade 2 (U)'
+p4290
+g1
+(g18
+g19
+Ntp4291
+Rp4292
+(dp4293
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Power Blade 2 (U).zip"'
+p4294
+sg13
+g4290
+sbsS'Wai Wai World (J) [T+Eng3.0_Demiforce]'
+p4295
+g1
+(g18
+g19
+Ntp4296
+Rp4297
+(dp4298
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Wai Wai World (J) [T+Eng3.0_Demiforce].zip"'
+p4299
+sg13
+g4295
+sbsS'Big Nose the Caveman (U)'
+p4300
+g1
+(g18
+g19
+Ntp4301
+Rp4302
+(dp4303
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Big Nose the Caveman (U).zip"'
+p4304
+sg13
+g4300
+sbsS'Magic Darts (U)'
+p4305
+g1
+(g18
+g19
+Ntp4306
+Rp4307
+(dp4308
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Magic Darts (U).zip"'
+p4309
+sg13
+g4305
+sbsS'American Gladiators (U)'
+p4310
+g1
+(g18
+g19
+Ntp4311
+Rp4312
+(dp4313
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/American Gladiators (U).zip"'
+p4314
+sg13
+g4310
+sbsS'Super Glove Ball (U)'
+p4315
+g1
+(g18
+g19
+Ntp4316
+Rp4317
+(dp4318
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Super Glove Ball (U).zip"'
+p4319
+sg13
+g4315
+sbsS'Amagon (U)'
+p4320
+g1
+(g18
+g19
+Ntp4321
+Rp4322
+(dp4323
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Amagon (U).zip"'
+p4324
+sg13
+g4320
+sbsS'Stinger (U)'
+p4325
+g1
+(g18
+g19
+Ntp4326
+Rp4327
+(dp4328
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Stinger (U).zip"'
+p4329
+sg13
+g4325
+sbsS'Immortal, The (U)'
+p4330
+g1
+(g18
+g19
+Ntp4331
+Rp4332
+(dp4333
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Immortal, The (U).zip"'
+p4334
+sg13
+g4330
+sbsS"Ivan Ironman Stewart's Super Off-Road (U)"
+p4335
+g1
+(g18
+g19
+Ntp4336
+Rp4337
+(dp4338
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Ivan Ironman Stewart\'s Super Off-Road (U).zip"'
+p4339
+sg13
+g4335
+sbsS"Mario's Moon Adventure (SMB1 Hack)"
+p4340
+g1
+(g18
+g19
+Ntp4341
+Rp4342
+(dp4343
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Mario\'s Moon Adventure (SMB1 Hack).zip"'
+p4344
+sg13
+g4340
+sbsS'Rad Racket - Deluxe Tennis II (U) [!]'
+p4345
+g1
+(g18
+g19
+Ntp4346
+Rp4347
+(dp4348
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Rad Racket - Deluxe Tennis II (U) [!].zip"'
+p4349
+sg13
+g4345
+sbsS"Frank's First Super Mario Bros 1 (SMB1 Hack)"
+p4350
+g1
+(g18
+g19
+Ntp4351
+Rp4352
+(dp4353
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/The Frank Series/Frank\'s First Super Mario Bros 1 (SMB1 Hack).zip"'
+p4354
+sg13
+g4350
+sbsS'Battletoads (U)'
+p4355
+g1
+(g18
+g19
+Ntp4356
+Rp4357
+(dp4358
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Battletoads (U).zip"'
+p4359
+sg13
+g4355
+sbsS'Alien 3 (U)'
+p4360
+g1
+(g18
+g19
+Ntp4361
+Rp4362
+(dp4363
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Alien 3 (U).zip"'
+p4364
+sg13
+g4360
+sbsS'Tombs and Treasure (U)'
+p4365
+g1
+(g18
+g19
+Ntp4366
+Rp4367
+(dp4368
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Tombs and Treasure (U).zip"'
+p4369
+sg13
+g4365
+sbsS'VS TKO Boxing (VS) [!]'
+p4370
+g1
+(g18
+g19
+Ntp4371
+Rp4372
+(dp4373
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/VS TKO Boxing (VS) [!].zip"'
+p4374
+sg13
+g4370
+sbsS'Volleyball (U)'
+p4375
+g1
+(g18
+g19
+Ntp4376
+Rp4377
+(dp4378
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Sports Roms/Volleyball (U).zip"'
+p4379
+sg13
+g4375
+sbsS"Ganon's Revenge v1.1 (Zelda Hack)"
+p4380
+g1
+(g18
+g19
+Ntp4381
+Rp4382
+(dp4383
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/Ganon\'s Revenge v1.1 (Zelda Hack).zip"'
+p4384
+sg13
+g4380
+sbsS'SCAT - Special Cybernetic Attack Team (U)'
+p4385
+g1
+(g18
+g19
+Ntp4386
+Rp4387
+(dp4388
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/SCAT - Special Cybernetic Attack Team (U).zip"'
+p4389
+sg13
+g4385
+sbsS'Shooting Range (U)'
+p4390
+g1
+(g18
+g19
+Ntp4391
+Rp4392
+(dp4393
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Shooting Range (U).zip"'
+p4394
+sg13
+g4390
+sbsS'Terminator 2 - Judgment Day (U)'
+p4395
+g1
+(g18
+g19
+Ntp4396
+Rp4397
+(dp4398
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Terminator 2 - Judgment Day (U).zip"'
+p4399
+sg13
+g4395
+sbsS'EDS Zelda (Zelda Hack)'
+p4400
+g1
+(g18
+g19
+Ntp4401
+Rp4402
+(dp4403
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Zelda Roms/Hacks/EDS Zelda (Zelda Hack).zip"'
+p4404
+sg13
+g4400
+sbsS'Winter Games (U)'
+p4405
+g1
+(g18
+g19
+Ntp4406
+Rp4407
+(dp4408
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Winter Games (U).zip"'
+p4409
+sg13
+g4405
+sbsS'Nekketsu Kouha - Kunio Kun (J) [T+Eng0.95_oRdErEDchaos]'
+p4410
+g1
+(g18
+g19
+Ntp4411
+Rp4412
+(dp4413
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Nekketsu Kouha - Kunio Kun (J) [T+Eng0.95_oRdErEDchaos].zip"'
+p4414
+sg13
+g4410
+sbsS'Caffeine Bros (SMB1 Hack)'
+p4415
+g1
+(g18
+g19
+Ntp4416
+Rp4417
+(dp4418
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/Caffeine Bros (SMB1 Hack).zip"'
+p4419
+sg13
+g4415
+sbsS'Herakles no Eikou - Toujin Makyou Den (J) [T+Eng_Battsu]'
+p4420
+g1
+(g18
+g19
+Ntp4421
+Rp4422
+(dp4423
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Herakles no Eikou - Toujin Makyou Den (J) [T+Eng_Battsu].zip"'
+p4424
+sg13
+g4420
+sbsS'Hydlide (U)'
+p4425
+g1
+(g18
+g19
+Ntp4426
+Rp4427
+(dp4428
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Hydlide (U).zip"'
+p4429
+sg13
+g4425
+sbsS'EZ Hell (Mario Bros Hack)'
+p4430
+g1
+(g18
+g19
+Ntp4431
+Rp4432
+(dp4433
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/EZ Hell (Mario Bros Hack).zip"'
+p4434
+sg13
+g4430
+sbsS'Faxanadu (U)'
+p4435
+g1
+(g18
+g19
+Ntp4436
+Rp4437
+(dp4438
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Faxanadu (U).zip"'
+p4439
+sg13
+g4435
+sbsS'F-15 City War (U)'
+p4440
+g1
+(g18
+g19
+Ntp4441
+Rp4442
+(dp4443
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/F-15 City War (U).zip"'
+p4444
+sg13
+g4440
+sbsS'Blues Brothers, The (U)'
+p4445
+g1
+(g18
+g19
+Ntp4446
+Rp4447
+(dp4448
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Blues Brothers, The (U).zip"'
+p4449
+sg13
+g4445
+sbsS'Blaster Master (U)'
+p4450
+g1
+(g18
+g19
+Ntp4451
+Rp4452
+(dp4453
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Blaster Master (U).zip"'
+p4454
+sg13
+g4450
+sbsS'EraserHead (SMB1 Hack)'
+p4455
+g1
+(g18
+g19
+Ntp4456
+Rp4457
+(dp4458
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Mario Roms/Hacks/SMB 1/EraserHead (SMB1 Hack).zip"'
+p4459
+sg13
+g4455
+sbsS'River City Ransom (U)'
+p4460
+g1
+(g18
+g19
+Ntp4461
+Rp4462
+(dp4463
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/River City Ransom (U).zip"'
+p4464
+sg13
+g4460
+sbsS'Hatris (U)'
+p4465
+g1
+(g18
+g19
+Ntp4466
+Rp4467
+(dp4468
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Hatris (U).zip"'
+p4469
+sg13
+g4465
+sbsS'Marble Madness (U)'
+p4470
+g1
+(g18
+g19
+Ntp4471
+Rp4472
+(dp4473
+g10
+I00
+sg23
+S'mednafen "/home/asmund/Dokumenter/NES/Marble Madness (U).zip"'
+p4474
+sg13
+g4470
+sbstp4475
+Rp4476
+(dp4477
+g9
+I0
+sg10
+I00
+sg11
+I5
+sg12
+I43
+sg13
+S'All games'
+p4478
+sbstp4479
+Rp4480
+(dp4481
+g9
+I0
+sg10
+I00
+sg11
+I0
+sg12
+I43
+sg13
+S'NES'
+p4482
+sba.
