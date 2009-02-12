@@ -27,5 +27,6 @@ while 1:
             menu.Menu.path[-1].pgdn()
         elif event.type == KEYDOWN and event.key == K_w:
             pygame.display.toggle_fullscreen()
-    if sys.argv[-1] != "--no-joystick" and not pygame.joystick.get_count():
+    if sys.argv[-1] != "--no-joystick" and not "js0" in os.listdir("/dev/input"):
+        print "No joysticks detected. use '--no-joystick' option to run without joystick/gamepad"
         init.exit()

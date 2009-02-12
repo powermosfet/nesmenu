@@ -4,6 +4,7 @@ list = []
 
 def rescan():
     global list
+    list = []
     joystick.display("Please wait...")
     file = init.requireFile("collections.conf")
     lines = file.readlines()
