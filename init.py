@@ -1,7 +1,9 @@
 import os, sys, pygame, menu, db, joystick
 from pygame.locals import *
 
-pygame.init()
+pygame.display.init()
+pygame.joystick.init()
+pygame.font.init()
 pygame.mouse.set_visible(False)
 
 installDir = os.path.dirname(os.path.abspath(__file__))
