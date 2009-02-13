@@ -33,9 +33,8 @@ while 1:
         elif event.type == KEYDOWN and event.key == K_w:
             pygame.display.toggle_fullscreen()
 
-
     detectLoop+=1
-    if (detectLoop < 100):
+    if (detectLoop > 10000):
         detectLoop = 0
         foundJoy = joystick.detectJoy()
 
