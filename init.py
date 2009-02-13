@@ -1,11 +1,20 @@
 import os, sys, pygame, menu, db, joystick
 from pygame.locals import *
+
 pygame.init()
 pygame.mouse.set_visible(False)
 
-installDir = "/home/asmund/Dokumenter/programmering/nesmenu2/"
+installDir = os.path.dirname(os.path.abspath(__file__))
 
 def requireFile(fileName):
+    """look in the current dir first, then the home dir
+    """
+    try:
+        f = open(os.path.join( installDir, fileName), 'r')
+    except:
+        print "no local file ", fileName
+        pass
+
     try:
         os.chdir(os.getenv("HOME") + "/.nesmenu")
     except:
@@ -80,11 +89,41 @@ def exit():
     db.save()
     sys.exit()
 
+def mergeFlags(c):
+    for x in sys.argv:
+        if (x.find('--', 0, 2) == -1):
+            continue
+        k,junk,v = x.replace('--', '').partition('=')
+        c[k] = v
+
+
+def checkConfig(c):
+    try:
+        if ('no-joystick' not in c and c['warnMissingJs'] == 1 and not "js0" in os.listdir("/dev/input")):
+            print "No joysticks detected. use '--no-joystick' option to run without joystick/gamepad"
+    except KeyError:
+        pass 
+
+
 config = readConfig()
 
+mergeFlags(config)
+
+checkConfig(config)
+
 os.chdir(installDir)
-config['screen'] = pygame.display.set_mode( (0,0) , pygame.FULLSCREEN )
-config['font'] = pygame.font.Font(config['font'], config['textSize'])
+
+displayFlags = 0
+if 'useFullscreen' not in config or config['useFullscreen'] == 0:
+    displayFlags = 0
+    displaySize = (640, 480)
+else:
+    displayFlags |= pygame.FULLSCREEN
+    displaySize = (0, 0)
+
+
+config['screen'] = pygame.display.set_mode( displaySize , displayFlags )
+config['font']   = pygame.font.Font(config['font'], config['textSize'])
 
 joystick.display("Initializing...")
 
