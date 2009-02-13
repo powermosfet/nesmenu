@@ -3,6 +3,11 @@
 import sys, pygame, time, os, init, menu, joystick
 from pygame.locals import *
 
+detectLoop = 0
+foundJoy   = joystick.detectJoy()
+if (foundJoy > 0):
+    print "Found ", foundJoy, " joysticks"
+
 while 1:
     for event in pygame.event.get():
         if event.type == QUIT:
@@ -28,6 +33,11 @@ while 1:
         elif event.type == KEYDOWN and event.key == K_w:
             pygame.display.toggle_fullscreen()
 
-    print (joystick.detectJoy() )
-    if (joystick.detectJoy() < 1) and "exitOnDisconnect" in init.config.keys() and init.config["exitOnDisconnect"]:
+
+    detectLoop+=1
+    if (detectLoop < 100):
+        detectLoop = 0
+        foundJoy = joystick.detectJoy()
+
+    if (foundJoy < 1) and "exitOnDisconnect" in init.config.keys() and init.config["exitOnDisconnect"]:
         init.exit("Joystick disconnected")

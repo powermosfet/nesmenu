@@ -26,8 +26,8 @@ def detectJoy():
     number of joysticks on init().  So you cannot detect an unplug event
     w/o quitting the joystick module
     """
-    #pygame.joystick.quit()
-    #pygame.joystick.init()
+    pygame.joystick.quit()
+    pygame.joystick.init()
     return  pygame.joystick.get_count()
 
 def display(message):
