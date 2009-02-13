@@ -6,12 +6,8 @@ joyCount = 0
 
 def joyInit():
     global joyObject
-    global joyCount
-    pygame.joystick.init()
     joyCount = detectJoy()
-    if joyCount:
-        joyObject = pygame.joystick.Joystick(pygame.joystick.get_count()-1)
-        joyObject.init()
+
     try:
         returnConfig = pickle.load(open(os.getenv("HOME") + "/.nesmenu/joysetup", 'rb'))
     except:
@@ -26,9 +22,18 @@ def detectJoy():
     number of joysticks on init().  So you cannot detect an unplug event
     w/o quitting the joystick module
     """
+    global joyObject
+    if joyObject != None:
+       joyObject.quit()
+
     pygame.joystick.quit()
     pygame.joystick.init()
-    return  pygame.joystick.get_count()
+    simpleCount =  pygame.joystick.get_count()
+    if simpleCount > 0:
+        joyObject = pygame.joystick.Joystick(pygame.joystick.get_count()-1)
+        joyObject.init()
+
+	return simpleCount
 
 def display(message):
     init.config['screen'].fill(init.config['bgColor'])
@@ -53,6 +58,7 @@ def joySetup():
             menu.Menu.path[-1].enter()
             joystick = backup
             return
+        print e
         joystick[event] = {}
         if e.type == JOYAXISMOTION:
             joystick[event]["type"] = "axis"

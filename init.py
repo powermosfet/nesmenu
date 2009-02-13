@@ -2,7 +2,6 @@ import os, sys, pygame, menu, db, joystick
 from pygame.locals import *
 
 pygame.display.init()
-pygame.joystick.init()
 pygame.font.init()
 pygame.mouse.set_visible(False)
 
@@ -112,7 +111,6 @@ config = readConfig()
 
 mergeFlags(config)
 
-checkConfig(config)
 
 os.chdir(installDir)
 
@@ -128,6 +126,7 @@ else:
 config['screen'] = pygame.display.set_mode( displaySize , displayFlags )
 config['font']   = pygame.font.Font(config['font'], config['textSize'])
 
+checkConfig(config)
 joystick.display("Initializing...")
 
 db.get()
