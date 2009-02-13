@@ -53,7 +53,6 @@ def joySetup():
     for event in events:
         display("Please press " + event)
         e = waitForEvent()
-        print e
         joystick[event] = {}
         if e.type == JOYAXISMOTION:
             joystick[event]["type"] = "axis"
@@ -74,11 +73,13 @@ def joySetup():
 
 def waitForEvent():
     returnEvent = None
+    pygame.event.clear()
     while 1:
         for event in pygame.event.get():
+            print event
             if event.type == JOYBUTTONDOWN:
                 returnEvent = event
-            elif event.type == JOYAXISMOTION and ( event.value == 1 or event.value == -1 ):
+            elif event.type == JOYAXISMOTION and ( event.value > 0.5 or event.value < -0.5 ):
                 returnEvent = event
         if returnEvent:
             return returnEvent
@@ -86,8 +87,17 @@ def waitForEvent():
 def checkEvent(event, command):
     if joystick[command] and event.type == JOYBUTTONDOWN and joystick[command]["type"] == "button" and joystick[command]["joy"] == event.joy and joystick[command]["button"] == event.button:
         return True
-    if joystick[command] and event.type == JOYAXISMOTION and joystick[command]["type"] == "axis" and joystick[command]["joy"] == event.joy and joystick[command]["axis"] == event.axis and joystick[command]["value"] == event.value:
-        return True
+    if joystick[command] and event.type == JOYAXISMOTION and joystick[command]["type"] == "axis" and joystick[command]["joy"] == event.joy and joystick[command]["axis"] == event.axis:
+        if event.value == 0:
+            return False
+        #check strength of pads
+        if event.value > 0 and  joystick[command]["value"] > 0 and joystick[command]["value"] <= event.value:
+            #print  joystick[command]["value"], event.value
+            return True
+
+        if event.value < 0 and  joystick[command]["value"] < 0 and joystick[command]["value"] >= event.value:
+            print joystick[command]["value"],  event.value
+            return True
     return False
     
 joystick = joyInit()
