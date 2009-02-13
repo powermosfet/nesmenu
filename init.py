@@ -1,4 +1,4 @@
-import os, sys, pygame, menu, db, joystick
+import os, sys, pygame, menu, db, joystick, shutil
 from pygame.locals import *
 
 pygame.display.init()
@@ -17,25 +17,26 @@ def requireFile(fileName):
         pass
 
     try:
-        os.chdir(os.getenv("HOME") + "/.nesmenu")
+        os.chdir(os.path.expanduser("~/.nesmenu"))
     except:
         try:
-            os.makedirs(os.getenv("HOME") + "/.nesmenu")
+            os.makedirs(os.path.expanduser("~/.nesmenu"))
         except:
-            print "Could not create directory", os.getenv("HOME") + "/.nesmenu", "aborting..."
+            print "Could not create directory", os.path.expanduser("~/.nesmenu"), "aborting..."
             sys.exit()
-    else:
+    finally:
         try:
-            f = open(os.getenv("HOME") + "/.nesmenu/" + fileName, 'r')
+            f = open(os.path.expanduser("~/.nesmenu/") + fileName, 'r')
         except:
             try:
-                shutil.copy(installDir + fileName, os.getenv("HOME") + "/.nesmenu/")
+                shutil.copy(os.path.join(installDir,fileName), os.path.expanduser("~/.nesmenu/"))
             except:
-                print "Could not create file", os.getenv("HOME") + "/.nesmenu/" + fileName, "aborting..."
+                print "Could not create file", os.path.expanduser("~/.nesmenu/") + fileName, "aborting..."
                 sys.exit()
             else:
-                print "Copied default file", fileName, "to", os.getenv("HOME")+"/.nesmenu"
-        else:
+                print "Copied default file", fileName, "to", os.path.expanduser("~/.nesmenu")
+                f = open(os.path.expanduser("~/.nesmenu/") + fileName, 'r')
+        finally:
             return f
         
 def readConfig():
@@ -100,8 +101,9 @@ def mergeFlags(c):
 
 
 def checkConfig(c):
+    return 1
     try:
-        if (c['warnMissingJs'] == 1 and not joystick.detectJoy()):
+        if (c['warnMissingJs'] == 1 and not "js0" in os.listdir("/dev/input")):
             print "Warning: No joystick connected"
     except KeyError:
         pass 
@@ -111,6 +113,7 @@ config = readConfig()
 
 mergeFlags(config)
 
+checkConfig(config)
 
 os.chdir(installDir)
 
@@ -126,7 +129,6 @@ else:
 config['screen'] = pygame.display.set_mode( displaySize , displayFlags )
 config['font']   = pygame.font.Font(config['font'], config['textSize'])
 
-checkConfig(config)
 joystick.display("Initializing...")
 
 db.get()
