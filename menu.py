@@ -112,6 +112,7 @@ class Exe(Item):
         os.system(self.command)
         time.sleep(1)
         pygame.display.init()
+        pygame.font.init()
         pygame.mouse.set_visible(False)
         pygame.joystick.init()
         if joystick.joyObject:

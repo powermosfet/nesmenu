@@ -2,11 +2,14 @@ import init, pygame, pickle, os, time, menu
 from pygame.locals import *
 
 joyObject = None
+joyCount = 0
 
 def joyInit():
     global joyObject
+    global joyCount
     pygame.joystick.init()
-    if pygame.joystick.get_count():
+    joyCount = pygame.joystick.get_count()
+    if joyCount:
         joyObject = pygame.joystick.Joystick(pygame.joystick.get_count()-1)
         joyObject.init()
     try:
