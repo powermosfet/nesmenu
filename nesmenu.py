@@ -28,6 +28,5 @@ while 1:
         elif event.type == KEYDOWN and event.key == K_w:
             pygame.display.toggle_fullscreen()
 
-#    if sys.argv[-1] != "--no-joystick" and not "js0" in os.listdir("/dev/input"):
-#        print "No joysticks detected. use '--no-joystick' option to run without joystick/gamepad"
-#        init.exit()
+    if joystick.joyCount and not "js0" in os.listdir("/dev/input") and "exitOnDisconnect" in init.config.keys() and init.config["exitOnDisconnect"]:
+        init.exit("Joystick disconnected")

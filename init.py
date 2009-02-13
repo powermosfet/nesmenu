@@ -1,7 +1,8 @@
 import os, sys, pygame, menu, db, joystick
 from pygame.locals import *
 
-pygame.init()
+pygame.display.init()
+pygame.font.init()
 pygame.mouse.set_visible(False)
 
 installDir = os.path.dirname(os.path.abspath(__file__))
@@ -85,7 +86,8 @@ def menuParse(lines):
         index += 1
     return returnMenu
 
-def exit():
+def exit(message = ""):
+    print message
     db.save()
     sys.exit()
 
@@ -99,8 +101,8 @@ def mergeFlags(c):
 
 def checkConfig(c):
     try:
-        if ('no-joystick' not in c and c['warnMissingJs'] == 1 and not "js0" in os.listdir("/dev/input")):
-            print "No joysticks detected. use '--no-joystick' option to run without joystick/gamepad"
+        if (c['warnMissingJs'] == 1 and not "js0" in os.listdir("/dev/input")):
+            print "Warning: No joystick connected"
     except KeyError:
         pass 
 
