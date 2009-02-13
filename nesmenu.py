@@ -34,7 +34,7 @@ while 1:
             pygame.display.toggle_fullscreen()
 
     detectLoop+=1
-    if (detectLoop > 10000):
+    if (detectLoop > 100000):
         detectLoop = 0
         foundJoy = joystick.detectJoy()
 
