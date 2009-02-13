@@ -4,5 +4,5 @@ textSize: 40
 bgColor: (0, 0, 0)
 textColor: (0, 255, 0)
 linespace: 1
-useFullscreen: True
-exitOnDisconnect: True
+useFullscreen: 1
+exitOnDisconnect: 0
