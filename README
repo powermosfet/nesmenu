@@ -1,5 +1,1 @@
-To make nesmenu know where the default configfiles are, you need to adjust the variable "installpath" found in "init.py"
-
 Run nesmenu.py, the first time it will create the folder ~/.nesmenu, and copy the default configfiles there. Ajust them to your needs, and start nesmenu again.
-
-Note that NESmenu is intended to be run with a gamepad connected. If you don't want this, run nesmenu.py --no-joystick
