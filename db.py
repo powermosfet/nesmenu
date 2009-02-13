@@ -29,13 +29,13 @@ def rescan():
 def get():
     global list
     try:
-        list = pickle.load(open(os.getenv("HOME") + "/.nesmenu/collections.dat", 'rb'))
+        list = pickle.load(open(os.path.expanduser("~") + "/.nesmenu/collections.dat", 'rb'))
     except:
         list = []
 
 def save():
     #print list
     #try:
-    pickle.dump(list, open(os.getenv("HOME") + "/.nesmenu/collections.dat", 'wb'))
+    pickle.dump(list, open(os.path.expanduser("~") + "/.nesmenu/collections.dat", 'wb'))
     #except:
     #    print "Could not save collections database. Sorry!"

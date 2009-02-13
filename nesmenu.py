@@ -9,7 +9,12 @@ if (foundJoy > 0):
     print "Found ", foundJoy, " joysticks"
 
 while 1:
-    for event in pygame.event.get():
+    event = pygame.event.poll();
+    if event.type != pygame.locals.NOEVENT:
+
+        if event.type == pygame.locals.JOYAXISMOTION:
+            pygame.event.clear(pygame.locals.JOYAXISMOTION)
+
         if event.type == QUIT:
             init.exit()
         elif event.type == KEYDOWN and event.key == K_ESCAPE:
