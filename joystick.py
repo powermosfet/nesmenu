@@ -8,7 +8,7 @@ def joyInit():
     global joyObject
     global joyCount
     pygame.joystick.init()
-    joyCount = pygame.joystick.get_count()
+    joyCount = detectJoy()
     if joyCount:
         joyObject = pygame.joystick.Joystick(pygame.joystick.get_count()-1)
         joyObject.init()
@@ -20,6 +20,15 @@ def joyInit():
         for x in events:
             returnConfig[x] = None
     return returnConfig
+
+def detectJoy():
+    """Quit and init must be called constantly because pygame caches the 
+    number of joysticks on init().  So you cannot detect an unplug event
+    w/o quitting the joystick module
+    """
+    #pygame.joystick.quit()
+    #pygame.joystick.init()
+    return  pygame.joystick.get_count()
 
 def display(message):
     init.config['screen'].fill(init.config['bgColor'])

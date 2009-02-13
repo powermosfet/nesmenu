@@ -102,7 +102,7 @@ def mergeFlags(c):
 
 def checkConfig(c):
     try:
-        if (c['warnMissingJs'] == 1 and not "js0" in os.listdir("/dev/input")):
+        if (c['warnMissingJs'] == 1 and not joystick.detectJoy()):
             print "Warning: No joystick connected"
     except KeyError:
         pass 
