@@ -20,6 +20,8 @@ def rescan():
             for file in folder[-1]:
                 suffix = file.split(".")[-1]
                 if suffix == conf["filetype"]:
+                    if "removeHacks" in conf.keys() and conf["removeHacks"] and "hack" in file.lower():
+                        continue
                     gameName = file[:-1-len(suffix)]
                     list[-1][1][gameName] = menu.Exe(gameName, conf["emulator"]+' "'+folder[0]+"/"+file+'"')
     init.getMenu()
