@@ -108,6 +108,18 @@ def checkConfig(c):
     except KeyError:
         pass 
 
+def startDisplay():
+	global config
+	displayFlags = 0
+	if 'useFullscreen' not in config or config['useFullscreen'] == 0:
+		displayFlags = 0
+		displaySize = (640, 480)
+	else:
+		displayFlags |= pygame.FULLSCREEN
+		displaySize = (0, 0)
+
+	config['screen'] = pygame.display.set_mode( displaySize , displayFlags )
+
 
 config = readConfig()
 
@@ -117,16 +129,8 @@ checkConfig(config)
 
 os.chdir(installDir)
 
-displayFlags = 0
-if 'useFullscreen' not in config or config['useFullscreen'] == 0:
-    displayFlags = 0
-    displaySize = (640, 480)
-else:
-    displayFlags |= pygame.FULLSCREEN
-    displaySize = (0, 0)
+startDisplay()
 
-
-config['screen'] = pygame.display.set_mode( displaySize , displayFlags )
 config['font']   = pygame.font.Font(config['font'], config['textSize'])
 
 joystick.display("Initializing...")
