@@ -110,7 +110,6 @@ class Exe(Item):
         pygame.font.quit()
         pygame.display.quit()
         os.system(self.command)
-        time.sleep(1)
         pygame.display.init()
         init.startDisplay()
         pygame.font.init()
