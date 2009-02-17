@@ -117,7 +117,6 @@ def startDisplay():
 	else:
 		displayFlags |= pygame.FULLSCREEN
 		displaySize = (0, 0)
-
 	config['screen'] = pygame.display.set_mode( displaySize , displayFlags )
 
 
@@ -130,6 +129,8 @@ checkConfig(config)
 os.chdir(installDir)
 
 startDisplay()
+
+config['itemsPerPage'] = int( ( config['screen'].get_size()[1] - 3.5 * config['textSize'] ) / ( config['textSize'] + config['linespace'] ) ) - 1
 
 config['font']   = pygame.font.Font(config['font'], config['textSize'])
 

@@ -107,12 +107,10 @@ class Exe(Item):
         if joystick.joyObject:
             joystick.joyObject.quit()
         pygame.joystick.quit()
-        pygame.font.quit()
         pygame.display.quit()
         os.system(self.command)
         pygame.display.init()
         init.startDisplay()
-        pygame.font.init()
         pygame.mouse.set_visible(False)
         pygame.joystick.init()
         if joystick.joyObject:
