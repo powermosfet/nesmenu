@@ -1,7 +1,8 @@
-Run nesmenu.py, the first time it will create the folder ~/.nesmenu, and copy the default configfiles there. Ajust them to your needs, and start nesmenu again.
+Run nesmenu.py, the first time it will create the folder ~/.nesmenu, and copy the default configfiles there.
+Ajust them to your needs, and start nesmenu again.
 
 TODO:
-- Fix a segmentation fault that sometimes occurs immediately after the emulator exits.
-- Set itemsPerPage option automatically based on resolution and textsize
+- Fix a segmentation fault that sometimes occurs immediately after the emulator exits. [Seems to be ok now, needs some testing]
+- Set itemsPerPage option automatically based on resolution and textsize               [DONE!]
 - Fix db.rescan so that favourites are not lost during rescan
 - Maybe, if I feel up for it, add support for "analog" joysticks
