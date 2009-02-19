@@ -51,7 +51,7 @@ def readConfig():
 
 def getMenu():
     #print db.list
-    menuFile = requireFile("menu.cfg")
+    menuFile = requireFile("menu.conf")
     menuLines = menuFile.readlines()
     menu.Menu.path.append(menuParse(menuLines))
 
