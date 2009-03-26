@@ -3,11 +3,16 @@ from pygame.locals import *
 
 joyObject = None
 joyCount = 0
+firstJoy = 0
 
 def joyInit():
     global joyObject
+    global joyCount
+    global firstJoy
+    pygame.joystick.init()
+    firstJoy = pygame.joystick.get_count() - 1
     joyCount = detectJoy()
-
+    
     try:
         returnConfig = pickle.load(open(os.getenv("HOME") + "/.nesmenu/joysetup", 'rb'))
     except:
@@ -30,7 +35,7 @@ def detectJoy():
     pygame.joystick.init()
     simpleCount =  pygame.joystick.get_count()
     if simpleCount > 0:
-        joyObject = pygame.joystick.Joystick(pygame.joystick.get_count()-1)
+        joyObject = pygame.joystick.Joystick(firstJoy)
         joyObject.init()
 
 	return simpleCount
